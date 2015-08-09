@@ -1,5 +1,5 @@
 import re
-
+from scripts.utils.twitter import convert_timestamp
 TWITTER_PROFILE_FIELDS = ["id", "name", "screen_name", "location",
     "description", "url", "followers_count", "friends_count", "listed_count",
     "created_at", "favourites_count", "statuses_count", "utc_offset", "time_zone",
@@ -11,14 +11,19 @@ TWEET_FIELDS = ["id", "user_id", "source", "created_at",
     "in_reply_to_screen_name", "in_reply_to_status_id",
     "retweeted_status_id", "retweeted_status_user_id", "retweeted_status_user_screen_name"]
 
-def extract_twitter_profile(obj):
+def extract_twitter_profile(profile):
     """
-    obj is a dict representing a Twitter user profile as returned by the API
+    profile is a dict representing a Twitter user profile as returned by the API
 
     returns: a dict with filtered attributes
     """
-    return {att: obj[att] for att in TWITTER_PROFILE_FIELDS}
-
+    d = {}
+    for att in TWITTER_PROFILE_FIELDS:
+        if att == 'created_at':
+            d['created_at'] = convert_timestamp(profile['created_at'])
+        else:
+            d[att] = profile[att]
+    return d
 
 
 def extract_tweet(t):
@@ -35,6 +40,8 @@ def extract_tweet(t):
         elif f == 'source':
             x = re.search(r'(?<=>).+?(?=<\/a>)', t['source'])
             d['source'] = x.group() if x else t['source']
+        elif f == 'created_at':
+            d['created_at'] = convert_timestamp(t['created_at'])
         elif f == 'text':
             d['text'] = re.sub("\s+", ' ', t['text']).strip()
         elif f == 'retweeted_status_id':

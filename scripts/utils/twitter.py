@@ -1,9 +1,10 @@
 # Helpful functions for accessing Twitter
 import tweepy
-TWITTER_PROFILE_BATCH_SIZE = 100
 from math import ceil
 from datetime import datetime
+import time
 
+TWITTER_PROFILE_BATCH_SIZE = 100
 
 def get_api(access_token, access_token_secret, consumer_key, consumer_secret):
     """
