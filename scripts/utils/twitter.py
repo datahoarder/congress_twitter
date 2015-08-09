@@ -2,6 +2,8 @@
 import tweepy
 TWITTER_PROFILE_BATCH_SIZE = 100
 from math import ceil
+from datetime import datetime
+
 
 def get_api(access_token, access_token_secret, consumer_key, consumer_secret):
     """
@@ -43,9 +45,9 @@ def fetch_profiles(api, screen_names = [], ids = []):
         try:
             for user in api.lookup_users(**{key: batch}):
                 profiles.append(user._json)
-        except tweepy.RateLimitError:
-            print("Rate limit error, sleeping")
-            sleep(60 * 5) # five minutes
+        # except tweepy.RateLimitError:
+        #     print("Rate limit error, sleeping")
+        #     sleep(60 * 5) # five minutes
         # catch situation in which none of the names in the batch are found
         # or else Tweepy will error out
         except tweepy.error.TweepError as e:
@@ -63,7 +65,7 @@ def fetch_user_timeline(api, screen_name, batch_limit = 0):
     batches is number of requests (at 200 tweets each) to make. 0 means maximum
     """
     tweets = []
-    cursor = tweepy.Cursor(api.user_timeline, id = screen_name,
+    cursor = tweepy.Cursor(api.user_timeline, screen_name = screen_name,
       trim_user = True, exclude_replies = False, include_rts = True, count = 200)
     pcursor = cursor.pages(batch_limit)
     while True:
@@ -77,7 +79,20 @@ def fetch_user_timeline(api, screen_name, batch_limit = 0):
 
 
 
-def convert_twitter_timestamp(t):
+def fetch_friends_ids(api, screen_name):
+    ids = []
+    cursor = tweepy.Cursor(api.friends_ids, screen_name = screen_name)
+    pcursor = cursor.pages()
+    while True:
+        try:
+            page = pcursor.next()
+            ids.extend(page)
+        except StopIteration:
+            break
+    return ids
+
+
+def convert_timestamp(t):
     """
     t is something like 'Sat Jan 30 03:36:19 +0000 2010'
     return: a datetime object

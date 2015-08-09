@@ -1,5 +1,6 @@
 # Hide bulk files
 stash/compiled/
+creds.json
 # Ignore cache
 /.sass-cache
 /.cache
