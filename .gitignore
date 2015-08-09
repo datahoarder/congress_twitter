@@ -1,5 +1,5 @@
-# Hide bulk files
-stash/compiled/
+# Hide large directories
+/stash/fetched/tweets
 creds.json
 # Ignore cache
 /.sass-cache
