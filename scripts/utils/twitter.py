@@ -26,17 +26,15 @@ def get_api(access_token, access_token_secret, consumer_key, consumer_secret):
 def fetch_profiles(api, screen_names = [], ids = []):
     """
     A wrapper method around tweepy.API.lookup_users that handles the batch lookup of
-      screen_names. Assuming number of screen_names < 10000, this should not typically
-      run afoul of API limits (i.e. it's a good enough hack for now)
+      screen_names.
 
     `api` is a tweepy.API handle
     `screen_names` is a list of twitter screen names
 
-    Returns: a list of dicts representing Twitter profiles
+    yields: a dict representing a Twitter profile
 
     https://dev.twitter.com/rest/reference/get/users/lookup
     """
-    profiles = []
     key, lookups = ['user_ids', ids] if ids else ['screen_names', screen_names]
     for batch_idx in range(ceil(len(lookups) / TWITTER_PROFILE_BATCH_SIZE)):
         offset = batch_idx * TWITTER_PROFILE_BATCH_SIZE
@@ -44,7 +42,8 @@ def fetch_profiles(api, screen_names = [], ids = []):
         batch = lookups[offset:(offset + TWITTER_PROFILE_BATCH_SIZE)]
         try:
             for user in api.lookup_users(**{key: batch}):
-                profiles.append(user._json)
+                j = user._json
+                yield j
         # except tweepy.RateLimitError:
         #     print("Rate limit error, sleeping")
         #     sleep(60 * 5) # five minutes
@@ -55,7 +54,6 @@ def fetch_profiles(api, screen_names = [], ids = []):
                 pass
             else: # some other error, raise the exception
                 raise e
-    return profiles
 
 
 def fetch_user_timeline(api, screen_name, batch_limit = 0):
@@ -63,6 +61,8 @@ def fetch_user_timeline(api, screen_name, batch_limit = 0):
     api is a tweepy.API object
     screen_name is a user's screen name, e.g. "GoStanford"
     batches is number of requests (at 200 tweets each) to make. 0 means maximum
+
+    returns all tweets as an array
     """
     tweets = []
     cursor = tweepy.Cursor(api.user_timeline, screen_name = screen_name,
