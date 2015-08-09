@@ -6,21 +6,29 @@ DATA_DIR = "./stash/"
 FETCHED_DIR = os.path.join(DATA_DIR, "fetched")
 FETCHED_CONGRESS_PROFILES_DIR = os.path.join(FETCHED_DIR, 'profiles')
 FETCHED_TWEETS_DIR = os.path.join(FETCHED_DIR, 'tweets')
-FETCHED_FRIEND_IDS_DIR = os.path.join(FETCHED_DIR, 'friends_ids')
+FETCHED_FRIENDS_IDS_DIR = os.path.join(FETCHED_DIR, 'friends_ids')
+FETCHED_FRIENDS_PROFILES_DIR = os.path.join(FETCHED_DIR, 'friends_profiles')
 
 COMPILED_DIR = os.path.join(DATA_DIR, "compiled")
 COMPILED_CONGRESS_PROFILES_PATH = os.path.join(COMPILED_DIR, 'congress-profiles.csv')
 COMPILED_TWEETS_DIR = os.path.join(COMPILED_DIR, 'tweets')
+TOP_FRIENDS_IDS_PATH = os.path.join(COMPILED_DIR, 'top-friends-ids.txt')
+
+### packages stuff
 PACKAGED_DIR = os.path.join(DATA_DIR, "packaged")
 ## meta data
 SCHEMAS_DIR = "./meta/schemas"
 
 TWITTER_CREDS_PATH = "./creds.json"
 
+
+MIN_FRIEND_OCCURENCES = 10
+
 def setup_space():
     os.makedirs(FETCHED_CONGRESS_PROFILES_DIR, exist_ok = True)
     os.makedirs(FETCHED_TWEETS_DIR, exist_ok = True)
-    os.makedirs(FETCHED_FRIEND_IDS_DIR, exist_ok = True)
+    os.makedirs(FETCHED_FRIENDS_IDS_DIR, exist_ok = True)
+    os.makedirs(FETCHED_FRIENDS_PROFILES_DIR, exist_ok = True)
     os.makedirs(COMPILED_DIR, exist_ok = True)
     os.makedirs(PACKAGED_DIR, exist_ok = True)
 
@@ -42,3 +50,7 @@ def congress_social_accounts():
 
 def congress_twitter_names():
     return [d['twitter_username'].lower() for d in congress_social_accounts() if d['twitter_username']]
+
+def congress_twitter_ids():
+    return [d['twitter_id'] for d in congress_social_accounts() if d['twitter_id']]
+

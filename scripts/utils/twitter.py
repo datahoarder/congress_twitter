@@ -23,7 +23,7 @@ def get_api(access_token, access_token_secret, consumer_key, consumer_secret):
     # create an API handler
     return tweepy.API(auth, wait_on_rate_limit = True, wait_on_rate_limit_notify = True)
 
-def fetch_profiles(api, screen_names = [], ids = []):
+def fetch_profiles(api, screen_names = [], user_ids = []):
     """
     A wrapper method around tweepy.API.lookup_users that handles the batch lookup of
       screen_names.
@@ -35,7 +35,7 @@ def fetch_profiles(api, screen_names = [], ids = []):
 
     https://dev.twitter.com/rest/reference/get/users/lookup
     """
-    key, lookups = ['user_ids', ids] if ids else ['screen_names', screen_names]
+    key, lookups = ['user_ids', user_ids] if user_ids else ['screen_names', screen_names]
     for batch_idx in range(ceil(len(lookups) / TWITTER_PROFILE_BATCH_SIZE)):
         offset = batch_idx * TWITTER_PROFILE_BATCH_SIZE
         # break lookups list into batches of TWITTER_PROFILE_BATCH_SIZE
