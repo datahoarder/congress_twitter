@@ -1,5 +1,19 @@
 # Hide large directories
 /stash/fetched/tweets
+/stash/fetched/friends_profiles
+# but include some samples
+!/stash/fetched/tweets/darrellissa.json
+!/stash/fetched/tweets/aaronschock.json
+!/stash/fetched/tweets/chuckdgrassley.json
+!/stash/fetched/tweets/senjoniernst.json
+!/stash/fetched/tweets/mccaskilloffice.json
+!/stash/fetched/tweets/repkarenbass.json
+!/stash/fetched/tweets/nancypelosi.json
+!/stash/fetched/friends_profiles/15012486.json
+!/stash/fetched/friends_profiles/14780915.json
+!/stash/fetched/friends_profiles/16072676.json
+!/stash/fetched/friends_profiles/14834340.json
+!/stash/fetched/friends_profiles/73186935.json
 creds.json
 # Ignore cache
 /.sass-cache

@@ -13,7 +13,7 @@ from scripts.utils.twitter import fetch_profiles
 import json
 import os.path
 
-if __name__ == '__main__':
+def run():
     setup_space()
     f_ids = open(TOP_FRIENDS_IDS_PATH).readlines()
     api = get_twitter_api_from_creds()
@@ -25,3 +25,8 @@ if __name__ == '__main__':
         with open(fname, 'w') as f:
             print('Writing (%s): %s' % (p_sn, fname))
             json.dump(profile, f, indent = 2)
+
+
+
+if __name__ == '__main__':
+    run()
