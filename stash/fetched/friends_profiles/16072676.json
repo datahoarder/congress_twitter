@@ -1,0 +1,99 @@
+{
+  "profile_link_color": "0084B4",
+  "is_translator": false,
+  "status": {
+    "retweeted": false,
+    "in_reply_to_status_id_str": "629728873232531457",
+    "favorite_count": 0,
+    "id_str": "629738060897472512",
+    "in_reply_to_user_id": 21830968,
+    "in_reply_to_status_id": 629728873232531457,
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "russ kui",
+          "id": 21830968,
+          "screen_name": "CeruleanSea",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "21830968"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "geo": null,
+    "in_reply_to_screen_name": "CeruleanSea",
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "retweet_count": 0,
+    "created_at": "Fri Aug 07 19:37:08 +0000 2015",
+    "lang": "en",
+    "coordinates": null,
+    "id": 629738060897472512,
+    "text": "@CeruleanSea thanks Russ!",
+    "favorited": false,
+    "truncated": false,
+    "in_reply_to_user_id_str": "21830968",
+    "place": null
+  },
+  "id_str": "16072676",
+  "statuses_count": 2282,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/483090441785847808/68Z23wcd_normal.jpeg",
+  "is_translation_enabled": false,
+  "following": false,
+  "followers_count": 38131,
+  "utc_offset": -14400,
+  "profile_text_color": "333333",
+  "default_profile": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "geo_enabled": false,
+  "id": 16072676,
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "lang": "en",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16072676/1404017911",
+  "profile_sidebar_border_color": "A8C7F7",
+  "name": "laura ingle",
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://www.foxnews.com/ingle",
+          "display_url": "foxnews.com/ingle",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/R84e4rO5Ji"
+        }
+      ]
+    }
+  },
+  "profile_use_background_image": true,
+  "screen_name": "lauraingle",
+  "time_zone": "Eastern Time (US & Canada)",
+  "has_extended_profile": false,
+  "follow_request_sent": false,
+  "friends_count": 3192,
+  "created_at": "Sun Aug 31 23:44:09 +0000 2008",
+  "description": "Fox News Channel correspondent based in New York, former radio reporter for KFI in L.A., and KFBK  Sacramento. Wife & Mom to an amazing 2 year old boy!",
+  "listed_count": 668,
+  "verified": true,
+  "contributors_enabled": false,
+  "profile_background_tile": false,
+  "protected": false,
+  "favourites_count": 19,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/483090441785847808/68Z23wcd_normal.jpeg",
+  "notifications": false,
+  "url": "http://t.co/R84e4rO5Ji",
+  "location": "New York"
+}

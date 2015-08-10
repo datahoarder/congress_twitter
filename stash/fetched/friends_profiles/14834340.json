@@ -1,0 +1,138 @@
+{
+  "profile_link_color": "1749B3",
+  "is_translator": false,
+  "status": {
+    "favorite_count": 0,
+    "place": null,
+    "id_str": "630592361018585088",
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "in_reply_to_screen_name": "mckaycoppins",
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "id": 630592361018585088,
+    "retweeted": false,
+    "lang": "und",
+    "in_reply_to_user_id": 21431618,
+    "in_reply_to_status_id_str": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "McKay Coppins",
+          "id": 21431618,
+          "screen_name": "mckaycoppins",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "21431618"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/vVYt51DhPI",
+          "display_url": "pic.twitter.com/vVYt51DhPI",
+          "type": "photo",
+          "id_str": "630592360380919809",
+          "media_url": "http://pbs.twimg.com/media/CMBQaSaUcAE1QBJ.png",
+          "expanded_url": "http://twitter.com/jayrosen_nyu/status/630592361018585088/photo/1",
+          "id": 630592360380919809,
+          "sizes": {
+            "medium": {
+              "h": 289,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 493,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 163,
+              "resize": "fit",
+              "w": 340
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/CMBQaSaUcAE1QBJ.png",
+          "indices": [
+            17,
+            39
+          ]
+        }
+      ]
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "21431618",
+    "retweet_count": 0,
+    "created_at": "Mon Aug 10 04:11:49 +0000 2015",
+    "text": "@mckaycoppins... http://t.co/vVYt51DhPI",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "favorited": false
+  },
+  "id_str": "14834340",
+  "statuses_count": 41274,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/472914265737658368/6o7dqE39_normal.jpeg",
+  "is_translation_enabled": false,
+  "following": false,
+  "followers_count": 155791,
+  "utc_offset": -14400,
+  "profile_text_color": "000000",
+  "default_profile": false,
+  "profile_background_color": "718ECD",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2871132/nycnight3.jpg",
+  "geo_enabled": false,
+  "id": 14834340,
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2871132/nycnight3.jpg",
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "E0FF92",
+  "lang": "en",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14834340/1398261215",
+  "profile_sidebar_border_color": "87BC44",
+  "name": "Jay Rosen ",
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://pressthink.org",
+          "display_url": "pressthink.org",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/wiZcJUV5mf"
+        }
+      ]
+    }
+  },
+  "profile_use_background_image": true,
+  "screen_name": "jayrosen_nyu",
+  "time_zone": "Eastern Time (US & Canada)",
+  "has_extended_profile": false,
+  "follow_request_sent": false,
+  "friends_count": 970,
+  "created_at": "Mon May 19 16:09:01 +0000 2008",
+  "description": "I teach journalism at NYU, direct the Studio 20 program there, critique the press and try to understand digital logic. I also advise media companies sometimes.",
+  "listed_count": 10768,
+  "verified": true,
+  "contributors_enabled": false,
+  "profile_background_tile": true,
+  "protected": false,
+  "favourites_count": 31,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/472914265737658368/6o7dqE39_normal.jpeg",
+  "notifications": false,
+  "url": "http://t.co/wiZcJUV5mf",
+  "location": "New York City"
+}

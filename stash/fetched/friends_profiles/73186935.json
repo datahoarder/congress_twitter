@@ -1,0 +1,87 @@
+{
+  "profile_link_color": "0084B4",
+  "is_translator": false,
+  "status": {
+    "retweeted": false,
+    "in_reply_to_status_id_str": null,
+    "favorite_count": 0,
+    "id_str": "12780690727",
+    "in_reply_to_user_id": null,
+    "in_reply_to_status_id": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "contributors": null,
+    "geo": null,
+    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweet_count": 0,
+    "created_at": "Sat Apr 24 19:55:37 +0000 2010",
+    "lang": "en",
+    "coordinates": null,
+    "id": 12780690727,
+    "text": "Look forward to events, meetings, and recruitment tables over Summer 2010!",
+    "favorited": false,
+    "truncated": false,
+    "in_reply_to_user_id_str": null,
+    "place": null
+  },
+  "id_str": "73186935",
+  "statuses_count": 37,
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/408234559/usfcr_1_normal.bmp",
+  "is_translation_enabled": false,
+  "following": false,
+  "followers_count": 202,
+  "utc_offset": -14400,
+  "profile_text_color": "DFD0A5",
+  "default_profile": false,
+  "profile_background_color": "DFD0A5",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/35862229/usfcr_11_copy.jpg",
+  "geo_enabled": false,
+  "id": 73186935,
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/35862229/usfcr_11_copy.jpg",
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "00573B",
+  "lang": "en",
+  "profile_sidebar_border_color": "030303",
+  "name": "USFCR",
+  "entities": {
+    "description": {
+      "urls": []
+    },
+    "url": {
+      "urls": [
+        {
+          "expanded_url": "http://www.usfgop.com",
+          "display_url": "usfgop.com",
+          "indices": [
+            0,
+            22
+          ],
+          "url": "http://t.co/eMlBq3NT3p"
+        }
+      ]
+    }
+  },
+  "profile_use_background_image": true,
+  "screen_name": "USFCR",
+  "time_zone": "Eastern Time (US & Canada)",
+  "has_extended_profile": false,
+  "follow_request_sent": false,
+  "friends_count": 249,
+  "created_at": "Thu Sep 10 18:39:04 +0000 2009",
+  "description": "The University of South Florida College Republicans",
+  "listed_count": 8,
+  "verified": false,
+  "contributors_enabled": false,
+  "profile_background_tile": false,
+  "protected": false,
+  "favourites_count": 0,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/408234559/usfcr_1_normal.bmp",
+  "notifications": false,
+  "url": "http://t.co/eMlBq3NT3p",
+  "location": "Tampa, Florida"
+}
