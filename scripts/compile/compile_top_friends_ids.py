@@ -19,7 +19,8 @@ from scripts.settings import congress_twitter_ids
 from glob import glob
 from collections import Counter
 from os.path import join
-if __name__ == '__main__':
+
+def run():
     c = Counter()
     for fn in friends_ids_files():
         with open(fn) as f:
@@ -30,3 +31,6 @@ if __name__ == '__main__':
     all_ids = list(set(top_ids + cong_ids))
     with open(TOP_FRIENDS_IDS_PATH, 'w') as o:
         o.write("\n".join(all_ids))
+
+if __name__ == '__main__':
+    run()

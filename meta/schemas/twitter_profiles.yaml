@@ -24,7 +24,7 @@ columns:
 		type: Integer
 	created_at:
 		type: DateTime
-    time_format: "2011-01-06 16:01:46"
+    format: "2011-01-06 16:01:46"
 	favourites_count:
 		type: Integer
 	statuses_count:

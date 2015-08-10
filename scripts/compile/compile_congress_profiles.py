@@ -14,7 +14,8 @@ from os.path import join
 import json
 import csv
 
-if __name__ == '__main__':
+
+def run():
     c = csv.DictWriter(open(COMPILED_CONGRESS_PROFILES_PATH, 'w'),
                         fieldnames = TWITTER_PROFILE_FIELDS)
     c.writeheader()
@@ -23,3 +24,6 @@ if __name__ == '__main__':
         pdata = extract_twitter_profile(p)
         c.writerow(pdata)
 
+
+if __name__ == '__main__':
+    run()

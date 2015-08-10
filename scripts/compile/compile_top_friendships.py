@@ -17,7 +17,7 @@ from glob import glob
 from os.path import basename, join, splitext
 import csv
 
-if __name__ == '__main__':
+def run():
     c = csv.writer(open(COMPILED_TOP_FRIENDSHIPS_PATH, 'w'))
     c.writerow(['user_screen_name', 'friend_id'])
     all_top_ids = set([k.strip() for k in open(TOP_FRIENDS_IDS_PATH).readlines()])
@@ -30,3 +30,7 @@ if __name__ == '__main__':
             top_friends_ids = all_top_ids.intersection(_ids)
             for t_id in top_friends_ids:
                 c.writerow([user_screen_name, t_id])
+
+
+if __name__ == '__main__':
+    run()
