@@ -1,6 +1,6 @@
 # Hide large directories
-/stash/fetched/tweets
-/stash/fetched/friends_profiles
+/stash/fetched/tweets/*
+/stash/fetched/friends_profiles/*
 # but include some samples
 !/stash/fetched/tweets/darrellissa.json
 !/stash/fetched/tweets/aaronschock.json
