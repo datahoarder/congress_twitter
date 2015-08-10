@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lamborn.house.gov",
+          "url": "http://t.co/aVNY6LCmDL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lamborn.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "lamborn.house.gov",
+          "url": "http://t.co/aVNY6LCmDL",
+          "indices": [
+            104,
+            126
+          ],
+          "expanded_url": "http://lamborn.house.gov"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 715,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "Colorado Springs",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/584012853/1366731300",
+  "notifications": false,
+  "description": "Republican Congressman for Colorado's 5th Congressional District. For regular email updates, sign-up at http://t.co/aVNY6LCmDL",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 404,
+  "id_str": "584012853",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3564839448/9ac5c90e0019b4a4aeb0c49952b28006_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2099,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 584012853,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Rep. Doug Lamborn",
+  "profile_use_background_image": true,
+  "url": "http://t.co/aVNY6LCmDL",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3564839448/9ac5c90e0019b4a4aeb0c49952b28006_normal.jpeg",
+  "created_at": "Fri May 18 16:01:17 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "#VAAccountability is so important &amp; veterans deserve better.\nPlease visit http://t.co/uer5tqMfTe to share your story http://t.co/z9BVlRHpkP",
+    "id_str": "629684319884345344",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VAAccountability",
+          "indices": [
+            0,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "gop.gov/yourstory/",
+          "url": "http://t.co/uer5tqMfTe",
+          "indices": [
+            78,
+            100
+          ],
+          "expanded_url": "http://www.gop.gov/yourstory/"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629684319137738752,
+          "indices": [
+            121,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/629684319884345344/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 170,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 500,
+              "resize": "fit",
+              "w": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/z9BVlRHpkP",
+          "url": "http://t.co/z9BVlRHpkP",
+          "id_str": "629684319137738752",
+          "media_url": "http://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629684319884345344,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 16:03:35 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 4542,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDLamborn",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

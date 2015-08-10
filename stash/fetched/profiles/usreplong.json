@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "long.house.gov",
+          "url": "http://t.co/C79hr4bTUb",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://long.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1296,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 7,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444015610/1369083530",
+  "notifications": false,
+  "description": "Representing Missouri\u2019s 7th District in the United States Congress\r\n\r\nMember of the House Energy and Commerce Committee",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 221,
+  "id_str": "1444015610",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/542749694137360385/YwkGEO6l_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3476,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1444015610,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "U.S. Rep. Billy Long",
+  "profile_use_background_image": true,
+  "url": "http://t.co/C79hr4bTUb",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/542749694137360385/YwkGEO6l_normal.jpeg",
+  "created_at": "Mon May 20 15:02:21 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "I've been a proud co-sponsor &amp; supporter of @RepRobWoodall's #FairTax Act since my first day in Congress. #KeepingOn https://t.co/Ye5ahT7aw1",
+    "id_str": "629745934495281152",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2382685057,
+          "indices": [
+            48,
+            62
+          ],
+          "screen_name": "RepRobWoodall",
+          "id_str": "2382685057",
+          "name": "Rob Woodall"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FairTax",
+          "indices": [
+            65,
+            73
+          ]
+        },
+        {
+          "text": "KeepingOn",
+          "indices": [
+            110,
+            120
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/RepRobWoodall/\u2026",
+          "url": "https://t.co/Ye5ahT7aw1",
+          "indices": [
+            121,
+            144
+          ],
+          "expanded_url": "https://twitter.com/RepRobWoodall/status/629744380606328832"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629745934495281152,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:08:25 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 2927,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "USRepLong",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

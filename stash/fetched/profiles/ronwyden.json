@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "wyden.senate.gov",
+          "url": "http://t.co/PeDrcHcuFw",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://wyden.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "instagram.com/RonWyden",
+          "url": "http://t.co/xlc8cjtnrN",
+          "indices": [
+            114,
+            136
+          ],
+          "expanded_url": "http://instagram.com/RonWyden"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 302,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 17,
+  "location": "Oregon & Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/250188760/1398198071",
+  "notifications": false,
+  "description": "U.S. Senator from Oregon. @SenateFinance Ranking Member. Follow @WydenPress for updates from my staff. Instagram: http://t.co/xlc8cjtnrN",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1827,
+  "id_str": "250188760",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615349495300145152/y5fl3FXe_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2530,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537502357/bg.jpg",
+  "id": 250188760,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Ron Wyden",
+  "profile_use_background_image": true,
+  "url": "http://t.co/PeDrcHcuFw",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615349495300145152/y5fl3FXe_normal.jpg",
+  "created_at": "Thu Feb 10 16:08:15 +0000 2011",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Fire briefing today in Medford shows firefighters\u2019 tireless work &amp; the need to fix a broken wildfire funding system http://t.co/lxkLeA72pR",
+    "id_str": "630146038871883776",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630146038699986944,
+          "indices": [
+            120,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL66e8lVEAAyBrJ.jpg",
+          "expanded_url": "http://twitter.com/RonWyden/status/630146038871883776/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/lxkLeA72pR",
+          "url": "http://t.co/lxkLeA72pR",
+          "id_str": "630146038699986944",
+          "media_url": "http://pbs.twimg.com/media/CL66e8lVEAAyBrJ.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630146038871883776,
+    "truncated": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:38:17 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 36850,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "1784B6",
+  "screen_name": "RonWyden",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537502357/bg.jpg"
+}

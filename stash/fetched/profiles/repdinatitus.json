@@ -1,0 +1,249 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "titus.house.gov",
+          "url": "http://t.co/1oDul20SlW",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.titus.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/CongresswomanT\u2026",
+          "url": "http://t.co/NhRF3LaX",
+          "indices": [
+            102,
+            122
+          ],
+          "expanded_url": "http://www.facebook.com/CongresswomanTitus"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1684,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3011,
+  "location": "Las Vegas, NV",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/122174004/1398261097",
+  "notifications": false,
+  "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives. http://t.co/NhRF3LaX",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 434,
+  "id_str": "122174004",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000503681122/9b2aca4bb8d39f87da7f8565af75cc86_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3740,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 122174004,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -28800,
+  "name": "Dina Titus",
+  "profile_use_background_image": true,
+  "url": "http://t.co/1oDul20SlW",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000503681122/9b2aca4bb8d39f87da7f8565af75cc86_normal.jpeg",
+  "created_at": "Thu Mar 11 21:05:31 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @LauraKMM: Miss Dina and Miss Ruby showing love for each other #VRA50 #FameChurchLV http://t.co/TY9y75Gz49",
+    "id_str": "630243397496770561",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 22069212,
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "LauraKMM",
+          "id_str": "22069212",
+          "name": "Laura Martin"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            66,
+            72
+          ]
+        },
+        {
+          "text": "FameChurchLV",
+          "indices": [
+            73,
+            86
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630181421332631552,
+          "media_url": "http://pbs.twimg.com/media/CL7aqfKVEAA9XD-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL7aqfKVEAA9XD-.jpg",
+          "expanded_url": "http://twitter.com/LauraKMM/status/630181428341313536/photo/1",
+          "url": "http://t.co/TY9y75Gz49",
+          "display_url": "pic.twitter.com/TY9y75Gz49",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 973,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 551,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 631
+            }
+          },
+          "source_user_id": 22069212,
+          "source_user_id_str": "22069212",
+          "indices": [
+            87,
+            109
+          ],
+          "type": "photo",
+          "source_status_id": 630181428341313536,
+          "source_status_id_str": "630181428341313536",
+          "id_str": "630181421332631552"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630243397496770561,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 05:05:09 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Miss Dina and Miss Ruby showing love for each other #VRA50 #FameChurchLV http://t.co/TY9y75Gz49",
+      "id_str": "630181428341313536",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              52,
+              58
+            ]
+          },
+          {
+            "text": "FameChurchLV",
+            "indices": [
+              59,
+              72
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630181421332631552,
+            "indices": [
+              73,
+              95
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL7aqfKVEAA9XD-.jpg",
+            "expanded_url": "http://twitter.com/LauraKMM/status/630181428341313536/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 973,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 551,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 631
+              }
+            },
+            "display_url": "pic.twitter.com/TY9y75Gz49",
+            "url": "http://t.co/TY9y75Gz49",
+            "id_str": "630181421332631552",
+            "media_url": "http://pbs.twimg.com/media/CL7aqfKVEAA9XD-.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630181428341313536,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sun Aug 09 00:58:55 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Alaska",
+  "followers_count": 7015,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "repdinatitus",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

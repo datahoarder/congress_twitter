@@ -1,0 +1,143 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "donnelly.senate.gov",
+          "url": "http://t.co/fSOunnwiXz",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.donnelly.senate.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 208,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/216503958/1401398234",
+  "notifications": false,
+  "description": "U.S. Senator Joe Donnelly's communications staff",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 895,
+  "id_str": "216503958",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2545,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG",
+  "id": 216503958,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Senator Joe Donnelly",
+  "profile_use_background_image": true,
+  "url": "http://t.co/fSOunnwiXz",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "created_at": "Tue Nov 16 22:24:01 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Joe welcomed a federal grant to help @Centerstone of IN\u2019s program for homeless veterans in eastern &amp; south central IN.http://t.co/DTRM744ruY",
+    "id_str": "629755770222063616",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 205438429,
+          "indices": [
+            37,
+            49
+          ],
+          "screen_name": "Centerstone",
+          "id_str": "205438429",
+          "name": "Centerstone"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "on.fb.me/1OVSNbT",
+          "url": "http://t.co/DTRM744ruY",
+          "indices": [
+            122,
+            144
+          ],
+          "expanded_url": "http://on.fb.me/1OVSNbT"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629755770222063616,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": {
+      "id": "01fbe706f872cb32",
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "name": "Washington",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "country": "United States",
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "contained_within": [],
+      "place_type": "city"
+    },
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:47:30 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 16536,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenDonnelly",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG"
+}

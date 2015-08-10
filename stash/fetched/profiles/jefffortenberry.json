@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fortenberry.house.gov",
+          "url": "http://t.co/beLyQVqp1e",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fortenberry.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2187,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 0,
+  "location": "Lincoln, NE / Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18805303/1371851103",
+  "notifications": false,
+  "description": "U.S. Representative for the First Congressional District of Nebraska",
+  "profile_sidebar_border_color": "100543",
+  "protected": false,
+  "listed_count": 849,
+  "id_str": "18805303",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/311530607/twitterphoto_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1584,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194348657/twitter_1.jpg",
+  "id": 18805303,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "5880AC",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Jeff Fortenberry",
+  "profile_use_background_image": true,
+  "url": "http://t.co/beLyQVqp1e",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/311530607/twitterphoto_normal.jpg",
+  "created_at": "Fri Jan 09 16:14:19 +0000 2009",
+  "profile_background_color": "294255",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Perhaps Nebraska's main connection to wild elephant is through proper stewardship of land &amp; wild habitats. http://t.co/HsA8xXGjVw",
+    "id_str": "630032733536849920",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1IrGy4Y",
+          "url": "http://t.co/HsA8xXGjVw",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://1.usa.gov/1IrGy4Y"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630032733536849920,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 15:08:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 10491,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0C0552",
+  "screen_name": "JeffFortenberry",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194348657/twitter_1.jpg"
+}

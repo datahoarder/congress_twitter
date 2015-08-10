@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "noem.house.gov",
+          "url": "http://t.co/fEyTr9Km3c",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://noem.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 338,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 53,
+  "location": "Castlewood & Washington",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235251868/1366927157",
+  "notifications": false,
+  "description": "I'm South Dakota's lone Member of the U.S. House of Representatives.  I live in Castlewood, SD with my husband Bryon and three kids Kassidy, Kennedy & Booker.",
+  "profile_sidebar_border_color": "DEDEDE",
+  "protected": false,
+  "listed_count": 825,
+  "id_str": "235251868",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/476487548760367105/5dSBfY0j_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2528,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/255060649/noem_twitter2.jpg",
+  "id": 235251868,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "F2F2F2",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Kristi Noem",
+  "profile_use_background_image": true,
+  "url": "http://t.co/fEyTr9Km3c",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/476487548760367105/5dSBfY0j_normal.jpeg",
+  "created_at": "Fri Jan 07 18:44:34 +0000 2011",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Just over halfway through the year and I've helped the House pass nearly 200 bills. More to do though. Learn more: http://t.co/LLo5kBQdqM",
+    "id_str": "629680166181036032",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "tinyurl.com/ntbrtqx",
+          "url": "http://t.co/LLo5kBQdqM",
+          "indices": [
+            115,
+            137
+          ],
+          "expanded_url": "http://tinyurl.com/ntbrtqx"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629680166181036032,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 15:47:05 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 15762,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "80000B",
+  "screen_name": "RepKristiNoem",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/255060649/noem_twitter2.jpg"
+}

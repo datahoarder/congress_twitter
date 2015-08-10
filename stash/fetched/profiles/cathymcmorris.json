@@ -1,0 +1,153 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mcmorrisrodgers.house.gov",
+          "url": "http://t.co/tyngYTYPzM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mcmorrisrodgers.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 5233,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 508,
+  "location": "Spokane, WA & Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17976923/1402081997",
+  "notifications": false,
+  "description": "Proudly serving Washington's beautiful 5th District in Congress, Chair of the House Republican Conference. Mom of three.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1485,
+  "id_str": "17976923",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/528712597080506368/Jod4viTo_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 4070,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/758531013/1c9f0bf291c6f93ddba21fe4a608bb39.jpeg",
+  "id": 17976923,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "CathyMcMorrisRodgers",
+  "profile_use_background_image": false,
+  "url": "http://t.co/tyngYTYPzM",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/528712597080506368/Jod4viTo_normal.png",
+  "created_at": "Mon Dec 08 23:17:15 +0000 2008",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "I continue to be inspired by @TeamGleason and Steve's advocacy for the #ALS community. #NoWhiteFlags http://t.co/P6sz7IM6I3",
+    "id_str": "630123241596518400",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 376499282,
+          "indices": [
+            29,
+            41
+          ],
+          "screen_name": "TeamGleason",
+          "id_str": "376499282",
+          "name": "Steve Gleason"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ALS",
+          "indices": [
+            71,
+            75
+          ]
+        },
+        {
+          "text": "NoWhiteFlags",
+          "indices": [
+            87,
+            100
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630123214660763648,
+          "indices": [
+            101,
+            123
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL6luaaVAAAdeZ9.jpg",
+          "expanded_url": "http://twitter.com/cathymcmorris/status/630123241596518400/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/P6sz7IM6I3",
+          "url": "http://t.co/P6sz7IM6I3",
+          "id_str": "630123214660763648",
+          "media_url": "http://pbs.twimg.com/media/CL6luaaVAAAdeZ9.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630123241596518400,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 21:07:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 23131,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0814FF",
+  "screen_name": "cathymcmorris",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/758531013/1c9f0bf291c6f93ddba21fe4a608bb39.jpeg"
+}

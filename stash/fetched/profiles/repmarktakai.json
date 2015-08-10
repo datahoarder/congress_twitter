@@ -1,0 +1,143 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "takai.house.gov",
+          "url": "http://t.co/6QVeQHosr6",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://takai.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 872,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 157,
+  "location": "Honolulu / Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2975350155/1425836586",
+  "notifications": false,
+  "description": "Aloha!  Welcome to the official Twitter for Congressman Mark Takai (HI-01) -- husband, father, Hawaii National Guard veteran, public servant.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 72,
+  "id_str": "2975350155",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/554758316929216513/_cYT7T4k_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 315,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2975350155,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Mark Takai",
+  "profile_use_background_image": true,
+  "url": "http://t.co/6QVeQHosr6",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/554758316929216513/_cYT7T4k_normal.png",
+  "created_at": "Mon Jan 12 21:41:39 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "id_str": "629298591866187776",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 29450962,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "repjohnlewis",
+          "id_str": "29450962",
+          "name": "John Lewis"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629298591866187776,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 14:30:50 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1793,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629265088214638592,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "id_str": "629265088214638592",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 1462,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 1793,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1063,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepMarkTakai",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

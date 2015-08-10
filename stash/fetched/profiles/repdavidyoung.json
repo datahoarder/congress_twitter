@@ -1,0 +1,152 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "davidyoung.house.gov",
+          "url": "http://t.co/vrYdw3pvSS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://davidyoung.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 792,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 71,
+  "location": "#IA03",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/314205957/1420744049",
+  "notifications": false,
+  "description": "Official account of U.S. Congressman David Young, proudly representing the people of Iowa's 3rd District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 92,
+  "id_str": "314205957",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/601351700960681984/vtK6KHeo_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 973,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553253815797825536/dnefluSF.jpeg",
+  "id": 314205957,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "David Young (IA-3)",
+  "profile_use_background_image": true,
+  "url": "http://t.co/vrYdw3pvSS",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/601351700960681984/vtK6KHeo_normal.jpg",
+  "created_at": "Thu Jun 09 21:48:45 +0000 2011",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "My newsletter comes out every Sunday around 1pm CT. Sign up here --&gt;&gt;  http://t.co/mvHqG2aZ1A #ia03 #iapolitics http://t.co/YrpFvOo35F",
+    "id_str": "629775278512869376",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ia03",
+          "indices": [
+            100,
+            105
+          ]
+        },
+        {
+          "text": "iapolitics",
+          "indices": [
+            106,
+            117
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "davidyoung.house.gov/contact/newsle\u2026",
+          "url": "http://t.co/mvHqG2aZ1A",
+          "indices": [
+            77,
+            99
+          ],
+          "expanded_url": "http://davidyoung.house.gov/contact/newsletter"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629760256156008448,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1bncnWgAAzc6g.jpg",
+          "expanded_url": "http://twitter.com/RepDavidYoung/status/629775278512869376/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 503,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 285,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 503,
+              "resize": "fit",
+              "w": 600
+            }
+          },
+          "display_url": "pic.twitter.com/YrpFvOo35F",
+          "url": "http://t.co/YrpFvOo35F",
+          "id_str": "629760256156008448",
+          "media_url": "http://pbs.twimg.com/media/CL1bncnWgAAzc6g.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629775278512869376,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 22:05:01 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 2185,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDavidYoung",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553253815797825536/dnefluSF.jpeg"
+}

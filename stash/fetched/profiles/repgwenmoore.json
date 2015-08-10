@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "house.gov/gwenmoore",
+          "url": "http://t.co/PvnfKm0fsv",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.house.gov/gwenmoore"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 613,
+  "verified": true,
+  "profile_text_color": "3C3940",
+  "favourites_count": 253,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22669526/1398266481",
+  "notifications": false,
+  "description": "Proudly representing Wisconsin\u2019s 4th Congressional District; mother, grandmother; loves poetry, reading, knitting and crocheting.",
+  "profile_sidebar_border_color": "DC975E",
+  "protected": false,
+  "listed_count": 964,
+  "id_str": "22669526",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/530854955851075584/wpsnmkqk_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3971,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442113609/bg.jpg",
+  "id": 22669526,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DFAB58",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Gwen Moore",
+  "profile_use_background_image": true,
+  "url": "http://t.co/PvnfKm0fsv",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/530854955851075584/wpsnmkqk_normal.jpeg",
+  "created_at": "Tue Mar 03 20:02:57 +0000 2009",
+  "profile_background_color": "223968",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Let's not kid ourselves: #VoterID laws are meant to suppress. #EqualParticipation is vital to our democracy's health. http://t.co/pXrJwoWDI8",
+    "id_str": "629765563649261568",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VoterID",
+          "indices": [
+            25,
+            33
+          ]
+        },
+        {
+          "text": "EqualParticipation",
+          "indices": [
+            62,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "thinkprogress.org/justice/2015/0\u2026",
+          "url": "http://t.co/pXrJwoWDI8",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://thinkprogress.org/justice/2015/08/06/3688771/gop-celebrates-50th-anniversary-of-the-voting-rights-act-with-coded-call-for-more-voter-suppression/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629765563649261568,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:26:25 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 12380,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0099B9",
+  "screen_name": "RepGwenMoore",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442113609/bg.jpg"
+}

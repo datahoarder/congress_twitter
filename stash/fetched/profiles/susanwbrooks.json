@@ -1,0 +1,146 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "susanwbrooks.house.gov",
+          "url": "http://t.co/0ZSaz3JtOT",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.susanwbrooks.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 383,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 27,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074101017/1399049517",
+  "notifications": false,
+  "description": "Serving the good people of Indiana\u2019s 5th District in Congress.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 364,
+  "id_str": "1074101017",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3086846949/e579bc4efb03e7f58995d4c27285de56_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 955,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462272356832907265/AGTtOUP9.jpeg",
+  "id": 1074101017,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Susan W. Brooks ",
+  "profile_use_background_image": true,
+  "url": "http://t.co/0ZSaz3JtOT",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3086846949/e579bc4efb03e7f58995d4c27285de56_normal.jpeg",
+  "created_at": "Wed Jan 09 15:30:38 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It's the @IndyStateFair opening day! Very proud of of all the Hoosiers involved. Enjoy the rides, food and fun! #Fair http://t.co/fG3uBzZA66",
+    "id_str": "629734945792126976",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 44609264,
+          "indices": [
+            9,
+            23
+          ],
+          "screen_name": "IndyStateFair",
+          "id_str": "44609264",
+          "name": "Indiana State Fair"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Fair",
+          "indices": [
+            112,
+            117
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629734945464918016,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/629734945792126976/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            }
+          },
+          "display_url": "pic.twitter.com/fG3uBzZA66",
+          "url": "http://t.co/fG3uBzZA66",
+          "id_str": "629734945464918016",
+          "media_url": "http://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629734945792126976,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:24:45 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 5335,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SusanWBrooks",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462272356832907265/AGTtOUP9.jpeg"
+}

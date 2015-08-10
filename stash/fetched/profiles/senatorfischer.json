@@ -1,0 +1,146 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fischer.senate.gov",
+          "url": "http://t.co/0O49SY7v",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://fischer.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 148,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 21,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1431724095",
+  "notifications": false,
+  "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 691,
+  "id_str": "1071402577",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1750,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg",
+  "id": 1071402577,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Deb Fischer",
+  "profile_use_background_image": true,
+  "url": "http://t.co/0O49SY7v",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+  "profile_background_color": "B4C9FA",
+  "status": {
+    "favorite_count": 7,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Wonderful tour of the @BoysTown \"Hall of History\" #ProudNebraskan http://t.co/REwc5l7BWh",
+    "id_str": "629771185874710528",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 223612990,
+          "indices": [
+            22,
+            31
+          ],
+          "screen_name": "BoysTown",
+          "id_str": "223612990",
+          "name": "Boys Town"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ProudNebraskan",
+          "indices": [
+            50,
+            65
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629771182489890816,
+          "indices": [
+            66,
+            88
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1ljcYWcAAfu5y.jpg",
+          "expanded_url": "http://twitter.com/SenatorFischer/status/629771185874710528/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            }
+          },
+          "display_url": "pic.twitter.com/REwc5l7BWh",
+          "url": "http://t.co/REwc5l7BWh",
+          "id_str": "629771182489890816",
+          "media_url": "http://pbs.twimg.com/media/CL1ljcYWcAAfu5y.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629771185874710528,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:48:45 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 11272,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "1F98C7",
+  "screen_name": "SenatorFischer",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg"
+}

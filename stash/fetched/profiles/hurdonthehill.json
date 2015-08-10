@@ -1,0 +1,108 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Hurd.House.gov",
+          "url": "http://t.co/w6EN71cdoK",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Hurd.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 421,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 676,
+  "location": "#TX23",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2963445730/1437429460",
+  "notifications": false,
+  "description": "San Antonio native, @TAMU grad, former undercover CIA officer, cybersecurity expert, Chair of IT Subcommittee on @GOPOversight, also on @HouseHomeland",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 150,
+  "id_str": "2963445730",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618419352388284416/zbB9hOab_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 855,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2963445730,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Will Hurd",
+  "profile_use_background_image": true,
+  "url": "http://t.co/w6EN71cdoK",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618419352388284416/zbB9hOab_normal.jpg",
+  "created_at": "Tue Jan 06 04:27:18 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 6,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "My second bill to be signed into law! http://t.co/rX6jb4iq3g https://t.co/XzMeMTtf3A",
+    "id_str": "629707582937137152",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1KVThkh",
+          "url": "http://t.co/rX6jb4iq3g",
+          "indices": [
+            38,
+            60
+          ],
+          "expanded_url": "http://1.usa.gov/1KVThkh"
+        },
+        {
+          "display_url": "twitter.com/jerzcyber/stat\u2026",
+          "url": "https://t.co/XzMeMTtf3A",
+          "indices": [
+            61,
+            84
+          ],
+          "expanded_url": "https://twitter.com/jerzcyber/status/629696652970958850"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629707582937137152,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:36:01 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 2698,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "HurdOnTheHill",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

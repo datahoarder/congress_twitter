@@ -1,0 +1,214 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "upton.house.gov",
+          "url": "http://t.co/l6HwKLO9Gs",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://upton.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2935,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 398,
+  "location": "St. Joseph, Michigan",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/124224165/1436360038",
+  "notifications": false,
+  "description": "Husband, Dad, proud to represent #Michigan's 6th District and serve as Chairman of @HouseCommerce",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 837,
+  "id_str": "124224165",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000507840583/0dc990a78881b2a41d0dc1e7e751b839_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2908,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000037808828/88662e9ed44d8376498b4c80263f66cc.jpeg",
+  "id": 124224165,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "91D5EC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Fred Upton",
+  "profile_use_background_image": true,
+  "url": "http://t.co/l6HwKLO9Gs",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000507840583/0dc990a78881b2a41d0dc1e7e751b839_normal.jpeg",
+  "created_at": "Thu Mar 18 17:34:35 +0000 2010",
+  "profile_background_color": "91D5EC",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @SpeakerBoehner: Families who are holding out hope for new cures shouldn\u2019t have to wait any longer http://t.co/HXEppJvMlB @bluebagnews #\u2026",
+    "id_str": "629345035025281026",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 7713202,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "SpeakerBoehner",
+          "id_str": "7713202",
+          "name": "Speaker John Boehner"
+        },
+        {
+          "id": 561653008,
+          "indices": [
+            125,
+            137
+          ],
+          "screen_name": "bluebagnews",
+          "id_str": "561653008",
+          "name": "Bluebag Media"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            139,
+            140
+          ]
+        },
+        {
+          "text": "OH08",
+          "indices": [
+            139,
+            140
+          ]
+        },
+        {
+          "text": "cures2015",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "j.mp/1Jt5oUn",
+          "url": "http://t.co/HXEppJvMlB",
+          "indices": [
+            102,
+            124
+          ],
+          "expanded_url": "http://j.mp/1Jt5oUn"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629345035025281026,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 17:35:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 8,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Families who are holding out hope for new cures shouldn\u2019t have to wait any longer http://t.co/HXEppJvMlB @bluebagnews #Ohio #OH08 #cures2015",
+      "id_str": "629343480637190145",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 561653008,
+            "indices": [
+              105,
+              117
+            ],
+            "screen_name": "bluebagnews",
+            "id_str": "561653008",
+            "name": "Bluebag Media"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Ohio",
+            "indices": [
+              118,
+              123
+            ]
+          },
+          {
+            "text": "OH08",
+            "indices": [
+              124,
+              129
+            ]
+          },
+          {
+            "text": "cures2015",
+            "indices": [
+              130,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "j.mp/1Jt5oUn",
+            "url": "http://t.co/HXEppJvMlB",
+            "indices": [
+              82,
+              104
+            ],
+            "expanded_url": "http://j.mp/1Jt5oUn"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629343480637190145,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 17:29:13 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13344,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "5A5D5E",
+  "screen_name": "RepFredUpton",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000037808828/88662e9ed44d8376498b4c80263f66cc.jpeg"
+}

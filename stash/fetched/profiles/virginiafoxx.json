@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "foxx.house.gov",
+          "url": "http://t.co/v3FwVSsRH1",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.foxx.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1380,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 6,
+  "location": "Banner Elk, NC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16256269/1416439349",
+  "notifications": false,
+  "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina's Fifth District.",
+  "profile_sidebar_border_color": "C0C2D6",
+  "protected": false,
+  "listed_count": 1137,
+  "id_str": "16256269",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/729994660/Foxx_Official_Headshot_-_web_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 2629,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/80116415/Foxx_Twitter_Template_4.JPG",
+  "id": 16256269,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EAEBFC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Virginia Foxx",
+  "profile_use_background_image": true,
+  "url": "http://t.co/v3FwVSsRH1",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/729994660/Foxx_Official_Headshot_-_web_normal.JPG",
+  "created_at": "Fri Sep 12 13:30:07 +0000 2008",
+  "profile_background_color": "EBEBEB",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Always enjoy spending time with our interns. Prateek Patel is working in our Clemmons office this\u2026 https://t.co/rxhfXG0zdQ",
+    "id_str": "629654241066524672",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/6FbdlwgwAp/",
+          "url": "https://t.co/rxhfXG0zdQ",
+          "indices": [
+            99,
+            122
+          ],
+          "expanded_url": "https://instagram.com/p/6FbdlwgwAp/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629654241066524672,
+    "truncated": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:04:04 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13035,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "4A3DE0",
+  "screen_name": "virginiafoxx",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/80116415/Foxx_Twitter_Template_4.JPG"
+}

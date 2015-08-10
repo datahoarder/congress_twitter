@@ -1,0 +1,246 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cardenas.house.gov",
+          "url": "http://t.co/ufY7ZnH47U",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cardenas.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1119,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 16,
+  "location": "San Fernando Valley, CA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222257180/1370373936",
+  "notifications": false,
+  "description": "I am proud to serve the San Fernando Valley in Congress. Follows or RT's do NOT indicate endorsement.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 306,
+  "id_str": "1222257180",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523103840891990017/DB1xCC39_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 4254,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558376856341073921/f4I7EKMO.jpeg",
+  "id": 1222257180,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Rep. Tony C\u00e1rdenas",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ufY7ZnH47U",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523103840891990017/DB1xCC39_normal.jpeg",
+  "created_at": "Tue Feb 26 16:12:35 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @RepBetoORourke: . @realDonaldTrump The Border Makes America Great #usmxs International 10k http://t.co/nLuCft2XxX",
+    "id_str": "630233440525225984",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1134292500,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "RepBetoORourke",
+          "id_str": "1134292500",
+          "name": "Rep. Beto O'Rourke"
+        },
+        {
+          "id": 25073877,
+          "indices": [
+            22,
+            38
+          ],
+          "screen_name": "realDonaldTrump",
+          "id_str": "25073877",
+          "name": "Donald J. Trump"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "usmxs",
+          "indices": [
+            70,
+            76
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630009953353269248,
+          "media_url": "http://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+          "expanded_url": "http://twitter.com/RepBetoORourke/status/630009955697848322/photo/1",
+          "url": "http://t.co/nLuCft2XxX",
+          "display_url": "pic.twitter.com/nLuCft2XxX",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            }
+          },
+          "source_user_id": 1134292500,
+          "source_user_id_str": "1134292500",
+          "indices": [
+            95,
+            117
+          ],
+          "type": "photo",
+          "source_status_id": 630009955697848322,
+          "source_status_id_str": "630009955697848322",
+          "id_str": "630009953353269248"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630233440525225984,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 04:25:36 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 45,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 48,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ". @realDonaldTrump The Border Makes America Great #usmxs International 10k http://t.co/nLuCft2XxX",
+      "id_str": "630009955697848322",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "indices": [
+              2,
+              18
+            ],
+            "screen_name": "realDonaldTrump",
+            "id_str": "25073877",
+            "name": "Donald J. Trump"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "usmxs",
+            "indices": [
+              50,
+              56
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630009953353269248,
+            "indices": [
+              75,
+              97
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+            "expanded_url": "http://twitter.com/RepBetoORourke/status/630009955697848322/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              }
+            },
+            "display_url": "pic.twitter.com/nLuCft2XxX",
+            "url": "http://t.co/nLuCft2XxX",
+            "id_str": "630009953353269248",
+            "media_url": "http://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630009955697848322,
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 13:37:33 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 45,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 4415,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepCardenas",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558376856341073921/f4I7EKMO.jpeg"
+}

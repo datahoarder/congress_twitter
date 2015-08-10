@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "yoder.house.gov",
+          "url": "http://t.co/SFpm7Mapbi",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://yoder.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1528,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 78,
+  "location": "KS 3rd District & DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/252819642/1372361933",
+  "notifications": false,
+  "description": "I represent the 3rd District of Kansas in the United States Congress, where I serve on the House Appropriations Committee.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 533,
+  "id_str": "252819642",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/606933705542799360/d-lWEaEO_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 4586,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173252333/7L9R4InZ.png",
+  "id": 252819642,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Kevin Yoder",
+  "profile_use_background_image": true,
+  "url": "http://t.co/SFpm7Mapbi",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/606933705542799360/d-lWEaEO_normal.jpg",
+  "created_at": "Wed Feb 16 00:04:41 +0000 2011",
+  "profile_background_color": "01156E",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @lindsaywise: It's baaaack! Threatened bird's recovery renews prairie chicken flap http://t.co/080shxQ3Qn",
+    "id_str": "629769247900737537",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 37865281,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "lindsaywise",
+          "id_str": "37865281",
+          "name": "Lindsay Wise"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "mcclatchydc.com/news/nation-wo\u2026",
+          "url": "http://t.co/080shxQ3Qn",
+          "indices": [
+            86,
+            108
+          ],
+          "expanded_url": "http://www.mcclatchydc.com/news/nation-world/national/article30325467.html"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629769247900737537,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:41:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "It's baaaack! Threatened bird's recovery renews prairie chicken flap http://t.co/080shxQ3Qn",
+      "id_str": "629697648073777153",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "mcclatchydc.com/news/nation-wo\u2026",
+            "url": "http://t.co/080shxQ3Qn",
+            "indices": [
+              69,
+              91
+            ],
+            "expanded_url": "http://www.mcclatchydc.com/news/nation-world/national/article30325467.html"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629697648073777153,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 16:56:33 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 8720,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepKevinYoder",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173252333/7L9R4InZ.png"
+}

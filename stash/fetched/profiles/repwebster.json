@@ -1,0 +1,126 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "webster.house.gov",
+          "url": "http://t.co/b57txtC4Hx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://webster.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 310,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 11,
+  "location": "Central Florida",
+  "notifications": false,
+  "description": "A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 502,
+  "id_str": "281540744",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2348,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754058261/4c802c84362af50624634b8eac67b58e.jpeg",
+  "id": 281540744,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Daniel Webster",
+  "profile_use_background_image": true,
+  "url": "http://t.co/b57txtC4Hx",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+  "created_at": "Wed Apr 13 13:47:05 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Delivered a flag to BETA Center for the silent auction benefitting their work with teen mothers &amp; at-risk families http://t.co/fxNzrLUIB3",
+    "id_str": "629387376284962816",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629387376108777474,
+          "indices": [
+            119,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLwIe-MUMAII77W.jpg",
+          "expanded_url": "http://twitter.com/RepWebster/status/629387376284962816/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1000,
+              "resize": "fit",
+              "w": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/fxNzrLUIB3",
+          "url": "http://t.co/fxNzrLUIB3",
+          "id_str": "629387376108777474",
+          "media_url": "http://pbs.twimg.com/media/CLwIe-MUMAII77W.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629387376284962816,
+    "truncated": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:23:38 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 6293,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepWebster",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754058261/4c802c84362af50624634b8eac67b58e.jpeg"
+}

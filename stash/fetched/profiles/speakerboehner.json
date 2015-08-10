@@ -1,0 +1,229 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Speaker.gov",
+          "url": "http://t.co/bdw41jAvA2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Speaker.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 7529,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 53,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/7713202/1419968825",
+  "notifications": false,
+  "description": "Official Twitter account for U.S. House Speaker John Boehner (R-OH)",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 13165,
+  "id_str": "7713202",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552302935313350656/WG9HxxI6_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 21352,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543514745479770113/kOg-BnaQ.jpeg",
+  "id": 7713202,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C1BF99",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Speaker John Boehner",
+  "profile_use_background_image": true,
+  "url": "http://t.co/bdw41jAvA2",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552302935313350656/WG9HxxI6_normal.jpeg",
+  "created_at": "Wed Jul 25 14:42:33 +0000 2007",
+  "profile_background_color": "DBE9ED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @thehill: John Boehner is turning up the heat on Hillary: http://t.co/921DZRJ7iB http://t.co/E5fG1TrVXh",
+    "id_str": "630400128269066241",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1917731,
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "thehill",
+          "id_str": "1917731",
+          "name": "The Hill"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "hill.cm/KvDLhnk",
+          "url": "http://t.co/921DZRJ7iB",
+          "indices": [
+            61,
+            83
+          ],
+          "expanded_url": "http://hill.cm/KvDLhnk"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630308047328407553,
+          "media_url": "http://pbs.twimg.com/media/CL9N1FwUcAEwlkG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL9N1FwUcAEwlkG.jpg",
+          "expanded_url": "http://twitter.com/thehill/status/630308047999639552/photo/1",
+          "url": "http://t.co/E5fG1TrVXh",
+          "display_url": "pic.twitter.com/E5fG1TrVXh",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 363,
+              "resize": "fit",
+              "w": 645
+            }
+          },
+          "source_user_id": 1917731,
+          "source_user_id_str": "1917731",
+          "indices": [
+            84,
+            106
+          ],
+          "type": "photo",
+          "source_status_id": 630308047999639552,
+          "source_status_id_str": "630308047999639552",
+          "id_str": "630308047328407553"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630400128269066241,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 15:27:57 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 16,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "John Boehner is turning up the heat on Hillary: http://t.co/921DZRJ7iB http://t.co/E5fG1TrVXh",
+      "id_str": "630308047999639552",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "hill.cm/KvDLhnk",
+            "url": "http://t.co/921DZRJ7iB",
+            "indices": [
+              48,
+              70
+            ],
+            "expanded_url": "http://hill.cm/KvDLhnk"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630308047328407553,
+            "indices": [
+              71,
+              93
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL9N1FwUcAEwlkG.jpg",
+            "expanded_url": "http://twitter.com/thehill/status/630308047999639552/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 363,
+                "resize": "fit",
+                "w": 645
+              }
+            },
+            "display_url": "pic.twitter.com/E5fG1TrVXh",
+            "url": "http://t.co/E5fG1TrVXh",
+            "id_str": "630308047328407553",
+            "media_url": "http://pbs.twimg.com/media/CL9N1FwUcAEwlkG.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630308047999639552,
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sun Aug 09 09:22:03 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 11,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 827361,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "CC3366",
+  "screen_name": "SpeakerBoehner",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543514745479770113/kOg-BnaQ.jpeg"
+}

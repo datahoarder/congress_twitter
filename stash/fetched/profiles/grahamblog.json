@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lgraham.senate.gov",
+          "url": "http://t.co/x7LZALizg6",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lgraham.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2156,
+  "verified": true,
+  "profile_text_color": "432D2E",
+  "favourites_count": 0,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14845376/1355255089",
+  "notifications": false,
+  "description": "Twitter feed for U.S. Senator Lindsey Graham of South Carolina.",
+  "profile_sidebar_border_color": "9B1812",
+  "protected": false,
+  "listed_count": 2934,
+  "id_str": "14845376",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3970,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224734998/xa8a44afd7bd99682ddacb4c46ac30ba.png",
+  "id": 14845376,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "A1A1A1",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Lindsey Graham",
+  "profile_use_background_image": false,
+  "url": "http://t.co/x7LZALizg6",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2167513251/LG_Testifying2_normal.jpg",
+  "created_at": "Tue May 20 13:57:21 +0000 2008",
+  "profile_background_color": "001D48",
+  "status": {
+    "id": 628975126596427776,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "President Obama\u2019s deal with Iran is hemorrhaging support from the American people.",
+    "id_str": "628975126596427776",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 17:05:30 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 28,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 18,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 76395,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0B6D91",
+  "screen_name": "GrahamBlog",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224734998/xa8a44afd7bd99682ddacb4c46ac30ba.png"
+}

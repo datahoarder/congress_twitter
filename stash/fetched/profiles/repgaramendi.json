@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "garamendi.house.gov",
+          "url": "http://t.co/6IrGz7nriD",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://garamendi.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 9125,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 33,
+  "location": "Walnut Grove, CA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/88806753/1359147533",
+  "notifications": false,
+  "description": "Congressman for California's 3rd Congressional District, former Lieutenant Governor, Insurance Commissioner, Deputy Interior Secretary, state legislator",
+  "profile_sidebar_border_color": "BDDCAD",
+  "protected": false,
+  "listed_count": 884,
+  "id_str": "88806753",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3764691389/29c50b23ed97ff6378a6b164a17b8247_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 9445,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205353541/twitter6.jpg",
+  "id": 88806753,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "John Garamendi",
+  "profile_use_background_image": true,
+  "url": "http://t.co/6IrGz7nriD",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3764691389/29c50b23ed97ff6378a6b164a17b8247_normal.png",
+  "created_at": "Tue Nov 10 00:31:12 +0000 2009",
+  "profile_background_color": "9AE4E8",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "State and federal governments are doing everything they can for people affected by the Rocky Fire. http://t.co/MldL4YKBNC",
+    "id_str": "629664387725414400",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "pressdemocrat.com/home/4308734-1\u2026",
+          "url": "http://t.co/MldL4YKBNC",
+          "indices": [
+            99,
+            121
+          ],
+          "expanded_url": "http://www.pressdemocrat.com/home/4308734-181/gov-brown-pledges-help-in?page=1"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629664387725414400,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:44:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 11691,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGaramendi",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205353541/twitter6.jpg"
+}

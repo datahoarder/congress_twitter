@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "quigley.house.gov",
+          "url": "http://t.co/wINsdAOzI8",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.quigley.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/RepMikeQuigley",
+          "url": "http://t.co/zL9fkzy188",
+          "indices": [
+            80,
+            102
+          ],
+          "expanded_url": "http://www.facebook.com/RepMikeQuigley"
+        },
+        {
+          "display_url": "instagram.com/repmikequigley",
+          "url": "http://t.co/FMe57EKfsC",
+          "indices": [
+            104,
+            126
+          ],
+          "expanded_url": "http://instagram.com/repmikequigley"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1902,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 193,
+  "location": "Chicago, IL; Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/56864092/1372814328",
+  "notifications": false,
+  "description": "#IL05 Congressman, House Appropriator, amateur hockey player & hopeful Cubs fan http://t.co/zL9fkzy188  http://t.co/FMe57EKfsC",
+  "profile_sidebar_border_color": "BDDCAD",
+  "protected": false,
+  "listed_count": 966,
+  "id_str": "56864092",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618504282862530560/jgDzBwmu_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 5231,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23313310/capitol_dome_2.jpg",
+  "id": 56864092,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Mike Quigley",
+  "profile_use_background_image": true,
+  "url": "http://t.co/wINsdAOzI8",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618504282862530560/jgDzBwmu_normal.jpg",
+  "created_at": "Wed Jul 15 00:10:43 +0000 2009",
+  "profile_background_color": "9AE4E8",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Celebrating the 20th Annual #ChicagoKoreanFestival with some awesome Korean BBQ and cultural performances http://t.co/r95eqmv2y6",
+    "id_str": "630168349553639424",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ChicagoKoreanFestival",
+          "indices": [
+            28,
+            50
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630168348593102848,
+          "indices": [
+            106,
+            128
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL7OxjaWIAAR3sn.jpg",
+          "expanded_url": "http://twitter.com/RepMikeQuigley/status/630168349553639424/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 480
+            }
+          },
+          "display_url": "pic.twitter.com/r95eqmv2y6",
+          "url": "http://t.co/r95eqmv2y6",
+          "id_str": "630168348593102848",
+          "media_url": "http://pbs.twimg.com/media/CL7OxjaWIAAR3sn.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630168349553639424,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 00:06:57 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 11168,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepMikeQuigley",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23313310/capitol_dome_2.jpg"
+}

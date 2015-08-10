@@ -1,0 +1,134 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "larson.house.gov",
+          "url": "http://t.co/eaLsNmvun7",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://larson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 346,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 7,
+  "location": "Hartford, CT",
+  "notifications": false,
+  "description": "Member of Congress representing the first congressional district of Connecticut.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 692,
+  "id_str": "50452197",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164210782/Twitter_profile_pic_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1401,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170274988/Twitter_new_BG.jpg",
+  "id": 50452197,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. John Larson",
+  "profile_use_background_image": true,
+  "url": "http://t.co/eaLsNmvun7",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1164210782/Twitter_profile_pic_normal.jpg",
+  "created_at": "Wed Jun 24 21:47:31 +0000 2009",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "#SocialSecurity turns 80 next week! Join me Monday to discuss how we can keep the program strong for another 80 years http://t.co/TiTn6o46NW",
+    "id_str": "629717315068674049",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "SocialSecurity",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629717314066325505,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL00j43WIAETN33.png",
+          "expanded_url": "http://twitter.com/RepJohnLarson/status/629717315068674049/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 170,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            }
+          },
+          "display_url": "pic.twitter.com/TiTn6o46NW",
+          "url": "http://t.co/TiTn6o46NW",
+          "id_str": "629717314066325505",
+          "media_url": "http://pbs.twimg.com/media/CL00j43WIAETN33.png",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629717315068674049,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 18:14:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 10134,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJohnLarson",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170274988/Twitter_new_BG.jpg"
+}

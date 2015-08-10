@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mccaskill.senate.gov",
+          "url": "http://t.co/pKvjyWTi5B",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mccaskill.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1482,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 6,
+  "location": "Missouri",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/57065141/1404849963",
+  "notifications": false,
+  "description": "Office of U.S. Senator Claire McCaskill. Staff updates on Claire's work for Missouri. Follow Claire herself @Clairecmc.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 472,
+  "id_str": "57065141",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/486587480154456064/lGkugEpE_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 3580,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443629164/twitterbg2.jpg",
+  "id": 57065141,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "McCaskill Office",
+  "profile_use_background_image": false,
+  "url": "http://t.co/pKvjyWTi5B",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/486587480154456064/lGkugEpE_normal.png",
+  "created_at": "Wed Jul 15 16:40:06 +0000 2009",
+  "profile_background_color": "AFB0B3",
+  "status": {
+    "id": 629746538315649024,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "As you can see, there\u2019s lots to explore in @VisitHermann! Thanks for joining us for this week\u2019s #MissouriSpotlight. See you next week.",
+    "id_str": "629746538315649024",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:10:49 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 2,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2930526274,
+          "indices": [
+            43,
+            56
+          ],
+          "screen_name": "VisitHermann",
+          "id_str": "2930526274",
+          "name": "Hermann, Missouri"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MissouriSpotlight",
+          "indices": [
+            96,
+            114
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 1,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 6635,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "5C8098",
+  "screen_name": "McCaskillOffice",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443629164/twitterbg2.jpg"
+}

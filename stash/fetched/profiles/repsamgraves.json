@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "graves.house.gov",
+          "url": "http://t.co/BZ1mlWEGMh",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://graves.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 741,
+  "verified": true,
+  "profile_text_color": "212121",
+  "favourites_count": 3,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29766367/1433798716",
+  "notifications": false,
+  "description": "Proudly representing Missouri's Sixth Congressional District",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 628,
+  "id_str": "29766367",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/496777563/SamGravesMO_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 6752,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/608022164042883074/2QTqW--Y.jpg",
+  "id": 29766367,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "D5D7E5",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Sam Graves",
+  "profile_use_background_image": true,
+  "url": "http://t.co/BZ1mlWEGMh",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/496777563/SamGravesMO_normal.jpg",
+  "created_at": "Wed Apr 08 17:20:43 +0000 2009",
+  "profile_background_color": "FFCC4D",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Illegal immigration is just that\u2013illegal. 1 thing that frustrates me most about DC is that people seem to forget that http://t.co/D2M8xLR5VJ",
+    "id_str": "623542713376473088",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "tinyurl.com/nfll9sc",
+          "url": "http://t.co/D2M8xLR5VJ",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://tinyurl.com/nfll9sc"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 623542713376473088,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Jul 21 17:19:02 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 10515,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "4A913C",
+  "screen_name": "RepSamGraves",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/608022164042883074/2QTqW--Y.jpg"
+}

@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cook.house.gov",
+          "url": "http://t.co/vy6a8Rp8SU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cook.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1124,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 73,
+  "location": "Apple Valley, California ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074412920/1421183704",
+  "notifications": false,
+  "description": "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 312,
+  "id_str": "1074412920",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1256,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg",
+  "id": 1074412920,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Paul Cook",
+  "profile_use_background_image": true,
+  "url": "http://t.co/vy6a8Rp8SU",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598193321467637761/pYlCDAPS_normal.jpg",
+  "created_at": "Wed Jan 09 17:43:44 +0000 2013",
+  "profile_background_color": "B1D2E3",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Spoke to Army Special Forces 10th Group officer abt new combat technologies employed by our military during training. http://t.co/vspsLUpkzm",
+    "id_str": "629387604861939712",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629387603733680129,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLwIsOKUkAEtqin.jpg",
+          "expanded_url": "http://twitter.com/RepPaulCook/status/629387604861939712/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/vspsLUpkzm",
+          "url": "http://t.co/vspsLUpkzm",
+          "id_str": "629387603733680129",
+          "media_url": "http://pbs.twimg.com/media/CLwIsOKUkAEtqin.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629387604861939712,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:24:33 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 3381,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepPaulCook",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830761609/d4edc9de925a0358919859f1b56fbcbf.jpeg"
+}

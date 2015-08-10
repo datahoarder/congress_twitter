@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "doggett.house.gov",
+          "url": "http://t.co/ukPGmJS3hB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://doggett.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 316,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "Texas",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/153944899/1399417080",
+  "notifications": false,
+  "description": "Representing communities from San Antonio to Austin.",
+  "profile_sidebar_border_color": "EEEEEE",
+  "protected": false,
+  "listed_count": 765,
+  "id_str": "153944899",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 1905,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629723942/1u7kylsd5cr1lcaen4pn.jpeg",
+  "id": 153944899,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Lloyd Doggett",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ukPGmJS3hB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2512072298/x393d17j8ghxhd4aieu2_normal.jpeg",
+  "created_at": "Wed Jun 09 23:53:50 +0000 2010",
+  "profile_background_color": "B2DFDA",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Pres. LBJ signed the Voting Rights Act 50 yrs ago. Since then, this impt law has been under attack. More in @NYtimes http://t.co/i5RtYw6e1a",
+    "id_str": "629292174744662016",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 807095,
+          "indices": [
+            108,
+            116
+          ],
+          "screen_name": "nytimes",
+          "id_str": "807095",
+          "name": "The New York Times"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "nytimes.com/2015/07/29/mag\u2026",
+          "url": "http://t.co/i5RtYw6e1a",
+          "indices": [
+            117,
+            139
+          ],
+          "expanded_url": "http://www.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html?_r=0"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629292174744662016,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 14:05:20 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 10850,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "93A644",
+  "screen_name": "RepLloydDoggett",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629723942/1u7kylsd5cr1lcaen4pn.jpeg"
+}

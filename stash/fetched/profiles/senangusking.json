@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "king.senate.gov",
+          "url": "http://t.co/i9TZOoGqOm",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://king.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 535,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 70,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068481578/1372272122",
+  "notifications": false,
+  "description": "News from the office of Independent U.S. Senator Angus King of Maine. Operated by the Press Team. Following/retweeting does not equal an endorsement.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 666,
+  "id_str": "1068481578",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1559,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1068481578,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Angus King",
+  "profile_use_background_image": false,
+  "url": "http://t.co/i9TZOoGqOm",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000406004520/c5e846a94969202654cf1ac5fafc3659_normal.jpeg",
+  "created_at": "Mon Jan 07 14:52:27 +0000 2013",
+  "profile_background_color": "045C0E",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Happy Nat'l Farmers' Market Week! No better place 2 celebrate than Maine in August: http://t.co/rw9JznxqqQ #growlocal #eatlocal #mepolitics",
+    "id_str": "630136464915849216",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "growlocal",
+          "indices": [
+            107,
+            117
+          ]
+        },
+        {
+          "text": "eatlocal",
+          "indices": [
+            118,
+            127
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            128,
+            139
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/1T6LfcG",
+          "url": "http://t.co/rw9JznxqqQ",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://bit.ly/1T6LfcG"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630136464915849216,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:00:15 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 12114,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenAngusKing",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

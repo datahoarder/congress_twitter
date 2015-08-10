@@ -1,0 +1,200 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "louise.house.gov",
+          "url": "http://t.co/6JvrOBwYzn",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.louise.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1446,
+  "verified": true,
+  "profile_text_color": "B98039",
+  "favourites_count": 85,
+  "location": "NY-25",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/63169388/1401918666",
+  "notifications": false,
+  "description": "Honored to serve the people of Rochester and Monroe County, NY. Only microbiologist in Congress and Ranking Member of the House Committee on Rules.",
+  "profile_sidebar_border_color": "9D611B",
+  "protected": false,
+  "listed_count": 842,
+  "id_str": "63169388",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/474307315772817408/fG7xA9eC_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1967,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730145860/20a2bc0e22d19592d83d43a246e1acff.jpeg",
+  "id": 63169388,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Louise Slaughter",
+  "profile_use_background_image": true,
+  "url": "http://t.co/6JvrOBwYzn",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/474307315772817408/fG7xA9eC_normal.jpeg",
+  "created_at": "Wed Aug 05 15:53:07 +0000 2009",
+  "profile_background_color": "1C2232",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @WhiteHouse: BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.\u2026",
+    "id_str": "628264552434696192",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 30313925,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "WhiteHouse",
+          "id_str": "30313925",
+          "name": "The White House"
+        },
+        {
+          "id": 1536791610,
+          "indices": [
+            37,
+            43
+          ],
+          "screen_name": "POTUS",
+          "id_str": "1536791610",
+          "name": "President Obama"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            61,
+            76
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            114,
+            127
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+          "url": "https://t.co/BU1PF0wjUK",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628264552434696192,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Mon Aug 03 18:01:56 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 8632,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 7368,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.co/BU1PF0wjUK",
+      "id_str": "627690347691274240",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 1536791610,
+            "indices": [
+              21,
+              27
+            ],
+            "screen_name": "POTUS",
+            "id_str": "1536791610",
+            "name": "President Obama"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              45,
+              60
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+            "url": "https://t.co/BU1PF0wjUK",
+            "indices": [
+              113,
+              136
+            ],
+            "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 627690347691274240,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sun Aug 02 04:00:15 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 8632,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 11473,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "DC5322",
+  "screen_name": "louiseslaughter",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730145860/20a2bc0e22d19592d83d43a246e1acff.jpeg"
+}

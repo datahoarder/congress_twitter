@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fb.com/repjeffduncan",
+          "url": "http://t.co/SmkIIIuAlq",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fb.com/repjeffduncan"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 13043,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 148,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240393970/1435074374",
+  "notifications": false,
+  "description": "Christian, husband, father, former small business owner, and Congressman for South Carolina's Third Congressional District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 944,
+  "id_str": "240393970",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553382963166314497/M8GsBySg_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3789,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/374397751/jeff_duncan_twitter_background_final.jpg",
+  "id": 240393970,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Jeff Duncan",
+  "profile_use_background_image": true,
+  "url": "http://t.co/SmkIIIuAlq",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553382963166314497/M8GsBySg_normal.jpeg",
+  "created_at": "Wed Jan 19 20:45:16 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 630188881284059136,
+    "truncated": false,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "in_reply_to_status_id_str": "630188372733075457",
+    "place": null,
+    "text": "@RODNEYSTPEARSON sent out schedule last week. Email me at jeff at jeffduncan dot com and I'll forward it.",
+    "id_str": "630188881284059136",
+    "in_reply_to_user_id_str": "2501723802",
+    "created_at": "Sun Aug 09 01:28:32 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 0,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": "RODNEYSTPEARSON",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2501723802,
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "RODNEYSTPEARSON",
+          "id_str": "2501723802",
+          "name": "STEVE"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 0,
+    "in_reply_to_status_id": 630188372733075457,
+    "in_reply_to_user_id": 2501723802
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 28516,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJeffDuncan",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/374397751/jeff_duncan_twitter_background_final.jpg"
+}

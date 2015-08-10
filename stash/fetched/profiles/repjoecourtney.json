@@ -1,0 +1,147 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "courtney.house.gov",
+          "url": "http://t.co/AUFMDc1ZOx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://courtney.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/JoeCourtney",
+          "url": "http://t.co/PmI5Hh73gK",
+          "indices": [
+            65,
+            87
+          ],
+          "expanded_url": "http://facebook.com/JoeCourtney"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1884,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 16,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/85396297/1351017771",
+  "notifications": false,
+  "description": "U.S. Congressman (CT-2) proudly representing eastern Connecticut.http://t.co/PmI5Hh73gK",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 674,
+  "id_str": "85396297",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3341,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 85396297,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Joe Courtney",
+  "profile_use_background_image": true,
+  "url": "http://t.co/AUFMDc1ZOx",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1417794144/New_Boston_Beef--North_Groves___35__normal.jpg",
+  "created_at": "Mon Oct 26 19:45:09 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "On Purple Heart Day, we honor US military veterans wounded in battle - http://t.co/lm7iraFeaQ http://t.co/lMnQ4Ah15w",
+    "id_str": "629739406761533440",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "history.com/this-day-in-hi\u2026",
+          "url": "http://t.co/lm7iraFeaQ",
+          "indices": [
+            71,
+            93
+          ],
+          "expanded_url": "http://www.history.com/this-day-in-history/washington-creates-the-purple-heart"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629739406262300672,
+          "indices": [
+            94,
+            116
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1Ip0tUcAAbMuB.jpg",
+          "expanded_url": "http://twitter.com/RepJoeCourtney/status/629739406761533440/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 265,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 468,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 468,
+              "resize": "fit",
+              "w": 600
+            }
+          },
+          "display_url": "pic.twitter.com/lMnQ4Ah15w",
+          "url": "http://t.co/lMnQ4Ah15w",
+          "id_str": "629739406262300672",
+          "media_url": "http://pbs.twimg.com/media/CL1Ip0tUcAAbMuB.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629739406761533440,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:42:29 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 10117,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJoeCourtney",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

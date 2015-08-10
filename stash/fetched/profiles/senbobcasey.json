@@ -1,0 +1,134 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "about.me/SenBobCasey",
+          "url": "http://t.co/EghtimAhrt",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://about.me/SenBobCasey"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 421,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 141,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/171598736/1398265516",
+  "notifications": false,
+  "description": "Official twitter profile for the press office of Senator Bob Casey.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1208,
+  "id_str": "171598736",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/594194802629029890/PMrapwli_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2417,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 171598736,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EEEEEE",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Bob Casey",
+  "profile_use_background_image": false,
+  "url": "http://t.co/EghtimAhrt",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/594194802629029890/PMrapwli_normal.jpg",
+  "created_at": "Tue Jul 27 18:38:20 +0000 2010",
+  "profile_background_color": "162F53",
+  "status": {
+    "id": 630070073806462976,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Congratulations to @steelers legend, @JeromeBettis36 as he's inducted to the @ProFootballHOF this evening! #TheBus #PFHOF15",
+    "id_str": "630070073806462976",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 17:36:26 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 19,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 19426729,
+          "indices": [
+            19,
+            28
+          ],
+          "screen_name": "steelers",
+          "id_str": "19426729",
+          "name": "Pittsburgh Steelers"
+        },
+        {
+          "id": 87518270,
+          "indices": [
+            37,
+            52
+          ],
+          "screen_name": "JeromeBettis36",
+          "id_str": "87518270",
+          "name": "Jerome Bettis"
+        },
+        {
+          "id": 23632910,
+          "indices": [
+            77,
+            92
+          ],
+          "screen_name": "ProFootballHOF",
+          "id_str": "23632910",
+          "name": "Pro Football HOF"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TheBus",
+          "indices": [
+            107,
+            114
+          ]
+        },
+        {
+          "text": "PFHOF15",
+          "indices": [
+            115,
+            123
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 10,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 25533,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "2F6291",
+  "screen_name": "SenBobCasey",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

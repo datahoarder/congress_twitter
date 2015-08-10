@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "goodlatte.house.gov",
+          "url": "http://t.co/tkJraDt3qU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://goodlatte.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 367,
+  "verified": true,
+  "profile_text_color": "663B12",
+  "favourites_count": 285,
+  "location": "Roanoke, VA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/37920978/1390317212",
+  "notifications": false,
+  "description": "Proudly representing the Sixth Congressional District of Virginia in the U.S. House of Representatives. Chair of @HouseJudiciary. #VA06 #HJC114",
+  "profile_sidebar_border_color": "C6E2EE",
+  "protected": false,
+  "listed_count": 1027,
+  "id_str": "37920978",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/425647736445079552/aBbh7qXA_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3582,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570276952217378816/G1ZKV-SU.jpeg",
+  "id": 37920978,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Bob Goodlatte",
+  "profile_use_background_image": true,
+  "url": "http://t.co/tkJraDt3qU",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/425647736445079552/aBbh7qXA_normal.jpeg",
+  "created_at": "Tue May 05 13:18:55 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Great time today at the @taubman_museum in Roanoke. Pictured here with Holly DiGangi and Amy\u2026 https://t.co/yKROI0w1Ep",
+    "id_str": "629735904740048897",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1923544465,
+          "indices": [
+            24,
+            39
+          ],
+          "screen_name": "Taubman_Museum",
+          "id_str": "1923544465",
+          "name": "Taubman Museum Art"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/6GAmUAON-n/",
+          "url": "https://t.co/yKROI0w1Ep",
+          "indices": [
+            94,
+            117
+          ],
+          "expanded_url": "https://instagram.com/p/6GAmUAON-n/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629735904740048897,
+    "truncated": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:28:34 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 14867,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGoodlatte",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570276952217378816/G1ZKV-SU.jpeg"
+}

@@ -1,0 +1,180 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "huelskamp.house.gov",
+          "url": "http://t.co/KiQoNwYcMr",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://huelskamp.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "huelskamp.house.gov",
+          "url": "http://t.co/QVnLuBoD",
+          "indices": [
+            75,
+            95
+          ],
+          "expanded_url": "http://huelskamp.house.gov"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2420,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 69,
+  "location": "Washington, D.C. ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/233761277/1425068216",
+  "notifications": false,
+  "description": "Conservative representing Kansas First District in the U.S. House of Reps. http://t.co/QVnLuBoD",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 782,
+  "id_str": "233761277",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253830027/Congressman_Huelskamp_Official_Headshot__Compressed__normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 5486,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326137975/Tribute.jpg",
+  "id": 233761277,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Cong. Tim Huelskamp",
+  "profile_use_background_image": true,
+  "url": "http://t.co/KiQoNwYcMr",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1253830027/Congressman_Huelskamp_Official_Headshot__Compressed__normal.jpg",
+  "created_at": "Tue Jan 04 01:43:06 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @macsentinel: @CongHuelskamp holds Town Hall in Inman http://t.co/Lu3jsJAcIv",
+    "id_str": "630021911943192576",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 40899095,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "macsentinel",
+          "id_str": "40899095",
+          "name": "McPherson Sentinel"
+        },
+        {
+          "id": 233761277,
+          "indices": [
+            17,
+            31
+          ],
+          "screen_name": "CongHuelskamp",
+          "id_str": "233761277",
+          "name": "Cong. Tim Huelskamp"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "mcphersonsentinel.com/article/201508\u2026",
+          "url": "http://t.co/Lu3jsJAcIv",
+          "indices": [
+            57,
+            79
+          ],
+          "expanded_url": "http://www.mcphersonsentinel.com/article/20150806/NEWS/150809662"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630021911943192576,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 14:25:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "@CongHuelskamp holds Town Hall in Inman http://t.co/Lu3jsJAcIv",
+      "id_str": "629754001471504384",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 233761277,
+            "indices": [
+              0,
+              14
+            ],
+            "screen_name": "CongHuelskamp",
+            "id_str": "233761277",
+            "name": "Cong. Tim Huelskamp"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "mcphersonsentinel.com/article/201508\u2026",
+            "url": "http://t.co/Lu3jsJAcIv",
+            "indices": [
+              40,
+              62
+            ],
+            "expanded_url": "http://www.mcphersonsentinel.com/article/20150806/NEWS/150809662"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": "CongHuelskamp",
+      "geo": null,
+      "in_reply_to_user_id": 233761277,
+      "id": 629754001471504384,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": "233761277",
+      "created_at": "Fri Aug 07 20:40:28 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 12174,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "CongHuelskamp",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326137975/Tribute.jpg"
+}

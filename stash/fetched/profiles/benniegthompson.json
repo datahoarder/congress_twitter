@@ -1,0 +1,201 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "benniethompson.house.gov",
+          "url": "http://t.co/POCpyzRcHb",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://benniethompson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 410,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 11,
+  "location": "Bolton, Mississippi",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/82453460/1421421552",
+  "notifications": false,
+  "description": "",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 331,
+  "id_str": "82453460",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/501754877597347841/O6OEfrSm_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 526,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 82453460,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "RepBThompson",
+  "profile_use_background_image": true,
+  "url": "http://t.co/POCpyzRcHb",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/501754877597347841/O6OEfrSm_normal.jpeg",
+  "created_at": "Wed Oct 14 20:47:03 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @dberrygannett: ! @BennieGThompson said topics at @CBCInstitute policy meeting in MS to include voting rights, criminal justice reform, \u2026",
+    "id_str": "628652552163323906",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 239974061,
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "dberrygannett",
+          "id_str": "239974061",
+          "name": "Deborah Berry "
+        },
+        {
+          "id": 82453460,
+          "indices": [
+            21,
+            37
+          ],
+          "screen_name": "BennieGThompson",
+          "id_str": "82453460",
+          "name": "RepBThompson"
+        },
+        {
+          "id": 278582590,
+          "indices": [
+            53,
+            66
+          ],
+          "screen_name": "CBCInstitute",
+          "id_str": "278582590",
+          "name": "CBC Institute"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628652552163323906,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Aug 04 19:43:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 628621530268835840,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": {
+        "id": "33d41d156b557913",
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Herndon, VA",
+        "name": "Herndon",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.413471,
+                38.953006
+              ],
+              [
+                -77.364481,
+                38.953006
+              ],
+              [
+                -77.364481,
+                38.988444
+              ],
+              [
+                -77.413471,
+                38.988444
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "country": "United States",
+        "url": "https://api.twitter.com/1.1/geo/id/33d41d156b557913.json",
+        "contained_within": [],
+        "place_type": "city"
+      },
+      "text": "! @BennieGThompson said topics at @CBCInstitute policy meeting in MS to include voting rights, criminal justice reform, student loans, HBCUs",
+      "id_str": "628621530268835840",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Tue Aug 04 17:40:26 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 0,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 82453460,
+            "indices": [
+              2,
+              18
+            ],
+            "screen_name": "BennieGThompson",
+            "id_str": "82453460",
+            "name": "RepBThompson"
+          },
+          {
+            "id": 278582590,
+            "indices": [
+              34,
+              47
+            ],
+            "screen_name": "CBCInstitute",
+            "id_str": "278582590",
+            "name": "CBC Institute"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 1,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 4806,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "BennieGThompson",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

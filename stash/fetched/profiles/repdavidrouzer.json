@@ -1,0 +1,217 @@
+{
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 343,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 20,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/834069080/1420561196",
+  "notifications": false,
+  "description": "Congressman from North Carolina's 7th Congressional district",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 77,
+  "id_str": "834069080",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552499650142273536/EKez3vEv_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 107,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 834069080,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "David Rouzer",
+  "profile_use_background_image": true,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552499650142273536/EKez3vEv_normal.jpeg",
+  "created_at": "Wed Sep 19 20:23:15 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @NCBev: Thanks @RepDavidRouzer for visiting Pepsi Bottling Ventures in Wilmington! http://t.co/8GL1EbVgOe",
+    "id_str": "629742668269158400",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 194680290,
+          "indices": [
+            3,
+            9
+          ],
+          "screen_name": "NCBev",
+          "id_str": "194680290",
+          "name": "NCBev"
+        },
+        {
+          "id": 834069080,
+          "indices": [
+            18,
+            33
+          ],
+          "screen_name": "RepDavidRouzer",
+          "id_str": "834069080",
+          "name": "David Rouzer"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628615709593960448,
+          "media_url": "http://pbs.twimg.com/media/CLlKqEaUAAACmv9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLlKqEaUAAACmv9.jpg",
+          "expanded_url": "http://twitter.com/NCBev/status/628615711125016577/photo/1",
+          "url": "http://t.co/8GL1EbVgOe",
+          "display_url": "pic.twitter.com/8GL1EbVgOe",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 194680290,
+          "source_user_id_str": "194680290",
+          "indices": [
+            86,
+            108
+          ],
+          "type": "photo",
+          "source_status_id": 628615711125016577,
+          "source_status_id_str": "628615711125016577",
+          "id_str": "628615709593960448"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629742668269158400,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:55:26 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Thanks @RepDavidRouzer for visiting Pepsi Bottling Ventures in Wilmington! http://t.co/8GL1EbVgOe",
+      "id_str": "628615711125016577",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 834069080,
+            "indices": [
+              7,
+              22
+            ],
+            "screen_name": "RepDavidRouzer",
+            "id_str": "834069080",
+            "name": "David Rouzer"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 628615709593960448,
+            "indices": [
+              75,
+              97
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLlKqEaUAAACmv9.jpg",
+            "expanded_url": "http://twitter.com/NCBev/status/628615711125016577/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 255,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 768,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/8GL1EbVgOe",
+            "url": "http://t.co/8GL1EbVgOe",
+            "id_str": "628615709593960448",
+            "media_url": "http://pbs.twimg.com/media/CLlKqEaUAAACmv9.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 628615711125016577,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Tue Aug 04 17:17:19 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1242,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDavidRouzer",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "castro.house.gov",
+          "url": "http://t.co/SBuEnv1k",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://castro.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 667,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 525,
+  "location": "San Antonio, Texas",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1437487579",
+  "notifications": false,
+  "description": "Texas Congressman",
+  "profile_sidebar_border_color": "EEEEEE",
+  "protected": false,
+  "listed_count": 840,
+  "id_str": "231510077",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 4860,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "id": 231510077,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EFEFEF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Joaquin Castro ",
+  "profile_use_background_image": true,
+  "url": "http://t.co/SBuEnv1k",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+  "created_at": "Tue Dec 28 18:41:02 +0000 2010",
+  "profile_background_color": "131516",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @politico: On Saturday, more than 900 American and Mexican runners raced back and forth across the border http://t.co/vlu0cEyQE9",
+    "id_str": "630179197965635584",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 9300262,
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "politico",
+          "id_str": "9300262",
+          "name": "POLITICO"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "politi.co/1hqisyK",
+          "url": "http://t.co/vlu0cEyQE9",
+          "indices": [
+            109,
+            131
+          ],
+          "expanded_url": "http://politi.co/1hqisyK"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630179197965635584,
+    "truncated": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 00:50:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 47,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 32,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "On Saturday, more than 900 American and Mexican runners raced back and forth across the border http://t.co/vlu0cEyQE9",
+      "id_str": "630089585117298688",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "politi.co/1hqisyK",
+            "url": "http://t.co/vlu0cEyQE9",
+            "indices": [
+              95,
+              117
+            ],
+            "expanded_url": "http://politi.co/1hqisyK"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630089585117298688,
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 18:53:58 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 47,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 29289,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "009999",
+  "screen_name": "JoaquinCastrotx",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif"
+}

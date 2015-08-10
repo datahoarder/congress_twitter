@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "jolly.house.gov",
+          "url": "http://t.co/7bXFXJjE5c",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.jolly.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 165,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 254,
+  "location": "Indian Shores, FL",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2482022082/1399746847",
+  "notifications": false,
+  "description": "Proudly representing Florida's 13th District and the people of Pinellas County in the U.S. House.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 117,
+  "id_str": "2482022082",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/464196322317189120/MESrxe3f_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 812,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465210678727303168/7VmHm-Bj.jpeg",
+  "id": 2482022082,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "David Jolly",
+  "profile_use_background_image": false,
+  "url": "http://t.co/7bXFXJjE5c",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/464196322317189120/MESrxe3f_normal.png",
+  "created_at": "Wed May 07 12:35:31 +0000 2014",
+  "profile_background_color": "F0F3F5",
+  "status": {
+    "favorite_count": 6,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "I'd like to recognize Adam Boggs of my staff. Adam, a Marine LCpl, earned a #PurpleHeart in Operation Iraqi Freedom. http://t.co/BlJTibPdFA",
+    "id_str": "629691492047654912",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            76,
+            88
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629691491095482368,
+          "indices": [
+            117,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL0dEyzVEAAoLqA.jpg",
+          "expanded_url": "http://twitter.com/USRepDavidJolly/status/629691492047654912/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 842,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 477,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1438,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/BlJTibPdFA",
+          "url": "http://t.co/BlJTibPdFA",
+          "id_str": "629691491095482368",
+          "media_url": "http://pbs.twimg.com/media/CL0dEyzVEAAoLqA.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629691492047654912,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 16:32:05 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 1772,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "379AC7",
+  "screen_name": "USRepDavidJolly",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465210678727303168/7VmHm-Bj.jpeg"
+}

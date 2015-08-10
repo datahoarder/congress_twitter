@@ -1,0 +1,132 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Trott.House.gov",
+          "url": "http://t.co/IbwtalQDVL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.Trott.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 39,
+  "verified": false,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2869746172/1434546372",
+  "notifications": false,
+  "description": "U.S. Representative for Michigan's 11th Congressional District.\nA Leader Southeast Michigan Can Rely On",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 80,
+  "id_str": "2869746172",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552471585265692672/Ib8ljnzK_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 103,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2869746172,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Dave Trott",
+  "profile_use_background_image": true,
+  "url": "http://t.co/IbwtalQDVL",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552471585265692672/Ib8ljnzK_normal.jpeg",
+  "created_at": "Sun Nov 09 22:42:17 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Reminding Sec.of State @JohnKerry that you can't do a good deal with a bad guy. #IranDeal #BadDeal #NoNuclearIran https://t.co/pRh3oP5dPj",
+    "id_str": "626104147696156672",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 15007149,
+          "indices": [
+            23,
+            33
+          ],
+          "screen_name": "JohnKerry",
+          "id_str": "15007149",
+          "name": "John Kerry"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            80,
+            89
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            90,
+            98
+          ]
+        },
+        {
+          "text": "NoNuclearIran",
+          "indices": [
+            99,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "youtu.be/V9dAy4cMwXw",
+          "url": "https://t.co/pRh3oP5dPj",
+          "indices": [
+            114,
+            137
+          ],
+          "expanded_url": "https://youtu.be/V9dAy4cMwXw"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 626104147696156672,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Jul 28 18:57:15 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1127,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "repdavetrott",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

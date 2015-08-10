@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "bishop.house.gov",
+          "url": "http://t.co/ozJucyCFUb",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bishop.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "fb.me/sanfordbishop",
+          "url": "http://t.co/jORrdOYPnj",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://fb.me/sanfordbishop"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 756,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 35,
+  "location": "Georgia 2nd CD & Washington DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249410485/1402940063",
+  "notifications": false,
+  "description": "Proudly representing Georgia's 2nd Congressional District.\r\nRanking Member of MilCon/VA Approps Subcommittee \r\nhttp://t.co/jORrdOYPnj",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 507,
+  "id_str": "249410485",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2429733840/rjl32rw6zxkszb84av5z_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1215,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116677422/da053d79162bc9230a13c02fec78db28.jpeg",
+  "id": 249410485,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Sanford Bishop, Jr.",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ozJucyCFUb",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2429733840/rjl32rw6zxkszb84av5z_normal.jpeg",
+  "created_at": "Wed Feb 09 00:23:10 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 629319994602602496,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "We can\u2019t go back! Beyond time to #restore the #VotingRightsAct. It\u2019s the right thing to do! #VRA50",
+    "id_str": "629319994602602496",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 15:55:53 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 3,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "restore",
+          "indices": [
+            33,
+            41
+          ]
+        },
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            46,
+            62
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            92,
+            98
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 4,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 7534,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "007BA8",
+  "screen_name": "SanfordBishop",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116677422/da053d79162bc9230a13c02fec78db28.jpeg"
+}

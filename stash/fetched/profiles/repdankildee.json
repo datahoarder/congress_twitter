@@ -1,0 +1,157 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "dankildee.house.gov",
+          "url": "http://t.co/0rIZMRJQSp",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.dankildee.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 15354,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 15,
+  "location": "Michigan and Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045110018/1431108305",
+  "notifications": false,
+  "description": "Honored to represent Michigan's Fifth Congressional District. Born and raised in Flint. Proud husband, father and grandfather.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 511,
+  "id_str": "1045110018",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618451037272174593/JhVLymBj_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1959,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752687162/4e627bfe8183198fa260eab197b1b821.jpeg",
+  "id": 1045110018,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Dan Kildee",
+  "profile_use_background_image": true,
+  "url": "http://t.co/0rIZMRJQSp",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618451037272174593/JhVLymBj_normal.jpg",
+  "created_at": "Sat Dec 29 15:05:47 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 629743905492238336,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "#FF Flint Cultural Center for a summer of arts &amp; culture in mid-Michigan! @TheFIA @LongwayP @TheFIM @SloanMuseum @F_Youth_T @Flintlibrary",
+    "id_str": "629743905492238336",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:00:21 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 7,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 30415981,
+          "indices": [
+            78,
+            85
+          ],
+          "screen_name": "TheFIA",
+          "id_str": "30415981",
+          "name": "Flint Inst of Arts"
+        },
+        {
+          "id": 82679511,
+          "indices": [
+            86,
+            95
+          ],
+          "screen_name": "LongwayP",
+          "id_str": "82679511",
+          "name": "Longway Planetarium"
+        },
+        {
+          "id": 50372988,
+          "indices": [
+            96,
+            103
+          ],
+          "screen_name": "thefim",
+          "id_str": "50372988",
+          "name": "Flint Inst. of Music"
+        },
+        {
+          "id": 20070196,
+          "indices": [
+            104,
+            116
+          ],
+          "screen_name": "SloanMuseum",
+          "id_str": "20070196",
+          "name": "Sloan Museum"
+        },
+        {
+          "id": 76714151,
+          "indices": [
+            117,
+            127
+          ],
+          "screen_name": "F_Youth_T",
+          "id_str": "76714151",
+          "name": "Flint Youth Theatre"
+        },
+        {
+          "id": 48741136,
+          "indices": [
+            128,
+            141
+          ],
+          "screen_name": "flintlibrary",
+          "id_str": "48741136",
+          "name": "Flint Public Library"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FF",
+          "indices": [
+            0,
+            3
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 1,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 17099,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDanKildee",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752687162/4e627bfe8183198fa260eab197b1b821.jpeg"
+}

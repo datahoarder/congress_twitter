@@ -1,0 +1,59 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "robbishop.house.gov",
+          "url": "http://t.co/I1sp1BC4hV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://robbishop.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 95,
+  "verified": false,
+  "profile_text_color": "663B12",
+  "favourites_count": 0,
+  "location": "Brigham City or D.C.",
+  "notifications": false,
+  "description": "",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 213,
+  "id_str": "148006729",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3109160630/33a07d93e3a6d94dfed94c4fbd6501eb_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 0,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/763877627/832c1bd21f98b66ed7face81d06a8001.jpeg",
+  "id": 148006729,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rob Bishop",
+  "profile_use_background_image": true,
+  "url": "http://t.co/I1sp1BC4hV",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3109160630/33a07d93e3a6d94dfed94c4fbd6501eb_normal.jpeg",
+  "created_at": "Tue May 25 16:02:26 +0000 2010",
+  "profile_background_color": "C6E2EE",
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 1525,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "1F98C7",
+  "screen_name": "RepRobBishop",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/763877627/832c1bd21f98b66ed7face81d06a8001.jpeg"
+}

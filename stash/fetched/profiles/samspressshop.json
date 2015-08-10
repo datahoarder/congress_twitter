@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "samjohnson.house.gov",
+          "url": "http://t.co/16udr7zv3r",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://samjohnson.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 437,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 9,
+  "location": "Third District of Texas",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/249288197/1412864117",
+  "notifications": false,
+  "description": "Faithfully serving the Third Congressional District of Texas.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 425,
+  "id_str": "249288197",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238704702/CSJ41303WylieRallyCsjCloser_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 675,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/862041835/be48c838464ad1d0ab01e510a0e4e4cb.jpeg",
+  "id": 249288197,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Sam Johnson",
+  "profile_use_background_image": false,
+  "url": "http://t.co/16udr7zv3r",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1238704702/CSJ41303WylieRallyCsjCloser_normal.jpg",
+  "created_at": "Tue Feb 08 19:01:18 +0000 2011",
+  "profile_background_color": "D51507",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It was great to be with the men and women who protect and serve @CityOfMcKinney at the National Night Out! http://t.co/YlmvYefJCV",
+    "id_str": "629066032569819136",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 43159584,
+          "indices": [
+            64,
+            79
+          ],
+          "screen_name": "CityOfMcKinney",
+          "id_str": "43159584",
+          "name": "City of McKinney, Tx"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629066031978262529,
+          "indices": [
+            107,
+            129
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLrkOSBUMAEAPDS.jpg",
+          "expanded_url": "http://twitter.com/SamsPressShop/status/629066032569819136/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 258,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 455,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 729,
+              "resize": "fit",
+              "w": 960
+            }
+          },
+          "display_url": "pic.twitter.com/YlmvYefJCV",
+          "url": "http://t.co/YlmvYefJCV",
+          "id_str": "629066031978262529",
+          "media_url": "http://pbs.twimg.com/media/CLrkOSBUMAEAPDS.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629066032569819136,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 23:06:44 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 3803,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0B1291",
+  "screen_name": "SamsPressShop",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/862041835/be48c838464ad1d0ab01e510a0e4e4cb.jpeg"
+}

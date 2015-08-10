@@ -1,0 +1,250 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Kinzinger.house.gov",
+          "url": "http://t.co/ngCuI6hx3S",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Kinzinger.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 978,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 42,
+  "location": "Channahon, IL",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/219429281/1389040450",
+  "notifications": false,
+  "description": "I represent Illinois' 16th District. It's an honor to serve in Congress on Energy & Commerce and as a pilot in the Air National Guard.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 809,
+  "id_str": "219429281",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/558291783386279936/KjMVEobV_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2708,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163755523/Dp_tUqQn.jpeg",
+  "id": 219429281,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Adam Kinzinger",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ngCuI6hx3S",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/558291783386279936/KjMVEobV_normal.png",
+  "created_at": "Wed Nov 24 21:04:11 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @rrstar: U.S. @RepKinzinger: Export-Import Bank vital to all U.S. manufacturers http://t.co/Idp8EyB2d0 http://t.co/5j5nNG1Mgi",
+    "id_str": "629656589218283520",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 14026372,
+          "indices": [
+            3,
+            10
+          ],
+          "screen_name": "rrstar",
+          "id_str": "14026372",
+          "name": "Register Star"
+        },
+        {
+          "id": 219429281,
+          "indices": [
+            17,
+            30
+          ],
+          "screen_name": "RepKinzinger",
+          "id_str": "219429281",
+          "name": "Adam Kinzinger"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/QBpgO",
+          "url": "http://t.co/Idp8EyB2d0",
+          "indices": [
+            83,
+            105
+          ],
+          "expanded_url": "http://ow.ly/QBpgO"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629619446441766912,
+          "media_url": "http://pbs.twimg.com/media/CLzbjPjW8AA8fTP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLzbjPjW8AA8fTP.jpg",
+          "expanded_url": "http://twitter.com/rrstar/status/629619446726922241/photo/1",
+          "url": "http://t.co/5j5nNG1Mgi",
+          "display_url": "pic.twitter.com/5j5nNG1Mgi",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 315
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 315
+            },
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 315
+            }
+          },
+          "source_user_id": 14026372,
+          "source_user_id_str": "14026372",
+          "indices": [
+            106,
+            128
+          ],
+          "type": "photo",
+          "source_status_id": 629619446726922241,
+          "source_status_id_str": "629619446726922241",
+          "id_str": "629619446441766912"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629656589218283520,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:13:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 4,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "U.S. @RepKinzinger: Export-Import Bank vital to all U.S. manufacturers http://t.co/Idp8EyB2d0 http://t.co/5j5nNG1Mgi",
+      "id_str": "629619446726922241",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 219429281,
+            "indices": [
+              5,
+              18
+            ],
+            "screen_name": "RepKinzinger",
+            "id_str": "219429281",
+            "name": "Adam Kinzinger"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/QBpgO",
+            "url": "http://t.co/Idp8EyB2d0",
+            "indices": [
+              71,
+              93
+            ],
+            "expanded_url": "http://ow.ly/QBpgO"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629619446441766912,
+            "indices": [
+              94,
+              116
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLzbjPjW8AA8fTP.jpg",
+            "expanded_url": "http://twitter.com/rrstar/status/629619446726922241/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "small": {
+                "h": 240,
+                "resize": "fit",
+                "w": 315
+              },
+              "medium": {
+                "h": 240,
+                "resize": "fit",
+                "w": 315
+              },
+              "large": {
+                "h": 240,
+                "resize": "fit",
+                "w": 315
+              }
+            },
+            "display_url": "pic.twitter.com/5j5nNG1Mgi",
+            "url": "http://t.co/5j5nNG1Mgi",
+            "id_str": "629619446441766912",
+            "media_url": "http://pbs.twimg.com/media/CLzbjPjW8AA8fTP.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629619446726922241,
+      "truncated": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 11:45:48 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 14079,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepKinzinger",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163755523/Dp_tUqQn.jpeg"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "bera.house.gov",
+          "url": "http://t.co/clGCUwD756",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://bera.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 96,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3,
+  "location": "Elk Grove, California",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/950783972/1357347841",
+  "notifications": false,
+  "description": "Ami Bera M.D., representing Sacramento County, California #CA7 in the U.S. House of Representatives.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 438,
+  "id_str": "950783972",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3244243958/a4600580a7ebb6f80d9f0c368cbe4df8_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1452,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 950783972,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Congressman Ami Bera",
+  "profile_use_background_image": true,
+  "url": "http://t.co/clGCUwD756",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3244243958/a4600580a7ebb6f80d9f0c368cbe4df8_normal.jpeg",
+  "created_at": "Fri Nov 16 01:39:54 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Enjoyed #NationalNightOut in Vineyard and Elk Grove earlier this week. Great event to bring neighborhoods together! http://t.co/w9DPiA1ZMg",
+    "id_str": "630099963394064384",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "NationalNightOut",
+          "indices": [
+            8,
+            25
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630099962903162880,
+          "indices": [
+            116,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL6Qk-3UcAAHhKK.jpg",
+          "expanded_url": "http://twitter.com/RepBera/status/630099963394064384/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/w9DPiA1ZMg",
+          "url": "http://t.co/w9DPiA1ZMg",
+          "id_str": "630099962903162880",
+          "media_url": "http://pbs.twimg.com/media/CL6Qk-3UcAAHhKK.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630099963394064384,
+    "truncated": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 19:35:12 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 7142,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBera",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

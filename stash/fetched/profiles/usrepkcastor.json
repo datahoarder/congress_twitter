@@ -1,0 +1,170 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Castor.House.gov",
+          "url": "http://t.co/J4gESZtTFL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Castor.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1089,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 202,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880674038/1437504570",
+  "notifications": false,
+  "description": "Tampa Bay's Congresswoman",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 208,
+  "id_str": "1880674038",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/551107768103755778/d5J9BHgH_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1209,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1880674038,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "US Rep Kathy Castor",
+  "profile_use_background_image": true,
+  "url": "http://t.co/J4gESZtTFL",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/551107768103755778/d5J9BHgH_normal.jpeg",
+  "created_at": "Wed Sep 18 20:03:57 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @vickiecusf: My favorite Sunday read today, particularly since @USFHonors is such a gem. https://t.co/ZiXGkEfmIW",
+    "id_str": "630377896570417154",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 262300948,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "vickiecusf",
+          "id_str": "262300948",
+          "name": "Vickie Chachere"
+        },
+        {
+          "id": 160558188,
+          "indices": [
+            66,
+            76
+          ],
+          "screen_name": "USFHonors",
+          "id_str": "160558188",
+          "name": "Honors College @ USF"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/frankbruni/sta\u2026",
+          "url": "https://t.co/ZiXGkEfmIW",
+          "indices": [
+            92,
+            115
+          ],
+          "expanded_url": "https://twitter.com/frankbruni/status/630350717719441408"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630377896570417154,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 13:59:37 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "My favorite Sunday read today, particularly since @USFHonors is such a gem. https://t.co/ZiXGkEfmIW",
+      "id_str": "630374830014111745",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 160558188,
+            "indices": [
+              50,
+              60
+            ],
+            "screen_name": "USFHonors",
+            "id_str": "160558188",
+            "name": "Honors College @ USF"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/frankbruni/sta\u2026",
+            "url": "https://t.co/ZiXGkEfmIW",
+            "indices": [
+              76,
+              99
+            ],
+            "expanded_url": "https://twitter.com/frankbruni/status/630350717719441408"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630374830014111745,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sun Aug 09 13:47:25 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 2683,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "USRepKCastor",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

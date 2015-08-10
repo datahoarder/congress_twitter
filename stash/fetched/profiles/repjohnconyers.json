@@ -1,0 +1,200 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "conyers.house.gov",
+          "url": "http://t.co/oluJP0z1OD",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.conyers.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 726,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 214,
+  "location": "Detroit/Washington D.C. ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/138770045/1410989583",
+  "notifications": false,
+  "description": "Official Twitter account for John Conyers, Jr., Representing Michigan's 13th Congressional District in the U.S. House of Representatives | RTs \u2260 Endorsements",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 919,
+  "id_str": "138770045",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/562453745489825792/sqtbTNrY_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1617,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 138770045,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "John Conyers",
+  "profile_use_background_image": false,
+  "url": "http://t.co/oluJP0z1OD",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/562453745489825792/sqtbTNrY_normal.jpeg",
+  "created_at": "Fri Apr 30 14:49:06 +0000 2010",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @SenGaryPeters: Powerful op-ed by my colleague @repjohnconyers on the urgent need to set aside partisanship &amp; #RestoreTheVRA: http://t.c\u2026",
+    "id_str": "629384134004060160",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 236511574,
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "SenGaryPeters",
+          "id_str": "236511574",
+          "name": "Senator Gary Peters"
+        },
+        {
+          "id": 138770045,
+          "indices": [
+            50,
+            65
+          ],
+          "screen_name": "repjohnconyers",
+          "id_str": "138770045",
+          "name": "John Conyers"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            117,
+            131
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "detroitnews.com/story/opinion/\u2026",
+          "url": "http://t.co/1pIMA4J2l7",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://www.detroitnews.com/story/opinion/2015/08/06/conyers-restore-voting-rights-act/31178607"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629384134004060160,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:10:45 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Powerful op-ed by my colleague @repjohnconyers on the urgent need to set aside partisanship &amp; #RestoreTheVRA: http://t.co/1pIMA4J2l7 #VRA50",
+      "id_str": "629375914623668224",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 138770045,
+            "indices": [
+              31,
+              46
+            ],
+            "screen_name": "repjohnconyers",
+            "id_str": "138770045",
+            "name": "John Conyers"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              98,
+              112
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              137,
+              143
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "detroitnews.com/story/opinion/\u2026",
+            "url": "http://t.co/1pIMA4J2l7",
+            "indices": [
+              114,
+              136
+            ],
+            "expanded_url": "http://www.detroitnews.com/story/opinion/2015/08/06/conyers-restore-voting-rights-act/31178607"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629375914623668224,
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 19:38:05 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 17208,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "3B94D9",
+  "screen_name": "repjohnconyers",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

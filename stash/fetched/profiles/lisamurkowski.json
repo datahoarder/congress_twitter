@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "murkowski.senate.gov",
+          "url": "http://t.co/7OYLmD37oC",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://murkowski.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 497,
+  "verified": true,
+  "profile_text_color": "666666",
+  "favourites_count": 12,
+  "location": "Alaska & Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18061669/1421099983",
+  "notifications": false,
+  "description": "Official Twitter account for U.S. Senator Lisa Murkowski. Follow me for news and updates on what's happening in the Senate and across Alaska.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1966,
+  "id_str": "18061669",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/613403354245562368/OukbMzMT_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3108,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532937815269453825/CVoJf05k.jpeg",
+  "id": 18061669,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "252429",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Sen. Lisa Murkowski",
+  "profile_use_background_image": false,
+  "url": "http://t.co/7OYLmD37oC",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/613403354245562368/OukbMzMT_normal.jpg",
+  "created_at": "Thu Dec 11 21:55:19 +0000 2008",
+  "profile_background_color": "3F4C6B",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Woke up to a beautiful morning in Ketchikan. So glad to be home in state for the next month where the\u2026 https://t.co/j61O6GJany",
+    "id_str": "630057773200474112",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/6IS92DGQ6l/",
+          "url": "https://t.co/j61O6GJany",
+          "indices": [
+            103,
+            126
+          ],
+          "expanded_url": "https://instagram.com/p/6IS92DGQ6l/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630057773200474112,
+    "truncated": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 16:47:33 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 30775,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "2FC2EF",
+  "screen_name": "lisamurkowski",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532937815269453825/CVoJf05k.jpeg"
+}

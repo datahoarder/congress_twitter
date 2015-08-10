@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "defazio.house.gov",
+          "url": "http://t.co/QVPjYtiwNC",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.defazio.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 747,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/252249233/1392145855",
+  "notifications": false,
+  "description": "Representing the 4th Congressional District in Oregon",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 643,
+  "id_str": "252249233",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/433317647241859072/r361UudO_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 744,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 252249233,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Rep Peter DeFazio",
+  "profile_use_background_image": true,
+  "url": "http://t.co/QVPjYtiwNC",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/433317647241859072/r361UudO_normal.jpeg",
+  "created_at": "Mon Feb 14 20:20:20 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 7,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Spoke about my bill requiring early warning systems for earthquakes @Univ_Of_Oregon last night. We must be prepared! http://t.co/bhBfL4VQqr",
+    "id_str": "629770020592201728",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 40940457,
+          "indices": [
+            68,
+            83
+          ],
+          "screen_name": "Univ_Of_Oregon",
+          "id_str": "40940457",
+          "name": "University of Oregon"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629770020491534340,
+          "indices": [
+            117,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1kfzmWoAQGKwG.jpg",
+          "expanded_url": "http://twitter.com/RepPeterDeFazio/status/629770020592201728/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/bhBfL4VQqr",
+          "url": "http://t.co/bhBfL4VQqr",
+          "id_str": "629770020491534340",
+          "media_url": "http://pbs.twimg.com/media/CL1kfzmWoAQGKwG.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629770020592201728,
+    "truncated": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:44:08 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 9793,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepPeterDeFazio",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

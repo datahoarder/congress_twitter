@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "walorski.house.gov",
+          "url": "http://t.co/1c3JNm0kJ5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://walorski.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 699,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 573,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065995022/1421248525",
+  "notifications": false,
+  "description": "Representing Indiana's Second Congressional District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 358,
+  "id_str": "1065995022",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2536,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555380040800550912/vCwvj9CV.jpeg",
+  "id": 1065995022,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Jackie Walorski",
+  "profile_use_background_image": false,
+  "url": "http://t.co/1c3JNm0kJ5",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3073698516/4b6a35b98362ceeac03b29fcc016f9ae_normal.jpeg",
+  "created_at": "Sun Jan 06 15:41:40 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Who's Who in IN-02 this week goes to the North Miami FFA for raising funds for fellow student Read why here: http://t.co/3VhMnqowmz",
+    "id_str": "628672705395585024",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1OOnTlI",
+          "url": "http://t.co/3VhMnqowmz",
+          "indices": [
+            109,
+            131
+          ],
+          "expanded_url": "http://1.usa.gov/1OOnTlI"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628672705395585024,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Aug 04 21:03:47 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 4674,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepWalorski",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555380040800550912/vCwvj9CV.jpeg"
+}

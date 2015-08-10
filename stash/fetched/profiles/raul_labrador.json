@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "labrador.house.gov",
+          "url": "http://t.co/6B5v8If4F2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://labrador.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 524,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 2,
+  "location": "Eagle, Idaho",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/246341769/1361756812",
+  "notifications": false,
+  "description": "Proudly serving Idaho's beautiful 1st Congressional District.",
+  "profile_sidebar_border_color": "A8C7F7",
+  "protected": false,
+  "listed_count": 660,
+  "id_str": "246341769",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277129862/Smaller_Picture_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 1128,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444368439/district2.jpg",
+  "id": 246341769,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Ra\u00fal R. Labrador",
+  "profile_use_background_image": true,
+  "url": "http://t.co/6B5v8If4F2",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1277129862/Smaller_Picture_normal.jpg",
+  "created_at": "Wed Feb 02 16:26:52 +0000 2011",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "This week's newsletter: Ensuring accountability in the care of America's veterans. http://t.co/WsVRYiwUco",
+    "id_str": "629674154111971328",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/1giFA1s",
+          "url": "http://t.co/WsVRYiwUco",
+          "indices": [
+            83,
+            105
+          ],
+          "expanded_url": "http://bit.ly/1giFA1s"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629674154111971328,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 15:23:11 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 9384,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "Raul_Labrador",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444368439/district2.jpg"
+}

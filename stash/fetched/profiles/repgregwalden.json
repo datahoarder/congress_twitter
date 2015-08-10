@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "walden.house.gov",
+          "url": "http://t.co/OaQpygP0kf",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://walden.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 166,
+  "verified": true,
+  "profile_text_color": "0A090A",
+  "favourites_count": 0,
+  "location": "Oregon",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/32010840/1408657438",
+  "notifications": false,
+  "description": "Proudly serving the people of Oregon's Second Congressional District.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 984,
+  "id_str": "32010840",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/499960996849401858/Kto9iFNZ_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 1515,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725519139/89fb1767efa29b2cec7a759bbb6cab30.jpeg",
+  "id": 32010840,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FAFAFA",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Rep. Greg Walden",
+  "profile_use_background_image": true,
+  "url": "http://t.co/OaQpygP0kf",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/499960996849401858/Kto9iFNZ_normal.jpeg",
+  "created_at": "Thu Apr 16 17:31:34 +0000 2009",
+  "profile_background_color": "336600",
+  "status": {
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Congratulations to my Deputy Chief of Staff Andrew Malcolm on getting married to his fantastic wife Liz this weekend! http://t.co/scHBxDdQ0o",
+    "id_str": "630181724241182720",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630181723700088832,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL7a8FkWUAA9oaz.jpg",
+          "expanded_url": "http://twitter.com/repgregwalden/status/630181724241182720/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/scHBxDdQ0o",
+          "url": "http://t.co/scHBxDdQ0o",
+          "id_str": "630181723700088832",
+          "media_url": "http://pbs.twimg.com/media/CL7a8FkWUAA9oaz.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630181724241182720,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 01:00:05 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 11919,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "336600",
+  "screen_name": "repgregwalden",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725519139/89fb1767efa29b2cec7a759bbb6cab30.jpeg"
+}

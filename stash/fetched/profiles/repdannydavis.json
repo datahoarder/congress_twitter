@@ -1,0 +1,308 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "davis.house.gov",
+          "url": "http://t.co/VbCPNOUYF0",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://davis.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 325,
+  "verified": false,
+  "profile_text_color": "333333",
+  "favourites_count": 12,
+  "location": "Chicago, IL",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/789244177/1421861843",
+  "notifications": false,
+  "description": "US House Representative for Illinois' 7th Congressional District.\r\nServing on the Committee on Ways and Means.\r\nFollowing/retweeting does not equal endorsement.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 140,
+  "id_str": "789244177",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 408,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618070711224139776/6AA4A4VD.jpg",
+  "id": 789244177,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Danny Davis",
+  "profile_use_background_image": true,
+  "url": "http://t.co/VbCPNOUYF0",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3401719858/fcb6d46529b4a43ccc07c296062ddb19_normal.jpeg",
+  "created_at": "Wed Aug 29 12:31:09 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @mrpr: @cbschicago speaks with @RepDannyDavis today about #politics and #violence at the #BudBillikenParade #BacktoSchool http://t.co/KB\u2026",
+    "id_str": "630196970817200128",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 16620872,
+          "indices": [
+            3,
+            8
+          ],
+          "screen_name": "mrpr",
+          "id_str": "16620872",
+          "name": "A.C. McLean"
+        },
+        {
+          "id": 15032862,
+          "indices": [
+            10,
+            21
+          ],
+          "screen_name": "cbschicago",
+          "id_str": "15032862",
+          "name": "CBS Chicago"
+        },
+        {
+          "id": 789244177,
+          "indices": [
+            34,
+            48
+          ],
+          "screen_name": "RepDannyDavis",
+          "id_str": "789244177",
+          "name": "Rep. Danny Davis"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "politics",
+          "indices": [
+            61,
+            70
+          ]
+        },
+        {
+          "text": "violence",
+          "indices": [
+            75,
+            84
+          ]
+        },
+        {
+          "text": "BudBillikenParade",
+          "indices": [
+            92,
+            110
+          ]
+        },
+        {
+          "text": "BacktoSchool",
+          "indices": [
+            111,
+            124
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630150721283883008,
+          "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+          "url": "http://t.co/KB7d5Oda9J",
+          "display_url": "pic.twitter.com/KB7d5Oda9J",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 1066,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 604,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1600,
+              "resize": "fit",
+              "w": 900
+            }
+          },
+          "source_user_id": 16620872,
+          "source_user_id_str": "16620872",
+          "indices": [
+            125,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 630150721829257216,
+          "source_status_id_str": "630150721829257216",
+          "id_str": "630150721283883008"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630196970817200128,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 02:00:40 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "@cbschicago speaks with @RepDannyDavis today about #politics and #violence at the #BudBillikenParade #BacktoSchool http://t.co/KB7d5Oda9J",
+      "id_str": "630150721829257216",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 15032862,
+            "indices": [
+              0,
+              11
+            ],
+            "screen_name": "cbschicago",
+            "id_str": "15032862",
+            "name": "CBS Chicago"
+          },
+          {
+            "id": 789244177,
+            "indices": [
+              24,
+              38
+            ],
+            "screen_name": "RepDannyDavis",
+            "id_str": "789244177",
+            "name": "Rep. Danny Davis"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "politics",
+            "indices": [
+              51,
+              60
+            ]
+          },
+          {
+            "text": "violence",
+            "indices": [
+              65,
+              74
+            ]
+          },
+          {
+            "text": "BudBillikenParade",
+            "indices": [
+              82,
+              100
+            ]
+          },
+          {
+            "text": "BacktoSchool",
+            "indices": [
+              101,
+              114
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630150721283883008,
+            "indices": [
+              115,
+              137
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 1066,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 604,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 1600,
+                "resize": "fit",
+                "w": 900
+              }
+            },
+            "display_url": "pic.twitter.com/KB7d5Oda9J",
+            "url": "http://t.co/KB7d5Oda9J",
+            "id_str": "630150721283883008",
+            "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": "cbschicago",
+      "geo": null,
+      "in_reply_to_user_id": 15032862,
+      "id": 630150721829257216,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": "15032862",
+      "created_at": "Sat Aug 08 22:56:54 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 1679,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDannyDavis",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618070711224139776/6AA4A4VD.jpg"
+}

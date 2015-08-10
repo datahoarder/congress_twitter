@@ -1,0 +1,181 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "visclosky.house.gov",
+          "url": "http://t.co/NunATQ3IeS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://visclosky.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "bit.ly/LCodHv",
+          "url": "http://t.co/Wi81U7L5zE",
+          "indices": [
+            137,
+            159
+          ],
+          "expanded_url": "http://bit.ly/LCodHv"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1080,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 39,
+  "location": "Northwest, IN - Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/193872188/1433276783",
+  "notifications": false,
+  "description": "Tweets from the Office of Congressman Pete Visclosky, proudly representing the people of Indiana's First Congressional District. Policy: http://t.co/Wi81U7L5zE",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 388,
+  "id_str": "193872188",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+  "profile_background_tile": true,
+  "statuses_count": 1440,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/755317878/5b6f59d5c8907cdd3fd0d7f61c7d8bf8.jpeg",
+  "id": 193872188,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "F3F3F3",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Pete Visclosky",
+  "profile_use_background_image": true,
+  "url": "http://t.co/NunATQ3IeS",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568448535402532867/xbUar8z5_normal.png",
+  "created_at": "Wed Sep 22 21:24:46 +0000 2010",
+  "profile_background_color": "EBEBEB",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Visited with the leadership @crisiscenter. This great organization serves NWI by offering support to those in need. http://t.co/mgAx7Ro2Eo",
+    "id_str": "629774504449974273",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 54134486,
+          "indices": [
+            28,
+            41
+          ],
+          "screen_name": "crisiscenter",
+          "id_str": "54134486",
+          "name": "Crisis Center - NWI"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629774503472705537,
+          "indices": [
+            116,
+            138
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1okwAWsAE-32-.jpg",
+          "expanded_url": "http://twitter.com/RepVisclosky/status/629774504449974273/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 210,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 372,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 635,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/mgAx7Ro2Eo",
+          "url": "http://t.co/mgAx7Ro2Eo",
+          "id_str": "629774503472705537",
+          "media_url": "http://pbs.twimg.com/media/CL1okwAWsAE-32-.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629774504449974273,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": {
+      "id": "03cc1ebe1b349ee3",
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Gary, IN",
+      "name": "Gary",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -87.433258,
+              41.521967
+            ],
+            [
+              -87.222209,
+              41.521967
+            ],
+            [
+              -87.222209,
+              41.649731
+            ],
+            [
+              -87.433258,
+              41.649731
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "country": "United States",
+      "url": "https://api.twitter.com/1.1/geo/id/03cc1ebe1b349ee3.json",
+      "contained_within": [],
+      "place_type": "city"
+    },
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 22:01:57 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 4969,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "01064A",
+  "screen_name": "RepVisclosky",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/755317878/5b6f59d5c8907cdd3fd0d7f61c7d8bf8.jpeg"
+}

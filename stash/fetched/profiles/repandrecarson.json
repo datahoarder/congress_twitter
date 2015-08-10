@@ -1,0 +1,96 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "carson.house.gov",
+          "url": "http://t.co/SDbjhU0u5K",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://carson.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 829,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 157,
+  "location": "Indianapolis",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/199325935/1407880865",
+  "notifications": false,
+  "description": "The official Twitter account for Congressman Andr\u00e9 Carson of Indiana's 7th District. #Indianapolis #Indy",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 615,
+  "id_str": "199325935",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2402,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000119400097/6b4b2698d82d9dfdb98b44fb3c4f08c9.png",
+  "id": 199325935,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Andr\u00e9 Carson",
+  "profile_use_background_image": false,
+  "url": "http://t.co/SDbjhU0u5K",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/461880758613704705/l_k2diGx_normal.jpeg",
+  "created_at": "Wed Oct 06 15:47:50 +0000 2010",
+  "profile_background_color": "022330",
+  "status": {
+    "id": 629305817897041920,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Im working 2 ensure every eligible citizen is able 2 register,every registered voter is able 2 vote &amp; every vote is accurately counted #VRA",
+    "id_str": "629305817897041920",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 14:59:33 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 9,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            139,
+            143
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 7,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 11432,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "226B85",
+  "screen_name": "RepAndreCarson",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000119400097/6b4b2698d82d9dfdb98b44fb3c4f08c9.png"
+}

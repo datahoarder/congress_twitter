@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "grijalva.house.gov",
+          "url": "http://t.co/IcLwlG7hqR",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://grijalva.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 273,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 17,
+  "location": "Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/28602948/1430769322",
+  "notifications": false,
+  "description": "",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1139,
+  "id_str": "28602948",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/566304491918462976/muz5J8tZ_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2053,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 28602948,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Raul M. Grijalva",
+  "profile_use_background_image": true,
+  "url": "http://t.co/IcLwlG7hqR",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/566304491918462976/muz5J8tZ_normal.jpeg",
+  "created_at": "Fri Apr 03 16:55:32 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Yday 5th Circuit struck \u2193 discriminatory voter ID laws in Texas! Great win for democracy. Now let\u2019s #RestoreTheVRA! http://t.co/VTYcm6Gvsf",
+    "id_str": "629323531600441344",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            100,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/8NGe7M",
+          "url": "http://t.co/VTYcm6Gvsf",
+          "indices": [
+            116,
+            138
+          ],
+          "expanded_url": "http://goo.gl/8NGe7M"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629323531600441344,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 16:09:56 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 14323,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepRaulGrijalva",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

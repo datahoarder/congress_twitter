@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "shaheen.senate.gov",
+          "url": "http://t.co/6hHVU7gHqa",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://shaheen.senate.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/SenatorShaheen",
+          "url": "http://t.co/6CyyCKZ22b",
+          "indices": [
+            102,
+            124
+          ],
+          "expanded_url": "http://www.facebook.com/SenatorShaheen"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 5604,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 60,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/109287731/1372798740",
+  "notifications": false,
+  "description": "I am currently serving in the United States Senate and am proud to serve the people of New Hampshire. http://t.co/6CyyCKZ22b",
+  "profile_sidebar_border_color": "EEEEEE",
+  "protected": false,
+  "listed_count": 1263,
+  "id_str": "109287731",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/431075206988185600/yHvosQks_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3515,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+  "id": 109287731,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Sen. Jeanne Shaheen",
+  "profile_use_background_image": true,
+  "url": "http://t.co/6hHVU7gHqa",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/431075206988185600/yHvosQks_normal.jpeg",
+  "created_at": "Thu Jan 28 15:22:44 +0000 2010",
+  "profile_background_color": "B2DFDA",
+  "status": {
+    "favorite_count": 155,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "#IranDeal is the best option we have for preventing Iran from obtaining a nuclear weapon. My full statement: http://t.co/LlxVjJf4MS",
+    "id_str": "629369623524343808",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "shaheen.senate.gov/news/press/rel\u2026",
+          "url": "http://t.co/LlxVjJf4MS",
+          "indices": [
+            109,
+            131
+          ],
+          "expanded_url": "http://www.shaheen.senate.gov/news/press/release/?id=9ebb400d-4d4f-47ab-b1ea-48ac5dfa26a5"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629369623524343808,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 19:13:06 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 166,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 23058,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "93A644",
+  "screen_name": "SenatorShaheen",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif"
+}

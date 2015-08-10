@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "blum.house.gov",
+          "url": "http://t.co/Bj8xkyTeIJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://blum.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1020,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 48,
+  "location": "Northeast Iowa",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2965083477/1425483647",
+  "notifications": false,
+  "description": "Official Account Of Iowa's 1st District Congressman Rod Blum. Member of @GOPoversight & the House Budget Committee #IA01",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 102,
+  "id_str": "2965083477",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 385,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2965083477,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Congressman Rod Blum",
+  "profile_use_background_image": true,
+  "url": "http://t.co/Bj8xkyTeIJ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "created_at": "Tue Jan 06 22:59:49 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Our latest e-newsletter is here! This week I focus on the Iran Deal, serving our vets, and more: http://t.co/A7eRkOBtzM #IA01",
+    "id_str": "629735186360610817",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "IA01",
+          "indices": [
+            120,
+            125
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "blumforms.house.gov/news/email/sho\u2026",
+          "url": "http://t.co/A7eRkOBtzM",
+          "indices": [
+            97,
+            119
+          ],
+          "expanded_url": "http://blumforms.house.gov/news/email/show.aspx?ID=XG3NM2C53XA5C"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629735186360610817,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:25:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 2058,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepRodBlum",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

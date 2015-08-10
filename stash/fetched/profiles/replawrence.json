@@ -1,0 +1,109 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lawrence.house.gov",
+          "url": "https://t.co/jik2CxOIWT",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://lawrence.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 758,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 211,
+  "location": "Washington, DC",
+  "notifications": false,
+  "description": "Congresswoman for Michigan's 14th District: Detroit, Southfield, Oakland and Wayne Counties.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 72,
+  "id_str": "2863006655",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/601848038852677632/vg-pXZVI_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 743,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2863006655,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Brenda Lawrence",
+  "profile_use_background_image": true,
+  "url": "https://t.co/jik2CxOIWT",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/601848038852677632/vg-pXZVI_normal.jpg",
+  "created_at": "Wed Nov 05 18:46:39 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "ICYMI! @cspan interview on my first year in Congress, my time as Mayor of Southfiled, and my work as Senior Whip. http://t.co/TljsGN3876",
+    "id_str": "630359217300488192",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 15675138,
+          "indices": [
+            7,
+            13
+          ],
+          "screen_name": "cspan",
+          "id_str": "15675138",
+          "name": "CSPAN"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "c-span.org/video/?327392-\u2026",
+          "url": "http://t.co/TljsGN3876",
+          "indices": [
+            114,
+            136
+          ],
+          "expanded_url": "http://www.c-span.org/video/?327392-1/conversation-freshman-representative-brenda-lawrence-dmi"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630359217300488192,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 12:45:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 1528,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepLawrence",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

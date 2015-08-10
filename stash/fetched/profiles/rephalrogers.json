@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "halrogers.house.gov",
+          "url": "http://t.co/pssxnE99CF",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://halrogers.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 570,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 596,
+  "location": "Somerset, KY",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/550401754/1398439158",
+  "notifications": false,
+  "description": "Representing the people of Southern and Eastern Kentucky and serving as Chairman of the U.S. House Appropriations Committee @HouseAppropsGOP",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 350,
+  "id_str": "550401754",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2312,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 550401754,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Hal Rogers",
+  "profile_use_background_image": true,
+  "url": "http://t.co/pssxnE99CF",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2087954082/Hal_twitter_pic_normal.jpg",
+  "created_at": "Tue Apr 10 19:59:22 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Kentucky Federal Delegation Supports Governor's Request for Presidential Disaster Declaration for Deadly July Storms http://t.co/AdHyG5Bl1N",
+    "id_str": "627233005367652353",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "goo.gl/m6M2y3",
+          "url": "http://t.co/AdHyG5Bl1N",
+          "indices": [
+            117,
+            139
+          ],
+          "expanded_url": "http://goo.gl/m6M2y3"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 627233005367652353,
+    "truncated": false,
+    "source": "<a href=\"http://www.fireside21.com\" rel=\"nofollow\">Fireside Publishing</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Jul 31 21:42:56 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 5281,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepHalRogers",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

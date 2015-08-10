@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "DemocraticWhip.gov",
+          "url": "http://t.co/1jL267BoNe",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://DemocraticWhip.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 4026,
+  "verified": true,
+  "profile_text_color": "000066",
+  "favourites_count": 32,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22012091/1407942345",
+  "notifications": false,
+  "description": "The Democratic Whip of the U.S. House of Representatives, representing Maryland's 5th Congressional District.",
+  "profile_sidebar_border_color": "CC9900",
+  "protected": false,
+  "listed_count": 2185,
+  "id_str": "22012091",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593455580276256771/vqa-GCVu_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 8321,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72221498/9.21.07_District_008.jpg",
+  "id": 22012091,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "F1F1DE",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Steny Hoyer",
+  "profile_use_background_image": true,
+  "url": "http://t.co/1jL267BoNe",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593455580276256771/vqa-GCVu_normal.jpg",
+  "created_at": "Thu Feb 26 14:13:01 +0000 2009",
+  "profile_background_color": "000000",
+  "status": {
+    "id": 629676030911979520,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "August is National Immunization Awareness Month. #FollowFriday @CDCgov for safety updates &amp; information on #BackToSchool health.",
+    "id_str": "629676030911979520",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 15:30:39 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 4,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 146569971,
+          "indices": [
+            63,
+            70
+          ],
+          "screen_name": "CDCgov",
+          "id_str": "146569971",
+          "name": "CDC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FollowFriday",
+          "indices": [
+            49,
+            62
+          ]
+        },
+        {
+          "text": "BackToSchool",
+          "indices": [
+            111,
+            124
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 1,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 51492,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "990000",
+  "screen_name": "WhipHoyer",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72221498/9.21.07_District_008.jpg"
+}

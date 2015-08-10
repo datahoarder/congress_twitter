@@ -1,0 +1,266 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Esty.House.gov",
+          "url": "http://t.co/fzRpgWawFH",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Esty.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1264,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 860,
+  "location": "Cheshire, CT",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060984272/1380772538",
+  "notifications": false,
+  "description": "Mom, community advocate, and U.S. Representative for Connecticut's 5th Congressional District. This is the official account for my Congressional office.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 354,
+  "id_str": "1060984272",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/446012442053595136/F8Ivbrm2_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2518,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1060984272,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Elizabeth Esty",
+  "profile_use_background_image": true,
+  "url": "http://t.co/fzRpgWawFH",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/446012442053595136/F8Ivbrm2_normal.jpeg",
+  "created_at": "Fri Jan 04 17:36:04 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @DanburySouthHH: Protecting Our Children from #LiquidNicotine Poisoning @RepEsty http://t.co/CpZ3DYXa20 http://t.co/bXn0qFIHoE",
+    "id_str": "629739379620212739",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2207860771,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "DanburySouthHH",
+          "id_str": "2207860771",
+          "name": "Danbury South HH"
+        },
+        {
+          "id": 1060984272,
+          "indices": [
+            75,
+            83
+          ],
+          "screen_name": "RepEsty",
+          "id_str": "1060984272",
+          "name": "Elizabeth Esty"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LiquidNicotine",
+          "indices": [
+            49,
+            64
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/1OVmCZY",
+          "url": "http://t.co/CpZ3DYXa20",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://bit.ly/1OVmCZY"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629684826229088256,
+          "media_url": "http://pbs.twimg.com/media/CL0XA2PWoAAG5ZO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XA2PWoAAG5ZO.jpg",
+          "expanded_url": "http://twitter.com/DanburySouthHH/status/629684826287796224/photo/1",
+          "url": "http://t.co/bXn0qFIHoE",
+          "display_url": "pic.twitter.com/bXn0qFIHoE",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 206,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 494
+            },
+            "large": {
+              "h": 300,
+              "resize": "fit",
+              "w": 494
+            }
+          },
+          "source_user_id": 2207860771,
+          "source_user_id_str": "2207860771",
+          "indices": [
+            107,
+            129
+          ],
+          "type": "photo",
+          "source_status_id": 629684826287796224,
+          "source_status_id_str": "629684826287796224",
+          "id_str": "629684826229088256"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629739379620212739,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:42:22 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Protecting Our Children from #LiquidNicotine Poisoning @RepEsty http://t.co/CpZ3DYXa20 http://t.co/bXn0qFIHoE",
+      "id_str": "629684826287796224",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 1060984272,
+            "indices": [
+              55,
+              63
+            ],
+            "screen_name": "RepEsty",
+            "id_str": "1060984272",
+            "name": "Elizabeth Esty"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "LiquidNicotine",
+            "indices": [
+              29,
+              44
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "bit.ly/1OVmCZY",
+            "url": "http://t.co/CpZ3DYXa20",
+            "indices": [
+              64,
+              86
+            ],
+            "expanded_url": "http://bit.ly/1OVmCZY"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629684826229088256,
+            "indices": [
+              87,
+              109
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL0XA2PWoAAG5ZO.jpg",
+            "expanded_url": "http://twitter.com/DanburySouthHH/status/629684826287796224/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "small": {
+                "h": 206,
+                "resize": "fit",
+                "w": 340
+              },
+              "medium": {
+                "h": 300,
+                "resize": "fit",
+                "w": 494
+              },
+              "large": {
+                "h": 300,
+                "resize": "fit",
+                "w": 494
+              }
+            },
+            "display_url": "pic.twitter.com/bXn0qFIHoE",
+            "url": "http://t.co/bXn0qFIHoE",
+            "id_str": "629684826229088256",
+            "media_url": "http://pbs.twimg.com/media/CL0XA2PWoAAG5ZO.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629684826287796224,
+      "truncated": false,
+      "source": "<a href=\"http://www.hamlethub.com\" rel=\"nofollow\">Hamlethub Tweets</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 16:05:36 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 5780,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepEsty",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

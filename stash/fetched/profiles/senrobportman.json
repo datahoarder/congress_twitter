@@ -1,0 +1,140 @@
+{
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1610,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 5,
+  "location": "Ohio",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1385138296",
+  "notifications": false,
+  "description": "United States Senator from the Buckeye State.",
+  "profile_sidebar_border_color": "26C905",
+  "protected": false,
+  "listed_count": 1959,
+  "id_str": "18915145",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/494254882728071168/tDV7lz9j_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 4457,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/159646768/New_Twitter_Test_h.png",
+  "id": 18915145,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rob Portman",
+  "profile_use_background_image": false,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/494254882728071168/tDV7lz9j_normal.jpeg",
+  "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+  "profile_background_color": "0074DB",
+  "status": {
+    "favorite_count": 7,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Congrats to all the riders &amp; volunteers on team @Pelotonia on another great event for the cause. #OneGoal #WeMadeIt http://t.co/fp36MuGTuv",
+    "id_str": "630102363458666498",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 101848882,
+          "indices": [
+            52,
+            62
+          ],
+          "screen_name": "Pelotonia",
+          "id_str": "101848882",
+          "name": "Pelotonia "
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OneGoal",
+          "indices": [
+            101,
+            109
+          ]
+        },
+        {
+          "text": "WeMadeIt",
+          "indices": [
+            110,
+            119
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630102315551342592,
+          "indices": [
+            120,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL6St7KWwAAaeJf.jpg",
+          "expanded_url": "http://twitter.com/senrobportman/status/630102363458666498/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 226,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 399,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/fp36MuGTuv",
+          "url": "http://t.co/fp36MuGTuv",
+          "id_str": "630102315551342592",
+          "media_url": "http://pbs.twimg.com/media/CL6St7KWwAAaeJf.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630102363458666498,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 19:44:44 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 46311,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "106CB7",
+  "screen_name": "senrobportman",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/159646768/New_Twitter_Test_h.png"
+}

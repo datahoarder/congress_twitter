@@ -1,0 +1,230 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "ros-lehtinen.house.gov",
+          "url": "http://t.co/4TcYrpc886",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://ros-lehtinen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1360,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3,
+  "location": "Miami, Florida",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/14275291/1403901993",
+  "notifications": false,
+  "description": "Blessed to rep beautiful South Florida and the wonderful folks who live here!",
+  "profile_sidebar_border_color": "86A4A6",
+  "protected": false,
+  "listed_count": 1586,
+  "id_str": "14275291",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1963257660/AS917198_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 17502,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "id": 14275291,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "A0C5C7",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Ileana Ros-Lehtinen",
+  "profile_use_background_image": true,
+  "url": "http://t.co/4TcYrpc886",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1963257660/AS917198_normal.JPG",
+  "created_at": "Tue Apr 01 14:59:30 +0000 2008",
+  "profile_background_color": "709397",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @LIBREinitiative: Do you agree with @RosLehtinen? RT! http://t.co/DGb5kCVtt9",
+    "id_str": "630093542287896576",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 310424310,
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "LIBREinitiative",
+          "id_str": "310424310",
+          "name": "The LIBRE Initiative"
+        },
+        {
+          "id": 14275291,
+          "indices": [
+            39,
+            51
+          ],
+          "screen_name": "RosLehtinen",
+          "id_str": "14275291",
+          "name": "Ileana Ros-Lehtinen"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628236138411610113,
+          "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+          "url": "http://t.co/DGb5kCVtt9",
+          "display_url": "pic.twitter.com/DGb5kCVtt9",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 170,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 500,
+              "resize": "fit",
+              "w": 1000
+            }
+          },
+          "source_user_id": 310424310,
+          "source_user_id_str": "310424310",
+          "indices": [
+            57,
+            79
+          ],
+          "type": "photo",
+          "source_status_id": 630093396510543873,
+          "source_status_id_str": "630093396510543873",
+          "id_str": "628236138411610113"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630093542287896576,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 19:09:41 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 17,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Do you agree with @RosLehtinen? RT! http://t.co/DGb5kCVtt9",
+      "id_str": "630093396510543873",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 14275291,
+            "indices": [
+              18,
+              30
+            ],
+            "screen_name": "RosLehtinen",
+            "id_str": "14275291",
+            "name": "Ileana Ros-Lehtinen"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 628236138411610113,
+            "indices": [
+              36,
+              58
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 300,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 170,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 500,
+                "resize": "fit",
+                "w": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/DGb5kCVtt9",
+            "url": "http://t.co/DGb5kCVtt9",
+            "id_str": "628236138411610113",
+            "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630093396510543873,
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 19:09:06 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 19,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 71762,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "FF3300",
+  "screen_name": "RosLehtinen",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif"
+}

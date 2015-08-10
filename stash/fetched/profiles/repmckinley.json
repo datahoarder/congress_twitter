@@ -1,0 +1,169 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mckinley.house.gov",
+          "url": "http://t.co/5H1HsbP76e",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mckinley.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 203,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 32,
+  "location": "",
+  "notifications": false,
+  "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 525,
+  "id_str": "240427862",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/510503346549964800/Rb3_PfnK_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2988,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 240427862,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "David B. McKinley",
+  "profile_use_background_image": false,
+  "url": "http://t.co/5H1HsbP76e",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/510503346549964800/Rb3_PfnK_normal.jpeg",
+  "created_at": "Wed Jan 19 22:29:00 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @REMSAOfficial: Check out REMSA's recap of our first Grassroots Event between Warwood Tool Company and @RepMcKinley: http://t.co/aDFeaOm\u2026",
+    "id_str": "629385437635743744",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3342979901,
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "REMSAOfficial",
+          "id_str": "3342979901",
+          "name": "REMSA"
+        },
+        {
+          "id": 240427862,
+          "indices": [
+            106,
+            118
+          ],
+          "screen_name": "RepMcKinley",
+          "id_str": "240427862",
+          "name": "David B. McKinley"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "remsa.org/warwoodtool",
+          "url": "http://t.co/aDFeaOmvus",
+          "indices": [
+            120,
+            140
+          ],
+          "expanded_url": "http://www.remsa.org/warwoodtool"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629385437635743744,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:15:56 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Check out REMSA's recap of our first Grassroots Event between Warwood Tool Company and @RepMcKinley: http://t.co/aDFeaOmvus",
+      "id_str": "629317153267806208",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 240427862,
+            "indices": [
+              87,
+              99
+            ],
+            "screen_name": "RepMcKinley",
+            "id_str": "240427862",
+            "name": "David B. McKinley"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "remsa.org/warwoodtool",
+            "url": "http://t.co/aDFeaOmvus",
+            "indices": [
+              101,
+              123
+            ],
+            "expanded_url": "http://www.remsa.org/warwoodtool"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629317153267806208,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 15:44:36 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 8167,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepMcKinley",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

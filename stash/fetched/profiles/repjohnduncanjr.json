@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "duncan.house.gov",
+          "url": "http://t.co/QaMuskB6LC",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://duncan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 215,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 36,
+  "location": "Washington DC/TN's 2 District",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883356866/1400791254",
+  "notifications": false,
+  "description": "Official news and updates from United States Representative John J. Duncan Jr. (R-TN)",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 150,
+  "id_str": "1883356866",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000478575788/a262d9a88f779d2289433d7965f4cf87_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 336,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082997412/608c1b99600b8f168eba968d7be06c23.jpeg",
+  "id": 1883356866,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep John Duncan Jr. ",
+  "profile_use_background_image": true,
+  "url": "http://t.co/QaMuskB6LC",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000478575788/a262d9a88f779d2289433d7965f4cf87_normal.jpeg",
+  "created_at": "Thu Sep 19 14:50:04 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 629006296046546948,
+    "truncated": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "@SecretaryFoxx says when he gets back to Washington \"we're going to talk about Knoxville\"",
+    "id_str": "629006296046546948",
+    "in_reply_to_user_id_str": "43920155",
+    "created_at": "Wed Aug 05 19:09:22 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 0,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": "SecretaryFoxx",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 43920155,
+          "indices": [
+            0,
+            14
+          ],
+          "screen_name": "SecretaryFoxx",
+          "id_str": "43920155",
+          "name": "Anthony Foxx"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 0,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": 43920155
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1656,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJohnDuncanJr",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082997412/608c1b99600b8f168eba968d7be06c23.jpeg"
+}

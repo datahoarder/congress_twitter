@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "foster.house.gov/about/full-bio\u2026",
+          "url": "http://t.co/bEgQtuCKXN",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://foster.house.gov/about/full-biography"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1461,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 4,
+  "location": "Naperville, IL ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080509366/1371843668",
+  "notifications": false,
+  "description": "Congressman Bill Foster is a scientist and businessman representing the 11th Congressional District of Illinois",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 344,
+  "id_str": "1080509366",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3095500036/ea1cc219ddb5b051f2de1340f06dd5d8_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1359,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/852074035/233e7662072f4cf3cac4b1e1028814a8.jpeg",
+  "id": 1080509366,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Bill Foster",
+  "profile_use_background_image": true,
+  "url": "http://t.co/bEgQtuCKXN",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3095500036/ea1cc219ddb5b051f2de1340f06dd5d8_normal.jpeg",
+  "created_at": "Fri Jan 11 18:17:11 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "They will visit the @WhiteHouse and get tips for the S Side Urban Farm from @FLOTUS's WH Kitchen Garden. Read more: http://t.co/vQMmK2mOZv",
+    "id_str": "629741986539552769",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 30313925,
+          "indices": [
+            20,
+            31
+          ],
+          "screen_name": "WhiteHouse",
+          "id_str": "30313925",
+          "name": "The White House"
+        },
+        {
+          "id": 1093090866,
+          "indices": [
+            76,
+            83
+          ],
+          "screen_name": "FLOTUS",
+          "id_str": "1093090866",
+          "name": "The First Lady"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "theherald-news.com/2015/08/06/jol\u2026",
+          "url": "http://t.co/vQMmK2mOZv",
+          "indices": [
+            116,
+            138
+          ],
+          "expanded_url": "http://www.theherald-news.com/2015/08/06/joliets-warren-sharpe-community-center-to-tour-the-first-ladys-garden/aws39k0/?page=1"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629741986539552769,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:52:44 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 4443,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "116685",
+  "screen_name": "RepBillFoster",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/852074035/233e7662072f4cf3cac4b1e1028814a8.jpeg"
+}

@@ -1,0 +1,143 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "robinkelly.house.gov",
+          "url": "http://t.co/V1xSf6mC0D",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://robinkelly.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 385,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 11,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339931490/1430424227",
+  "notifications": false,
+  "description": "Official Twitter account for Robin Kelly, U.S. Representative for IL's 2nd District and chairwoman of the Congressional Black Caucus Health Braintrust.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 230,
+  "id_str": "1339931490",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/427921249809862656/bAgQceBN_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 984,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1339931490,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Robin Kelly",
+  "profile_use_background_image": false,
+  "url": "http://t.co/V1xSf6mC0D",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/427921249809862656/bAgQceBN_normal.jpeg",
+  "created_at": "Tue Apr 09 19:02:01 +0000 2013",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "id_str": "629279250487615488",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 29450962,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "repjohnlewis",
+          "id_str": "29450962",
+          "name": "John Lewis"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629279250487615488,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:13:59 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1793,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629265088214638592,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "id_str": "629265088214638592",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 1462,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 1793,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 2666,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "DD2E44",
+  "screen_name": "RepRobinKelly",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

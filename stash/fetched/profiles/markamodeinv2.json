@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "amodei.house.gov",
+          "url": "http://t.co/p2s4qS7trR",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://amodei.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1786,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 13,
+  "location": "Carson City, NV",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/402719755/1395328053",
+  "notifications": false,
+  "description": "Proudly representing Nevada's 2nd District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 363,
+  "id_str": "402719755",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1617193547/Offical_Photo_twitter_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 946,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446321045625008129/KKw73uO7.jpeg",
+  "id": 402719755,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "RepMarkAmodei",
+  "profile_use_background_image": false,
+  "url": "http://t.co/p2s4qS7trR",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1617193547/Offical_Photo_twitter_normal.jpg",
+  "created_at": "Tue Nov 01 13:43:55 +0000 2011",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "@highcountrynews piece: Heizer not rebel, visionary or enlightened hermit. He's a jerk in the desert with a bulldozer http://t.co/RU1crZS0zt",
+    "id_str": "628668243935404038",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 16017472,
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "highcountrynews",
+          "id_str": "16017472",
+          "name": "High Country News"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "goo.gl/JXYu7k",
+          "url": "http://t.co/RU1crZS0zt",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://goo.gl/JXYu7k"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": "highcountrynews",
+    "geo": null,
+    "in_reply_to_user_id": 16017472,
+    "id": 628668243935404038,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": "16017472",
+    "created_at": "Tue Aug 04 20:46:04 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 5543,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "B30B1E",
+  "screen_name": "MarkAmodeiNV2",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446321045625008129/KKw73uO7.jpeg"
+}

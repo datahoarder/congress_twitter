@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "tomgraves.house.gov",
+          "url": "http://t.co/wmai0s3Whz",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://tomgraves.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2454,
+  "verified": true,
+  "profile_text_color": "10234D",
+  "favourites_count": 9,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/190328374/1426714065",
+  "notifications": false,
+  "description": "Conservative Republican representing Georgia's 14th Congressional District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 639,
+  "id_str": "190328374",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/578262388941533184/6Lv5oCyB_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2567,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754267625/e78fd5a6cb58c066c39bc1b1f3f7120d.jpeg",
+  "id": 190328374,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "A0B2BA",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Tom Graves",
+  "profile_use_background_image": true,
+  "url": "http://t.co/wmai0s3Whz",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/578262388941533184/6Lv5oCyB_normal.jpeg",
+  "created_at": "Mon Sep 13 17:36:23 +0000 2010",
+  "profile_background_color": "0D161F",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "#IranDeal could increase terrorist financing by $3.1 billion, according to new research by @AAF. #BadDeal http://t.co/tTv2kPyfkC",
+    "id_str": "629396829080137729",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 108416848,
+          "indices": [
+            91,
+            95
+          ],
+          "screen_name": "AAF",
+          "id_str": "108416848",
+          "name": "AmericanAction Forum"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            97,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "americanactionforum.org/research/irans\u2026",
+          "url": "http://t.co/tTv2kPyfkC",
+          "indices": [
+            106,
+            128
+          ],
+          "expanded_url": "http://americanactionforum.org/research/irans-military-budget-after-the-nuclear-deal"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629396829080137729,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 21:01:12 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 10497,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepTomGraves",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754267625/e78fd5a6cb58c066c39bc1b1f3f7120d.jpeg"
+}

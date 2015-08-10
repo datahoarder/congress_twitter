@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "BradSherman.house.gov",
+          "url": "http://t.co/Ylyf3DDmjz",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://BradSherman.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 112,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "Sherman Oaks, CA",
+  "notifications": false,
+  "description": "Serving California's San Fernando Valley.  Admission: Some of these tweets are prepared by my staff on my behalf. ReTweets are not an endorsement.",
+  "profile_sidebar_border_color": "A8C7F7",
+  "protected": false,
+  "listed_count": 616,
+  "id_str": "30216513",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/131821361/Rep._Sherman_Official_Portrait.sm2_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 597,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 30216513,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Brad Sherman",
+  "profile_use_background_image": false,
+  "url": "http://t.co/Ylyf3DDmjz",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/131821361/Rep._Sherman_Official_Portrait.sm2_normal.jpg",
+  "created_at": "Fri Apr 10 13:38:03 +0000 2009",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 13,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Many prominent supporters of the #IranDeal supporting invading Iraq, like Sec.Madeleine Albright and Sec. John Kerry https://t.co/a6qSAJ38Nv",
+    "id_str": "629021200702939137",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            33,
+            42
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "washingtonpost.com/world/national\u2026",
+          "url": "https://t.co/a6qSAJ38Nv",
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://www.washingtonpost.com/world/national-security/obama-push-for-iran-nuclear-deal-evokes-echo-of-cold-war-outreach/2015/08/05/8d73873c-3b7d-11e5-8e98-115a3cf7d7ae_story.html"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629021200702939137,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 20:08:35 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 161,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 7928,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "BradSherman",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png"
+}

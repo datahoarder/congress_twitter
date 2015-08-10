@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "desaulnier.house.gov",
+          "url": "https://t.co/pa3PJQ8V5B",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://desaulnier.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 197,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 27,
+  "location": "Concord, CA ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968007206/1424926701",
+  "notifications": false,
+  "description": "Honored to represent California's 11th Congressional District. Serving on the House Education and Workforce and Oversight and Government Reform Committees.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 67,
+  "id_str": "2968007206",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/623580702848778246/P-ObqZ-b_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 254,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2968007206,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Mark DeSaulnier",
+  "profile_use_background_image": false,
+  "url": "https://t.co/pa3PJQ8V5B",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/623580702848778246/P-ObqZ-b_normal.jpg",
+  "created_at": "Thu Jan 08 15:32:13 +0000 2015",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "I was on @philmatier 's show this weekend to discuss the #IranDeal. See the interview below.\nhttps://t.co/C4vv0TZx69",
+    "id_str": "628337134496120832",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2659894350,
+          "indices": [
+            9,
+            20
+          ],
+          "screen_name": "philmatier",
+          "id_str": "2659894350",
+          "name": "Phil Matier"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "amp.twimg.com/v/0346f6b6-2b1\u2026",
+          "url": "https://t.co/C4vv0TZx69",
+          "indices": [
+            93,
+            116
+          ],
+          "expanded_url": "https://amp.twimg.com/v/0346f6b6-2b10-4b69-9d6a-e7fbbabe2550"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628337134496120832,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Mon Aug 03 22:50:21 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 917,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepDeSaulnier",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

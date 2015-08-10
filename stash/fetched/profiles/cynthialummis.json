@@ -1,0 +1,359 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lummis.house.gov",
+          "url": "http://t.co/bSPiTCeFvE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lummis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 6259,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 1,
+  "location": "Wyoming and Washington D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22831059/1425578643",
+  "notifications": false,
+  "description": "Proud to represent the people of Wyoming in the U.S. House of Representatives.",
+  "profile_sidebar_border_color": "2665C0",
+  "protected": false,
+  "listed_count": 932,
+  "id_str": "22831059",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1375,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg",
+  "id": 22831059,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "7BB96E",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Cynthia Lummis",
+  "profile_use_background_image": true,
+  "url": "http://t.co/bSPiTCeFvE",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "created_at": "Wed Mar 04 20:44:59 +0000 2009",
+  "profile_background_color": "8695B6",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @wycuadvocates: #hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+    "id_str": "623991362388627456",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 153067964,
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "wycuadvocates",
+          "id_str": "153067964",
+          "name": "Wyoming CU Advocates"
+        },
+        {
+          "id": 22831059,
+          "indices": [
+            78,
+            92
+          ],
+          "screen_name": "CynthiaLummis",
+          "id_str": "22831059",
+          "name": "Rep. Cynthia Lummis"
+        },
+        {
+          "id": 270486839,
+          "indices": [
+            93,
+            99
+          ],
+          "screen_name": "mwcua",
+          "id_str": "270486839",
+          "name": "Mountain West CUA"
+        },
+        {
+          "id": 65453528,
+          "indices": [
+            100,
+            113
+          ],
+          "screen_name": "CUNAadvocacy",
+          "id_str": "65453528",
+          "name": "CUNA Advocacy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "hikethehill",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "theCUway",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "text": "creditunion",
+          "indices": [
+            44,
+            56
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 623954592888258560,
+          "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+          "url": "http://t.co/1Fb1HHtbzu",
+          "display_url": "pic.twitter.com/1Fb1HHtbzu",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 852
+            }
+          },
+          "source_user_id": 153067964,
+          "source_user_id_str": "153067964",
+          "indices": [
+            114,
+            136
+          ],
+          "type": "photo",
+          "source_status_id": 623954603529367552,
+          "source_status_id_str": "623954603529367552",
+          "id_str": "623954592888258560"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 623991362388627456,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Jul 22 23:01:48 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": "623914396004274176",
+      "lang": "en",
+      "text": "#hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+      "id_str": "623954603529367552",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 22831059,
+            "indices": [
+              59,
+              73
+            ],
+            "screen_name": "CynthiaLummis",
+            "id_str": "22831059",
+            "name": "Rep. Cynthia Lummis"
+          },
+          {
+            "id": 270486839,
+            "indices": [
+              74,
+              80
+            ],
+            "screen_name": "mwcua",
+            "id_str": "270486839",
+            "name": "Mountain West CUA"
+          },
+          {
+            "id": 65453528,
+            "indices": [
+              81,
+              94
+            ],
+            "screen_name": "CUNAadvocacy",
+            "id_str": "65453528",
+            "name": "CUNA Advocacy"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "hikethehill",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "theCUway",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "text": "creditunion",
+            "indices": [
+              25,
+              37
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 623954592888258560,
+            "indices": [
+              95,
+              117
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 255,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 640,
+                "resize": "fit",
+                "w": 852
+              }
+            },
+            "display_url": "pic.twitter.com/1Fb1HHtbzu",
+            "url": "http://t.co/1Fb1HHtbzu",
+            "id_str": "623954592888258560",
+            "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": "wycuadvocates",
+      "geo": {
+        "coordinates": [
+          38.89057922,
+          -77.00346375
+        ],
+        "type": "Point"
+      },
+      "in_reply_to_user_id": 153067964,
+      "id": 623954603529367552,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": {
+        "id": "05fe3c3f4a709dfd",
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Capitol Hill, Washington",
+        "name": "Capitol Hill",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.0152684,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.8973988
+              ],
+              [
+                -77.0152684,
+                38.8973988
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "country": "United States",
+        "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+        "contained_within": [],
+        "place_type": "neighborhood"
+      },
+      "in_reply_to_user_id_str": "153067964",
+      "created_at": "Wed Jul 22 20:35:44 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": {
+        "coordinates": [
+          -77.00346375,
+          38.89057922
+        ],
+        "type": "Point"
+      },
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": 623914396004274176
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 11540,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "2665C0",
+  "screen_name": "CynthiaLummis",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg"
+}

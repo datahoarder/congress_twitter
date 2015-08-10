@@ -1,0 +1,245 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "poliquin.house.gov",
+          "url": "http://t.co/Ogg3AouzND",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://poliquin.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 332,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 3,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2932617195/1437054702",
+  "notifications": false,
+  "description": "Proudly Serving Maine's Second Congressional District",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 89,
+  "id_str": "2932617195",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/621677222131187712/3oeVQHKO_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 617,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2932617195,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Bruce Poliquin",
+  "profile_use_background_image": false,
+  "url": "http://t.co/Ogg3AouzND",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/621677222131187712/3oeVQHKO_normal.jpg",
+  "created_at": "Fri Dec 19 21:32:47 +0000 2014",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @bangordailynews: Poliquin challenges Obama administration on Planned Parenthood http://t.co/dS8Ya27AfX #mepolitics http://t.co/Pyo8ocNo\u2026",
+    "id_str": "630107685082517508",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 16952739,
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "bangordailynews",
+          "id_str": "16952739",
+          "name": "Maine Breaking News"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mepolitics",
+          "indices": [
+            107,
+            118
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bdn.to/vxex",
+          "url": "http://t.co/dS8Ya27AfX",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://bdn.to/vxex"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629384319052611588,
+          "media_url": "http://pbs.twimg.com/media/CLwFtBxVAAQm-iR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLwFtBxVAAQm-iR.jpg",
+          "expanded_url": "http://twitter.com/bangordailynews/status/629384323062349824/photo/1",
+          "url": "http://t.co/Pyo8ocNo8s",
+          "display_url": "pic.twitter.com/Pyo8ocNo8s",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 758,
+              "resize": "fit",
+              "w": 570
+            },
+            "small": {
+              "h": 452,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 758,
+              "resize": "fit",
+              "w": 570
+            }
+          },
+          "source_user_id": 16952739,
+          "source_user_id_str": "16952739",
+          "indices": [
+            119,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629384323062349824,
+          "source_status_id_str": "629384323062349824",
+          "id_str": "629384319052611588"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630107685082517508,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 20:05:53 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Poliquin challenges Obama administration on Planned Parenthood http://t.co/dS8Ya27AfX #mepolitics http://t.co/Pyo8ocNo8s",
+      "id_str": "629384323062349824",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "mepolitics",
+            "indices": [
+              86,
+              97
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "bdn.to/vxex",
+            "url": "http://t.co/dS8Ya27AfX",
+            "indices": [
+              63,
+              85
+            ],
+            "expanded_url": "http://bdn.to/vxex"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629384319052611588,
+            "indices": [
+              98,
+              120
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLwFtBxVAAQm-iR.jpg",
+            "expanded_url": "http://twitter.com/bangordailynews/status/629384323062349824/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 758,
+                "resize": "fit",
+                "w": 570
+              },
+              "small": {
+                "h": 452,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 758,
+                "resize": "fit",
+                "w": 570
+              }
+            },
+            "display_url": "pic.twitter.com/Pyo8ocNo8s",
+            "url": "http://t.co/Pyo8ocNo8s",
+            "id_str": "629384319052611588",
+            "media_url": "http://pbs.twimg.com/media/CLwFtBxVAAQm-iR.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629384323062349824,
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 20:11:30 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1330,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepPoliquin",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

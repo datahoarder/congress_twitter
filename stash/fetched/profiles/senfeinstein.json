@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "feinstein.senate.gov",
+          "url": "http://t.co/x96JRcShsB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.feinstein.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/senatorfeinste\u2026",
+          "url": "http://t.co/siExqwIu",
+          "indices": [
+            55,
+            75
+          ],
+          "expanded_url": "http://facebook.com/senatorfeinstein"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 130,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "California",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/476256944/1401304971",
+  "notifications": false,
+  "description": "United States Senator from California. On Facebook at: http://t.co/siExqwIu",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 2087,
+  "id_str": "476256944",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1799394941/DF_Profile_Pic_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2348,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg",
+  "id": 476256944,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Sen Dianne Feinstein",
+  "profile_use_background_image": true,
+  "url": "http://t.co/x96JRcShsB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1799394941/DF_Profile_Pic_normal.jpg",
+  "created_at": "Fri Jan 27 23:06:59 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 23,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Strongly agree with @JerryBrownGov: Climate change makes wildfire seasons worse. We must #ActOnClimate. http://t.co/sE8lWvihtX",
+    "id_str": "629754976550694912",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 19418459,
+          "indices": [
+            20,
+            34
+          ],
+          "screen_name": "JerryBrownGov",
+          "id_str": "19418459",
+          "name": "Jerry Brown"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            89,
+            102
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/1K5Zq7J",
+          "url": "http://t.co/sE8lWvihtX",
+          "indices": [
+            104,
+            126
+          ],
+          "expanded_url": "http://bit.ly/1K5Zq7J"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629754976550694912,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:44:21 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 57302,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenFeinstein",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg"
+}

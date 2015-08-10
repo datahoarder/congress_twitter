@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "schumer.senate.gov",
+          "url": "http://t.co/actuzGi0EG",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://schumer.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 27017,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 91,
+  "location": "New York, NY",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17494010/1398716493",
+  "notifications": false,
+  "description": "Official account of Senator Chuck Schumer - New York\u2019s Senator RT\u2260endorsement",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 3632,
+  "id_str": "17494010",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/623955176131575808/zWzgRP4C_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 5819,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/194748071/Schumer-Twitter-Background.jpg",
+  "id": 17494010,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "E7E9EF",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Chuck Schumer",
+  "profile_use_background_image": true,
+  "url": "http://t.co/actuzGi0EG",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/623955176131575808/zWzgRP4C_normal.jpg",
+  "created_at": "Wed Nov 19 20:10:20 +0000 2008",
+  "profile_background_color": "43090B",
+  "status": {
+    "id": 629860316793434112,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Thoughts &amp; prayers go out to the family &amp; friends of CNY legendary reporter, Bill Carey. A man of great talent &amp; virtue. Gone far too soon.",
+    "id_str": "629860316793434112",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 03:42:56 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 40,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 32,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 113514,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "FF6005",
+  "screen_name": "SenSchumer",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/194748071/Schumer-Twitter-Background.jpg"
+}

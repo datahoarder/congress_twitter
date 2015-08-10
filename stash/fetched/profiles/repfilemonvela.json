@@ -1,0 +1,148 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "vela.house.gov",
+          "url": "http://t.co/c4zAIMBGjU",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://vela.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 231,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 71,
+  "location": "District 34, Texas",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083448909/1399392026",
+  "notifications": false,
+  "description": "U.S. Congressman for the 34th District of Texas - Privileged to represent South Texans.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 268,
+  "id_str": "1083448909",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 647,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/856563368/404bece62d79fc59d1bc1ca78a18d3a5.jpeg",
+  "id": 1083448909,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "US Rep. Filemon Vela",
+  "profile_use_background_image": true,
+  "url": "http://t.co/c4zAIMBGjU",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/463712019523194880/pM1rWMry_normal.jpeg",
+  "created_at": "Sat Jan 12 16:24:06 +0000 2013",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It's official! @BrownsvilleRGV West Rail Bridge is now open to international trade! More: http://t.co/WMoHSDXeUQ http://t.co/4IiQOpZawg",
+    "id_str": "629739453175721984",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3279077358,
+          "indices": [
+            15,
+            30
+          ],
+          "screen_name": "BrownsvilleRGV",
+          "id_str": "3279077358",
+          "name": "City of Brownsville"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "goo.gl/6CpqWq",
+          "url": "http://t.co/WMoHSDXeUQ",
+          "indices": [
+            90,
+            112
+          ],
+          "expanded_url": "http://goo.gl/6CpqWq"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629739452093603840,
+          "indices": [
+            113,
+            135
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1IsfcWoAACQnJ.jpg",
+          "expanded_url": "http://twitter.com/RepFilemonVela/status/629739453175721984/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/4IiQOpZawg",
+          "url": "http://t.co/4IiQOpZawg",
+          "id_str": "629739452093603840",
+          "media_url": "http://pbs.twimg.com/media/CL1IsfcWoAACQnJ.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629739453175721984,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:42:40 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 3130,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepFilemonVela",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/856563368/404bece62d79fc59d1bc1ca78a18d3a5.jpeg"
+}

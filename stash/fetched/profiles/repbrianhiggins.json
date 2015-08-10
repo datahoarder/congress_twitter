@@ -1,0 +1,270 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "higgins.house.gov",
+          "url": "http://t.co/heWa4g95dy",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://higgins.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "on.fb.me/repbrianhiggins",
+          "url": "http://t.co/UXbxkBzmNe",
+          "indices": [
+            121,
+            143
+          ],
+          "expanded_url": "http://on.fb.me/repbrianhiggins"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2486,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "WNY and Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/33576489/1401727504",
+  "notifications": false,
+  "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/UXbxkBzmNe",
+  "profile_sidebar_border_color": "BDDCAD",
+  "protected": false,
+  "listed_count": 735,
+  "id_str": "33576489",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523096705030320129/55nJtODk_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 7946,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139968021/twitter4-bg.jpg",
+  "id": 33576489,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Brian Higgins",
+  "profile_use_background_image": true,
+  "url": "http://t.co/heWa4g95dy",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523096705030320129/55nJtODk_normal.jpeg",
+  "created_at": "Mon Apr 20 16:47:06 +0000 2009",
+  "profile_background_color": "0B868C",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @RoswellPark: Thank you to @RepBrianHiggins for helping us acknowledge students in our Junior #RoboticSurgery Challenge #JRSC2015 http:/\u2026",
+    "id_str": "630128979253575680",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 16044589,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "RoswellPark",
+          "id_str": "16044589",
+          "name": "Roswell Park "
+        },
+        {
+          "id": 33576489,
+          "indices": [
+            30,
+            46
+          ],
+          "screen_name": "RepBrianHiggins",
+          "id_str": "33576489",
+          "name": "Brian Higgins"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RoboticSurgery",
+          "indices": [
+            97,
+            112
+          ]
+        },
+        {
+          "text": "JRSC2015",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630102396648099844,
+          "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+          "url": "http://t.co/T8Ocm0KQgl",
+          "display_url": "pic.twitter.com/T8Ocm0KQgl",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 444,
+              "resize": "fit",
+              "w": 790
+            }
+          },
+          "source_user_id": 16044589,
+          "source_user_id_str": "16044589",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 630102396773908480,
+          "source_status_id_str": "630102396773908480",
+          "id_str": "630102396648099844"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630128979253575680,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 21:30:30 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Thank you to @RepBrianHiggins for helping us acknowledge students in our Junior #RoboticSurgery Challenge #JRSC2015 http://t.co/T8Ocm0KQgl",
+      "id_str": "630102396773908480",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 33576489,
+            "indices": [
+              13,
+              29
+            ],
+            "screen_name": "RepBrianHiggins",
+            "id_str": "33576489",
+            "name": "Brian Higgins"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RoboticSurgery",
+            "indices": [
+              80,
+              95
+            ]
+          },
+          {
+            "text": "JRSC2015",
+            "indices": [
+              106,
+              115
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630102396648099844,
+            "indices": [
+              116,
+              138
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 444,
+                "resize": "fit",
+                "w": 790
+              }
+            },
+            "display_url": "pic.twitter.com/T8Ocm0KQgl",
+            "url": "http://t.co/T8Ocm0KQgl",
+            "id_str": "630102396648099844",
+            "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630102396773908480,
+      "truncated": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 19:44:52 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13681,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBrianHiggins",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139968021/twitter4-bg.jpg"
+}

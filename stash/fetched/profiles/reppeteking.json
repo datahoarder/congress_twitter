@@ -1,0 +1,286 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "peteking.house.gov",
+          "url": "http://t.co/KPR17HxYvl",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://peteking.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 98,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 51,
+  "location": "Seaford, New York",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18277655/1415987985",
+  "notifications": false,
+  "description": "Representing New York's 2nd Congressional District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1336,
+  "id_str": "18277655",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302288285/newptkheadshot_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2066,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 18277655,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Pete King",
+  "profile_use_background_image": true,
+  "url": "http://t.co/KPR17HxYvl",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1302288285/newptkheadshot_normal.jpg",
+  "created_at": "Sun Dec 21 02:49:32 +0000 2008",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @sidrosenberg: Me, @bernardmcguirk and @RepPeteKing in the @77WABCradio studios this morning. King2020\ud83d\udc4d! #sidvision http://t.co/JObuWKNr\u2026",
+    "id_str": "628958856769609729",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 31586013,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "sidrosenberg",
+          "id_str": "31586013",
+          "name": "Sid Rosenberg"
+        },
+        {
+          "id": 48676268,
+          "indices": [
+            22,
+            37
+          ],
+          "screen_name": "bernardmcguirk",
+          "id_str": "48676268",
+          "name": "Bernard McGuirk"
+        },
+        {
+          "id": 18277655,
+          "indices": [
+            42,
+            54
+          ],
+          "screen_name": "RepPeteKing",
+          "id_str": "18277655",
+          "name": "Rep. Pete King"
+        },
+        {
+          "id": 104567779,
+          "indices": [
+            62,
+            74
+          ],
+          "screen_name": "77WABCradio",
+          "id_str": "104567779",
+          "name": "77 WABC Radio"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sidvision",
+          "indices": [
+            108,
+            118
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628942028211126272,
+          "media_url": "http://pbs.twimg.com/media/CLpzcT_WgAASmI3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLpzcT_WgAASmI3.jpg",
+          "expanded_url": "http://twitter.com/sidrosenberg/status/628942033340772352/photo/1",
+          "url": "http://t.co/JObuWKNrwF",
+          "display_url": "pic.twitter.com/JObuWKNrwF",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 31586013,
+          "source_user_id_str": "31586013",
+          "indices": [
+            119,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 628942033340772352,
+          "source_status_id_str": "628942033340772352",
+          "id_str": "628942028211126272"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628958856769609729,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 16:00:51 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 7,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Me, @bernardmcguirk and @RepPeteKing in the @77WABCradio studios this morning. King2020\ud83d\udc4d! #sidvision http://t.co/JObuWKNrwF",
+      "id_str": "628942033340772352",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 48676268,
+            "indices": [
+              4,
+              19
+            ],
+            "screen_name": "bernardmcguirk",
+            "id_str": "48676268",
+            "name": "Bernard McGuirk"
+          },
+          {
+            "id": 18277655,
+            "indices": [
+              24,
+              36
+            ],
+            "screen_name": "RepPeteKing",
+            "id_str": "18277655",
+            "name": "Rep. Pete King"
+          },
+          {
+            "id": 104567779,
+            "indices": [
+              44,
+              56
+            ],
+            "screen_name": "77WABCradio",
+            "id_str": "104567779",
+            "name": "77 WABC Radio"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "sidvision",
+            "indices": [
+              90,
+              100
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 628942028211126272,
+            "indices": [
+              101,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLpzcT_WgAASmI3.jpg",
+            "expanded_url": "http://twitter.com/sidrosenberg/status/628942033340772352/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 255,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 768,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/JObuWKNrwF",
+            "url": "http://t.co/JObuWKNrwF",
+            "id_str": "628942028211126272",
+            "media_url": "http://pbs.twimg.com/media/CLpzcT_WgAASmI3.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 628942033340772352,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Wed Aug 05 14:54:00 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 20056,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepPeteKing",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

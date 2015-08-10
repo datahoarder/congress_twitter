@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "hunter.house.gov",
+          "url": "http://t.co/8rSbcnjMYw",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hunter.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 245,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3,
+  "location": "",
+  "notifications": false,
+  "description": "Representing California\u2019s 50th District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 340,
+  "id_str": "1305596696",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/564882935610740738/dfz9IbEK_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 273,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1305596696,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Rep. Duncan Hunter",
+  "profile_use_background_image": true,
+  "url": "http://t.co/8rSbcnjMYw",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/564882935610740738/dfz9IbEK_normal.jpeg",
+  "created_at": "Tue Mar 26 21:04:26 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 625677760720191488,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": "624676150896254976",
+    "place": null,
+    "text": "@mobahjat thank you.  Let\u2019s keep up the fight.",
+    "id_str": "625677760720191488",
+    "in_reply_to_user_id_str": "3091343462",
+    "created_at": "Mon Jul 27 14:42:57 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 1,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": "mobahjat",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3091343462,
+          "indices": [
+            0,
+            9
+          ],
+          "screen_name": "mobahjat",
+          "id_str": "3091343462",
+          "name": "Mo"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 0,
+    "in_reply_to_status_id": 624676150896254976,
+    "in_reply_to_user_id": 3091343462
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 4462,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "Rep_Hunter",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

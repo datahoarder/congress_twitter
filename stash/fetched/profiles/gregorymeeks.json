@@ -1,0 +1,96 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "house.gov/meeks/",
+          "url": "http://t.co/k57Evp0k42",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.house.gov/meeks/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 561,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 6,
+  "location": "Queens, New York",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22812754/1401376157",
+  "notifications": false,
+  "description": "Proudly serving the 5th Congressional District of New York.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 804,
+  "id_str": "22812754",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/487647096544055296/jhLh0UxZ_normal.png",
+  "profile_background_tile": true,
+  "statuses_count": 1722,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000097146493/f30d820fb983d982d9c400ac31986773.jpeg",
+  "id": 22812754,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": " Gregory Meeks",
+  "profile_use_background_image": true,
+  "url": "http://t.co/k57Evp0k42",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/487647096544055296/jhLh0UxZ_normal.png",
+  "created_at": "Wed Mar 04 18:36:27 +0000 2009",
+  "profile_background_color": "94B3C2",
+  "status": {
+    "id": 629331084292059136,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "From literacy tests to cutting early voting. From poll taxes to unnecessary voter IDs. Our work is not yet done. #RestoreTheVRA",
+    "id_str": "629331084292059136",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 16:39:57 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 1,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            113,
+            127
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 1,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 10792,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0054B3",
+  "screen_name": "GregoryMeeks",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000097146493/f30d820fb983d982d9c400ac31986773.jpeg"
+}

@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "menendez.senate.gov",
+          "url": "http://t.co/k4dLi6HYYJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://menendez.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 610,
+  "verified": true,
+  "profile_text_color": "663B12",
+  "favourites_count": 5,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18695134/1401367166",
+  "notifications": false,
+  "description": "Proudly serving the State of New Jersey in the United States Senate.",
+  "profile_sidebar_border_color": "C6E2EE",
+  "protected": false,
+  "listed_count": 2516,
+  "id_str": "18695134",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/471994418266775552/14FnKiYy_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 4115,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552940589159686144/5edCweKj.jpeg",
+  "id": 18695134,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DAECF4",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Bob Menendez",
+  "profile_use_background_image": true,
+  "url": "http://t.co/k4dLi6HYYJ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/471994418266775552/14FnKiYy_normal.jpeg",
+  "created_at": "Tue Jan 06 21:01:12 +0000 2009",
+  "profile_background_color": "273447",
+  "status": {
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "TUNE IN:Speaking w/@JDBalart abt politicization of human trafficking #TIPReport before hearing on it- which streams @ http://t.co/k4dLi6ZAnj",
+    "id_str": "629288330128138240",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 49733381,
+          "indices": [
+            19,
+            28
+          ],
+          "screen_name": "jdbalart",
+          "id_str": "49733381",
+          "name": "jose diaz-balart"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TIPReport",
+          "indices": [
+            69,
+            79
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "menendez.senate.gov",
+          "url": "http://t.co/k4dLi6ZAnj",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://menendez.senate.gov"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629288330128138240,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:50:04 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 50149,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3283D1",
+  "screen_name": "SenatorMenendez",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552940589159686144/5edCweKj.jpeg"
+}

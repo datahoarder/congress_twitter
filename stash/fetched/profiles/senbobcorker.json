@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "corker.senate.gov",
+          "url": "http://t.co/ZyiE2l8INn",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://corker.senate.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 459,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 8,
+  "location": "Tennessee",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/73303753/1426958911",
+  "notifications": false,
+  "description": "Official news and updates from United States Senator Bob Corker (R-Tennessee) and his staff.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 2069,
+  "id_str": "73303753",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/579333332875501568/OCFpGQnO_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2417,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg",
+  "id": 73303753,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "D6C989",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Bob Corker",
+  "profile_use_background_image": false,
+  "url": "http://t.co/ZyiE2l8INn",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/579333332875501568/OCFpGQnO_normal.jpg",
+  "created_at": "Fri Sep 11 03:56:08 +0000 2009",
+  "profile_background_color": "ABB8C2",
+  "status": {
+    "favorite_count": 26,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "There is perhaps no greater geopolitical issue facing the world today than preventing a nuclear-armed Iran. http://t.co/CAwn8HOM2n #IranDeal",
+    "id_str": "630002647702052864",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            131,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/1Dxdw5r",
+          "url": "http://t.co/CAwn8HOM2n",
+          "indices": [
+            108,
+            130
+          ],
+          "expanded_url": "http://bit.ly/1Dxdw5r"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630002647702052864,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 13:08:30 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 27,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 42179,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "404040",
+  "screen_name": "SenBobCorker",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569862735773454336/B-JQ3bGy.jpeg"
+}

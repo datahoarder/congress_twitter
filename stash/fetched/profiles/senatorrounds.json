@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "rounds.senate.gov",
+          "url": "http://t.co/gMVH2AwcFu",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://rounds.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 443,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 25,
+  "location": "Pierre, South Dakota",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955485182/1426022654",
+  "notifications": false,
+  "description": "U.S. Senator for South Dakota",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 140,
+  "id_str": "2955485182",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/555794520311205888/sdPOdu4L_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 457,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2955485182,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Mike Rounds",
+  "profile_use_background_image": false,
+  "url": "http://t.co/gMVH2AwcFu",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/555794520311205888/sdPOdu4L_normal.jpeg",
+  "created_at": "Thu Jan 01 20:23:49 +0000 2015",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "\"Sue and settle\" tactics allow admin to promote their agenda while circumventing the entire legislative process http://t.co/7U6e5GD062",
+    "id_str": "629667902950612992",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1NeUalt",
+          "url": "http://t.co/7U6e5GD062",
+          "indices": [
+            112,
+            134
+          ],
+          "expanded_url": "http://1.usa.gov/1NeUalt"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629667902950612992,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:58:21 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 2824,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "DD2E44",
+  "screen_name": "SenatorRounds",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

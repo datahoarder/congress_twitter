@@ -1,0 +1,153 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "yoho.house.gov",
+          "url": "http://t.co/1SnsOiv0kl",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://yoho.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 327,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071900114/1368207742",
+  "notifications": false,
+  "description": "Representing Florida's 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HFACRepublicans & @HouseAgNews Committees",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 424,
+  "id_str": "1071900114",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 530,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/758821210/82a37daa2f07606c53fa970da96c2dab.jpeg",
+  "id": 1071900114,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Ted Yoho",
+  "profile_use_background_image": true,
+  "url": "http://t.co/1SnsOiv0kl",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3083908995/d2f7b2b99b63d01db6a3dbddc0680655_normal.jpeg",
+  "created_at": "Tue Jan 08 20:25:18 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It was a pleasure voicing my concerns about the #IranDeal with @loudobbsnews last night! #FoxNews http://t.co/WBwgBeki0s",
+    "id_str": "629305598992101376",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 26487169,
+          "indices": [
+            63,
+            76
+          ],
+          "screen_name": "loudobbsnews",
+          "id_str": "26487169",
+          "name": "Lou Dobbs"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            48,
+            57
+          ]
+        },
+        {
+          "text": "FoxNews",
+          "indices": [
+            89,
+            97
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629305528749953024,
+          "indices": [
+            98,
+            120
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/629305598992101376/video/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            }
+          },
+          "display_url": "pic.twitter.com/WBwgBeki0s",
+          "url": "http://t.co/WBwgBeki0s",
+          "id_str": "629305528749953024",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629305598992101376,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 14:58:41 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 4912,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepTedYoho",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/758821210/82a37daa2f07606c53fa970da96c2dab.jpeg"
+}

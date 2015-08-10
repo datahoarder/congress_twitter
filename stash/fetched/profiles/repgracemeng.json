@@ -1,0 +1,142 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "meng.house.gov",
+          "url": "http://t.co/P1ajY4Fn",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://meng.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 625,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 303,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1051127714/1357593612",
+  "notifications": false,
+  "description": "Representing NY's 6th Congressional District - Parts of West, Central and Northeast Queens.\n\nFor specific questions or concerns, please contact my office.",
+  "profile_sidebar_border_color": "A8C7F7",
+  "protected": false,
+  "listed_count": 349,
+  "id_str": "1051127714",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2226,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 1051127714,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Grace Meng",
+  "profile_use_background_image": true,
+  "url": "http://t.co/P1ajY4Fn",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3257470174/64291ff1f090e3193c2764925000a1fa_normal.jpeg",
+  "created_at": "Mon Dec 31 20:28:41 +0000 2012",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Having fun at the 25th annual #DragonBoatFestival in Flushing Meadows Corona Park. #Queens http://t.co/V8mu0VxM8E",
+    "id_str": "630060424260550656",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "DragonBoatFestival",
+          "indices": [
+            30,
+            49
+          ]
+        },
+        {
+          "text": "Queens",
+          "indices": [
+            83,
+            90
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630060414093561856,
+          "indices": [
+            91,
+            113
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL5sm8EVEAAwLBM.jpg",
+          "expanded_url": "http://twitter.com/RepGraceMeng/status/630060424260550656/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/V8mu0VxM8E",
+          "url": "http://t.co/V8mu0VxM8E",
+          "id_str": "630060414093561856",
+          "media_url": "http://pbs.twimg.com/media/CL5sm8EVEAAwLBM.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630060424260550656,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 16:58:05 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 6037,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGraceMeng",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png"
+}

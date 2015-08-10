@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "westerman.house.gov",
+          "url": "http://t.co/bUBMKnHR6S",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://westerman.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 450,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 16,
+  "location": "Hot Springs, Arkansas",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852998461/1430163066",
+  "notifications": false,
+  "description": "Congressman representing the Fourth District of Arkansas. Husband. Father of four. Hot Springs native. @UArkansas, @Yale alum.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 98,
+  "id_str": "2852998461",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/577876090309361664/itRREUo8_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 757,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528177731960193024/IW50B7C2.jpeg",
+  "id": 2852998461,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Bruce Westerman",
+  "profile_use_background_image": false,
+  "url": "http://t.co/bUBMKnHR6S",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/577876090309361664/itRREUo8_normal.jpeg",
+  "created_at": "Fri Oct 31 03:57:48 +0000 2014",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Westerman: \"@EPA's war on affordable energy and jobs continues to harm the Natural State.\" https://t.co/DZwDLzDcPV #AR4",
+    "id_str": "629813838859403264",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 14615871,
+          "indices": [
+            12,
+            16
+          ],
+          "screen_name": "EPA",
+          "id_str": "14615871",
+          "name": "U.S. EPA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AR4",
+          "indices": [
+            115,
+            119
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "westerman.house.gov/media-center/p\u2026",
+          "url": "https://t.co/DZwDLzDcPV",
+          "indices": [
+            91,
+            114
+          ],
+          "expanded_url": "https://westerman.house.gov/media-center/press-releases/westerman-responds-reports-possible-white-bluff-coal-power-plant"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629813838859403264,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 00:38:15 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 1628,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "BE0F34",
+  "screen_name": "RepWesterman",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528177731960193024/IW50B7C2.jpeg"
+}

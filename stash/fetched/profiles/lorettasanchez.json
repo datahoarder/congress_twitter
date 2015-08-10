@@ -1,0 +1,142 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lorettasanchez.house.gov",
+          "url": "http://t.co/PUiqbha0FR",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.lorettasanchez.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 14095,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 28,
+  "location": "Orange County, CA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/108376246/1424378979",
+  "notifications": false,
+  "description": "I proudly represent California's 46th district in Congress. I serve as a Senior Member on both the Armed Services and Homeland Security Committees.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 985,
+  "id_str": "108376246",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/467409797285806080/sssV7D0Z_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2014,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451017390688444416/1dqhlkAw.png",
+  "id": 108376246,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Loretta Sanchez",
+  "profile_use_background_image": true,
+  "url": "http://t.co/PUiqbha0FR",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/467409797285806080/sssV7D0Z_normal.png",
+  "created_at": "Mon Jan 25 19:08:10 +0000 2010",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "On the #VRA's 50th anniversary, remember that LBJ was right: Denying any American the right to vote is wrong. #VRA50 http://t.co/VSPk8epvNZ",
+    "id_str": "629345621300916224",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            7,
+            11
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            110,
+            116
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629345620843757568,
+          "indices": [
+            117,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLvigftXAAAJSax.jpg",
+          "expanded_url": "http://twitter.com/LorettaSanchez/status/629345621300916224/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 299,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 169,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 511,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/VSPk8epvNZ",
+          "url": "http://t.co/VSPk8epvNZ",
+          "id_str": "629345620843757568",
+          "media_url": "http://pbs.twimg.com/media/CLvigftXAAAJSax.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629345621300916224,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 17:37:43 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 16725,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "495A5E",
+  "screen_name": "LorettaSanchez",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451017390688444416/1dqhlkAw.png"
+}

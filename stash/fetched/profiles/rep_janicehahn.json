@@ -1,0 +1,185 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "hahn.house.gov",
+          "url": "http://t.co/tYJhVgj0nj",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hahn.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1611,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 304,
+  "location": "San Pedro, CA",
+  "notifications": false,
+  "description": "Proudly representing California's 44th District in Congress",
+  "profile_sidebar_border_color": "BDDCAD",
+  "protected": false,
+  "listed_count": 455,
+  "id_str": "339852137",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/476775438644035586/MfJQ8cOG_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2997,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+  "id": 339852137,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Janice Hahn",
+  "profile_use_background_image": true,
+  "url": "http://t.co/tYJhVgj0nj",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/476775438644035586/MfJQ8cOG_normal.jpeg",
+  "created_at": "Thu Jul 21 19:22:22 +0000 2011",
+  "profile_background_color": "9AE4E8",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @AMMWWII: @Rep_JaniceHahn #DreamTeam Deb's Dad! Melvin Rogow WWII heroes waiting 70 years for benefits http://t.co/mxNhSrC9sJ \u2026 \u2026",
+    "id_str": "630002784306335746",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3238596565,
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "AMMWWII",
+          "id_str": "3238596565",
+          "name": "AMMV"
+        },
+        {
+          "id": 339852137,
+          "indices": [
+            13,
+            28
+          ],
+          "screen_name": "Rep_JaniceHahn",
+          "id_str": "339852137",
+          "name": "Janice Hahn"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DreamTeam",
+          "indices": [
+            29,
+            39
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "chestnuthilllocal.com/2015/08/06/mt-\u2026",
+          "url": "http://t.co/mxNhSrC9sJ",
+          "indices": [
+            106,
+            128
+          ],
+          "expanded_url": "http://www.chestnuthilllocal.com/2015/08/06/mt-airyite-wwii-heroes-waiting-70-years-for-benefits/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630002784306335746,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 13:09:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "@Rep_JaniceHahn #DreamTeam Deb's Dad! Melvin Rogow WWII heroes waiting 70 years for benefits http://t.co/mxNhSrC9sJ \u2026 \u2026",
+      "id_str": "630002637774065665",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 339852137,
+            "indices": [
+              0,
+              15
+            ],
+            "screen_name": "Rep_JaniceHahn",
+            "id_str": "339852137",
+            "name": "Janice Hahn"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "DreamTeam",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "chestnuthilllocal.com/2015/08/06/mt-\u2026",
+            "url": "http://t.co/mxNhSrC9sJ",
+            "indices": [
+              93,
+              115
+            ],
+            "expanded_url": "http://www.chestnuthilllocal.com/2015/08/06/mt-airyite-wwii-heroes-waiting-70-years-for-benefits/"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": "Rep_JaniceHahn",
+      "geo": null,
+      "in_reply_to_user_id": 339852137,
+      "id": 630002637774065665,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": "339852137",
+      "created_at": "Sat Aug 08 13:08:28 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 7145,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "Rep_JaniceHahn",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif"
+}

@@ -1,0 +1,144 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "gosar.house.gov",
+          "url": "http://t.co/zyc0Z67cqy",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://gosar.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3439,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 630,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240760644/1412964190",
+  "notifications": false,
+  "description": "Proudly representing Arizona's Fourth Congressional District.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 828,
+  "id_str": "240760644",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/487580106563411968/6-RHjiS0_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 5553,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/757724029/40c2c6724ed23a29a9edd44f3aae287a.jpeg",
+  "id": 240760644,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Paul Gosar, DDS",
+  "profile_use_background_image": true,
+  "url": "http://t.co/zyc0Z67cqy",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/487580106563411968/6-RHjiS0_normal.jpeg",
+  "created_at": "Thu Jan 20 17:44:27 +0000 2011",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Today, my Washington D.C. staff toured the progress made at the Mineral Park Mine outside of Kingman,\u2026 https://t.co/ebLNW7GE7T",
+    "id_str": "629122571896815616",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/6Bpr-NBh00/",
+          "url": "https://t.co/ebLNW7GE7T",
+          "indices": [
+            103,
+            126
+          ],
+          "expanded_url": "https://instagram.com/p/6Bpr-NBh00/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": {
+      "coordinates": [
+        35.213199,
+        -114.013979
+      ],
+      "type": "Point"
+    },
+    "in_reply_to_user_id": null,
+    "id": 629122571896815616,
+    "truncated": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "place": {
+      "id": "d88ba04b7e693c48",
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kingman, AZ",
+      "name": "Kingman",
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -114.07623,
+              35.1741305
+            ],
+            [
+              -113.959184,
+              35.1741305
+            ],
+            [
+              -113.959184,
+              35.273374
+            ],
+            [
+              -114.07623,
+              35.273374
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "country": "United States",
+      "url": "https://api.twitter.com/1.1/geo/id/d88ba04b7e693c48.json",
+      "contained_within": [],
+      "place_type": "city"
+    },
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 02:51:24 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": {
+      "coordinates": [
+        -114.013979,
+        35.213199
+      ],
+      "type": "Point"
+    },
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13641,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGosar",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/757724029/40c2c6724ed23a29a9edd44f3aae287a.jpeg"
+}

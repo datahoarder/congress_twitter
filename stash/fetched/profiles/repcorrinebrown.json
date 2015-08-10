@@ -1,0 +1,142 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "corrinebrown.house.gov",
+          "url": "http://t.co/5S1qvqSpp2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://corrinebrown.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 262,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 78,
+  "location": "Jacksonville",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/292935209/1359474487",
+  "notifications": false,
+  "description": "I have served in the U.S. House of Representatives since 1992. My district includes Jacksonville, Gainesville and Orlando.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 575,
+  "id_str": "292935209",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338701114/CB_Icon_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1079,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 292935209,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Corrine Brown",
+  "profile_use_background_image": true,
+  "url": "http://t.co/5S1qvqSpp2",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1338701114/CB_Icon_normal.jpg",
+  "created_at": "Wed May 04 13:48:56 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Bloodied, tired and beaten, Americans marched &amp; fought for the basic American right to vote. #RestoreTheVRA #VRA50 http://t.co/FHOW00MZFX",
+    "id_str": "629381837152911361",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            97,
+            111
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            112,
+            118
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629381817833930752,
+          "indices": [
+            119,
+            141
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLwDbcAUwAAW0Ve.png",
+          "expanded_url": "http://twitter.com/RepCorrineBrown/status/629381837152911361/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 334,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 189,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 415,
+              "resize": "fit",
+              "w": 745
+            }
+          },
+          "display_url": "pic.twitter.com/FHOW00MZFX",
+          "url": "http://t.co/FHOW00MZFX",
+          "id_str": "629381817833930752",
+          "media_url": "http://pbs.twimg.com/media/CLwDbcAUwAAW0Ve.png",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629381837152911361,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:01:37 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 7825,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepCorrineBrown",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "black.house.gov",
+          "url": "http://t.co/gZ7oGBeE9o",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://black.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1526,
+  "verified": true,
+  "profile_text_color": "073763",
+  "favourites_count": 65,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/110545675/1398793816",
+  "notifications": false,
+  "description": "Representing Tennessee's 6th Congressional District; \r\nnurse, small business owner and member of @WaysandMeansGOP & Budget Committee",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 781,
+  "id_str": "110545675",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/570663647978856448/PVDXUors_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3513,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452166580227420162/LKXhLQGz.jpeg",
+  "id": 110545675,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EEEEEE",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Diane Black",
+  "profile_use_background_image": true,
+  "url": "http://t.co/gZ7oGBeE9o",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/570663647978856448/PVDXUors_normal.jpeg",
+  "created_at": "Mon Feb 01 22:58:22 +0000 2010",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Congratulations to a good friend and a great Tennessean! Well deserved @joebonsall.  https://t.co/W05VOnWP1I",
+    "id_str": "630137309359403008",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 25541830,
+          "indices": [
+            71,
+            82
+          ],
+          "screen_name": "joebonsall",
+          "id_str": "25541830",
+          "name": "Joe Bonsall"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/joebonsall/sta\u2026",
+          "url": "https://t.co/W05VOnWP1I",
+          "indices": [
+            85,
+            108
+          ],
+          "expanded_url": "https://twitter.com/joebonsall/status/630109806787870720"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630137309359403008,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:03:36 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 11220,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "073763",
+  "screen_name": "RepDianeBlack",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452166580227420162/LKXhLQGz.jpeg"
+}

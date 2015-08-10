@@ -1,0 +1,246 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "facebook.com/CongresswomanL\u2026",
+          "url": "http://t.co/j3uPhHLz80",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.facebook.com/CongresswomanLindaSanchez"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1523,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 90,
+  "location": "Lakewood,CA and Washington,DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/312134473/1435638023",
+  "notifications": false,
+  "description": "Fighting for CA-38. Chair of the @HispanicCaucus. Serve on both @WaysMeansCmte & @BenghaziDems. Die hard @Dodgers Fan.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 527,
+  "id_str": "312134473",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615737828689850368/3zOWWUXI_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 1702,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/789899190/09c310ce07a4a559a782b056d02d07b7.jpeg",
+  "id": 312134473,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Linda T. S\u00e1nchez",
+  "profile_use_background_image": false,
+  "url": "http://t.co/j3uPhHLz80",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615737828689850368/3zOWWUXI_normal.jpg",
+  "created_at": "Mon Jun 06 16:50:45 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @RepBetoORourke: . @realDonaldTrump The Border Makes America Great #usmxs International 10k http://t.co/nLuCft2XxX",
+    "id_str": "630144469820698624",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1134292500,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "RepBetoORourke",
+          "id_str": "1134292500",
+          "name": "Rep. Beto O'Rourke"
+        },
+        {
+          "id": 25073877,
+          "indices": [
+            22,
+            38
+          ],
+          "screen_name": "realDonaldTrump",
+          "id_str": "25073877",
+          "name": "Donald J. Trump"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "usmxs",
+          "indices": [
+            70,
+            76
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630009953353269248,
+          "media_url": "http://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+          "expanded_url": "http://twitter.com/RepBetoORourke/status/630009955697848322/photo/1",
+          "url": "http://t.co/nLuCft2XxX",
+          "display_url": "pic.twitter.com/nLuCft2XxX",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 768
+            }
+          },
+          "source_user_id": 1134292500,
+          "source_user_id_str": "1134292500",
+          "indices": [
+            95,
+            117
+          ],
+          "type": "photo",
+          "source_status_id": 630009955697848322,
+          "source_status_id_str": "630009955697848322",
+          "id_str": "630009953353269248"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630144469820698624,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:32:03 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 45,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 48,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ". @realDonaldTrump The Border Makes America Great #usmxs International 10k http://t.co/nLuCft2XxX",
+      "id_str": "630009955697848322",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "indices": [
+              2,
+              18
+            ],
+            "screen_name": "realDonaldTrump",
+            "id_str": "25073877",
+            "name": "Donald J. Trump"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "usmxs",
+            "indices": [
+              50,
+              56
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630009953353269248,
+            "indices": [
+              75,
+              97
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+            "expanded_url": "http://twitter.com/RepBetoORourke/status/630009955697848322/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 768
+              }
+            },
+            "display_url": "pic.twitter.com/nLuCft2XxX",
+            "url": "http://t.co/nLuCft2XxX",
+            "id_str": "630009953353269248",
+            "media_url": "http://pbs.twimg.com/media/CL4-tvKVAAAmcDg.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630009955697848322,
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 13:37:33 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 45,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 7944,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "DD2E44",
+  "screen_name": "RepLindaSanchez",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/789899190/09c310ce07a4a559a782b056d02d07b7.jpeg"
+}

@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "clarke.house.gov",
+          "url": "http://t.co/ruU2CXhyLM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.clarke.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 5197,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1327,
+  "location": "Brooklyn, NY",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/240812994/1399929986",
+  "notifications": false,
+  "description": "U.S. Representative proudly serving New York's 9th Congressional district. RT \u2260 endorsement.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 630,
+  "id_str": "240812994",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224689291/OFFICIAL_HEADSHOT_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 5222,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 240812994,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Yvette D. Clarke",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ruU2CXhyLM",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1224689291/OFFICIAL_HEADSHOT_normal.JPG",
+  "created_at": "Thu Jan 20 20:14:21 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Job Growth Steady in July, Possibly Easing Path for Fed Action http://t.co/j87oQ5xuCk",
+    "id_str": "629659893293826048",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "nyti.ms/1KUZgWx",
+          "url": "http://t.co/j87oQ5xuCk",
+          "indices": [
+            63,
+            85
+          ],
+          "expanded_url": "http://nyti.ms/1KUZgWx"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629659893293826048,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:26:31 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 11476,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "YvetteClarke",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

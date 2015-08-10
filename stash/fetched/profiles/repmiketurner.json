@@ -1,0 +1,225 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "turner.house.gov",
+          "url": "http://t.co/hhH39SKxLO",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://turner.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1176,
+  "verified": true,
+  "profile_text_color": "0084B4",
+  "favourites_count": 46,
+  "location": "Washington, DC and Dayton, OH",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/51228911/1413479410",
+  "notifications": false,
+  "description": "I proudly represent the Tenth District of Ohio. Montgomery County, Greene County and Fayette County. #OH10",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 541,
+  "id_str": "51228911",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1732,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446028330823712768/4Z3vM-0i.jpeg",
+  "id": 51228911,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "US Rep. Mike Turner",
+  "profile_use_background_image": true,
+  "url": "http://t.co/hhH39SKxLO",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/445952873818374144/TZbgdNZ5_normal.jpeg",
+  "created_at": "Fri Jun 26 21:15:07 +0000 2009",
+  "profile_background_color": "FAFAFA",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @HASCRepublicans: Full House for the HASC #IranDeal hearing. http://t.co/dqSoTSE9lN",
+    "id_str": "626398389719203840",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 20192403,
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "HASCRepublicans",
+          "id_str": "20192403",
+          "name": "HASC Republicans"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            45,
+            54
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 626398192343584768,
+          "media_url": "http://pbs.twimg.com/media/CLFp1k6WEAAGqld.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLFp1k6WEAAGqld.jpg",
+          "expanded_url": "http://twitter.com/HASCRepublicans/status/626398192708526080/photo/1",
+          "url": "http://t.co/dqSoTSE9lN",
+          "display_url": "pic.twitter.com/dqSoTSE9lN",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 20192403,
+          "source_user_id_str": "20192403",
+          "indices": [
+            64,
+            86
+          ],
+          "type": "photo",
+          "source_status_id": 626398192708526080,
+          "source_status_id_str": "626398192708526080",
+          "id_str": "626398192343584768"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 626398389719203840,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Jul 29 14:26:28 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Full House for the HASC #IranDeal hearing. http://t.co/dqSoTSE9lN",
+      "id_str": "626398192708526080",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 626398192343584768,
+            "indices": [
+              43,
+              65
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLFp1k6WEAAGqld.jpg",
+            "expanded_url": "http://twitter.com/HASCRepublicans/status/626398192708526080/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 600,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 340,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/dqSoTSE9lN",
+            "url": "http://t.co/dqSoTSE9lN",
+            "id_str": "626398192343584768",
+            "media_url": "http://pbs.twimg.com/media/CLFp1k6WEAAGqld.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 626398192708526080,
+      "truncated": false,
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Wed Jul 29 14:25:41 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 6795,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "1D63F0",
+  "screen_name": "RepMikeTurner",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446028330823712768/4Z3vM-0i.jpeg"
+}

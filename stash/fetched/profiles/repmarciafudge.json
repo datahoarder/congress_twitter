@@ -1,0 +1,163 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "instagram.com/RepMarciaFudge",
+          "url": "http://t.co/JrkK1xS2vV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://instagram.com/RepMarciaFudge"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3315,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 187,
+  "location": "Cleveland / Akron, OH",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/153486399/1437769122",
+  "notifications": false,
+  "description": "I work on behalf of the people of the 11th District to create jobs, promote quality education, improve access to health care and protect civil rights for all.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 740,
+  "id_str": "153486399",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/522856155513507840/2-FBR9Ah_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2701,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800956276/bd948cea1e138007e75d44e4180ffad2.jpeg",
+  "id": 153486399,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "CCDDF8",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Marcia L. Fudge",
+  "profile_use_background_image": false,
+  "url": "http://t.co/JrkK1xS2vV",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/522856155513507840/2-FBR9Ah_normal.jpeg",
+  "created_at": "Tue Jun 08 17:54:06 +0000 2010",
+  "profile_background_color": "013C63",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It's #Ohio #LocalFoods Week! Try produce, baked goods &amp; more made in #Cleveland and #Akron! #ItMattersWhereYouGrowIt http://t.co/30jRdIcz3Y",
+    "id_str": "630378076506075138",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            5,
+            10
+          ]
+        },
+        {
+          "text": "LocalFoods",
+          "indices": [
+            11,
+            22
+          ]
+        },
+        {
+          "text": "Cleveland",
+          "indices": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "Akron",
+          "indices": [
+            88,
+            94
+          ]
+        },
+        {
+          "text": "ItMattersWhereYouGrowIt",
+          "indices": [
+            96,
+            120
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630378076388651009,
+          "indices": [
+            121,
+            143
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/630378076506075138/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 720
+            }
+          },
+          "display_url": "pic.twitter.com/30jRdIcz3Y",
+          "url": "http://t.co/30jRdIcz3Y",
+          "id_str": "630378076388651009",
+          "media_url": "http://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630378076506075138,
+    "truncated": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 14:00:19 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 14633,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepMarciaFudge",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800956276/bd948cea1e138007e75d44e4180ffad2.jpeg"
+}

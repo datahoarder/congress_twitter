@@ -1,0 +1,170 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "steveking.house.gov",
+          "url": "http://t.co/3xUFJcyWQ4",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://steveking.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 89,
+  "verified": true,
+  "profile_text_color": "061025",
+  "favourites_count": 14,
+  "location": "Washington, DC",
+  "notifications": false,
+  "description": "Representing the 4th District of Iowa #IA04",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1393,
+  "id_str": "48117116",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1140,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754533290/a5a14aee15b600f41c00351b636fa575.jpeg",
+  "id": 48117116,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "D1AF59",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Steve King",
+  "profile_use_background_image": true,
+  "url": "http://t.co/3xUFJcyWQ4",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/562285752105443328/YNSd5Sq5_normal.jpeg",
+  "created_at": "Wed Jun 17 21:09:41 +0000 2009",
+  "profile_background_color": "061025",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @alvedaking: An arm, a liver, a heart... that sure sounds like a #person to me. #DefundPP #PPSellsBabyParts",
+    "id_str": "627188818551017472",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 65744750,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "alvedaking",
+          "id_str": "65744750",
+          "name": "Alveda King"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "person",
+          "indices": [
+            68,
+            75
+          ]
+        },
+        {
+          "text": "DefundPP",
+          "indices": [
+            83,
+            92
+          ]
+        },
+        {
+          "text": "PPSellsBabyParts",
+          "indices": [
+            93,
+            110
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 627188818551017472,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Jul 31 18:47:21 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 290,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 627155978039918592,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "An arm, a liver, a heart... that sure sounds like a #person to me. #DefundPP #PPSellsBabyParts",
+      "id_str": "627155978039918592",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Jul 31 16:36:51 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 185,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "person",
+            "indices": [
+              52,
+              59
+            ]
+          },
+          {
+            "text": "DefundPP",
+            "indices": [
+              67,
+              76
+            ]
+          },
+          {
+            "text": "PPSellsBabyParts",
+            "indices": [
+              77,
+              94
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 290,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 24672,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "061025",
+  "screen_name": "SteveKingIA",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754533290/a5a14aee15b600f41c00351b636fa575.jpeg"
+}

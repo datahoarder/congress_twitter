@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "dougcollins.house.gov",
+          "url": "http://t.co/puX4lAK5i5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://dougcollins.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 773,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 196,
+  "location": "Gainesville, Georgia",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060487274/1397675925",
+  "notifications": false,
+  "description": "Working for Georgia's 9th Congressional District. Find me @HouseJudiciary when in session, beautiful #GA09 all other times.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 312,
+  "id_str": "1060487274",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/441354935452438528/U0f-n0Iv_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1940,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099236607/4900f793dc011d388d3edef8c71d50f9.jpeg",
+  "id": 1060487274,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Doug Collins",
+  "profile_use_background_image": true,
+  "url": "http://t.co/puX4lAK5i5",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/441354935452438528/U0f-n0Iv_normal.jpeg",
+  "created_at": "Fri Jan 04 13:43:55 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Georgia is home to many amazing musicians of many genres, especially country music. Over regulation of the music... http://t.co/NfFonKK2Oe",
+    "id_str": "629041727404408834",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "fb.me/7uiKlbKtw",
+          "url": "http://t.co/NfFonKK2Oe",
+          "indices": [
+            116,
+            138
+          ],
+          "expanded_url": "http://fb.me/7uiKlbKtw"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629041727404408834,
+    "truncated": false,
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 21:30:09 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 4124,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDougCollins",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099236607/4900f793dc011d388d3edef8c71d50f9.jpeg"
+}

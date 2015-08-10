@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "graham.house.gov",
+          "url": "http://t.co/NAK8aLw4hV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://graham.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "Facebook.com/RepGwenGraham",
+          "url": "http://t.co/gXnjCabyW5",
+          "indices": [
+            59,
+            81
+          ],
+          "expanded_url": "http://Facebook.com/RepGwenGraham"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 657,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 220,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962681881/1425319817",
+  "notifications": false,
+  "description": "Representing North Florida's Second Congressional District http://t.co/gXnjCabyW5",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 104,
+  "id_str": "2962681881",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/581195128909402112/YEo2UP7n_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 371,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570709182395867136/ZmN89HxD.jpeg",
+  "id": 2962681881,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Gwen Graham",
+  "profile_use_background_image": true,
+  "url": "http://t.co/NAK8aLw4hV",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/581195128909402112/YEo2UP7n_normal.jpg",
+  "created_at": "Mon Jan 05 20:56:23 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "In this week's North Florida Newsletter: an update from Israel. #sayfie https://t.co/EsattnWKMq http://t.co/M4PJ9nesKV",
+    "id_str": "630070606512259072",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "sayfie",
+          "indices": [
+            64,
+            71
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "iqconnect.lmhostediq.com/iqextranet/vie\u2026",
+          "url": "https://t.co/EsattnWKMq",
+          "indices": [
+            72,
+            95
+          ],
+          "expanded_url": "https://iqconnect.lmhostediq.com/iqextranet/view_newsletter.aspx?id=100484&c=FL02GG"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630070605430132736,
+          "indices": [
+            96,
+            118
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL514JwUEAAyz2s.jpg",
+          "expanded_url": "http://twitter.com/RepGwenGraham/status/630070606512259072/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 226,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 399,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 681,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/M4PJ9nesKV",
+          "url": "http://t.co/M4PJ9nesKV",
+          "id_str": "630070605430132736",
+          "media_url": "http://pbs.twimg.com/media/CL514JwUEAAyz2s.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630070606512259072,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 17:38:33 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1715,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGwenGraham",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570709182395867136/ZmN89HxD.jpeg"
+}

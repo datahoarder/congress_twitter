@@ -1,0 +1,188 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "latta.house.gov",
+          "url": "http://t.co/dSKBcpo6FL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://latta.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 5901,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 410,
+  "location": "\u00dcT: 41.052377,-82.130057",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15394954/1436980975",
+  "notifications": false,
+  "description": "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Vice Chairman of the Communications & Technology Subcommittee.",
+  "profile_sidebar_border_color": "550000",
+  "protected": false,
+  "listed_count": 1112,
+  "id_str": "15394954",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 5218,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/33494886/latta-twt.gif",
+  "id": 15394954,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "B2CEED",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "U.S. Rep. Bob Latta",
+  "profile_use_background_image": true,
+  "url": "http://t.co/dSKBcpo6FL",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/621369511636135937/Zk5PgsWw_normal.jpg",
+  "created_at": "Fri Jul 11 18:33:24 +0000 2008",
+  "profile_background_color": "4F4F4F",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @OhioEnviro: Please RT: Thanks @boblatta @senrobportman &amp; @SenSherrodBrown for taking steps to protect OH\u2019s drinking water from toxic al\u2026",
+    "id_str": "629494095031980032",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 21298932,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "OhioEnviro",
+          "id_str": "21298932",
+          "name": "Ohio Enviro Council"
+        },
+        {
+          "id": 15394954,
+          "indices": [
+            34,
+            43
+          ],
+          "screen_name": "boblatta",
+          "id_str": "15394954",
+          "name": "U.S. Rep. Bob Latta"
+        },
+        {
+          "id": 18915145,
+          "indices": [
+            44,
+            58
+          ],
+          "screen_name": "senrobportman",
+          "id_str": "18915145",
+          "name": "Rob Portman"
+        },
+        {
+          "id": 43910797,
+          "indices": [
+            65,
+            81
+          ],
+          "screen_name": "SenSherrodBrown",
+          "id_str": "43910797",
+          "name": "Sherrod Brown"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629494095031980032,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 03:27:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629395226369495040,
+      "truncated": false,
+      "source": "<a href=\"http://www.crowdbooster.com\" rel=\"nofollow\">Crowdbooster</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "Please RT: Thanks @boblatta @senrobportman &amp; @SenSherrodBrown for taking steps to protect OH\u2019s drinking water from toxic algae!",
+      "id_str": "629395226369495040",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 20:54:50 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 4,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 15394954,
+            "indices": [
+              18,
+              27
+            ],
+            "screen_name": "boblatta",
+            "id_str": "15394954",
+            "name": "U.S. Rep. Bob Latta"
+          },
+          {
+            "id": 18915145,
+            "indices": [
+              28,
+              42
+            ],
+            "screen_name": "senrobportman",
+            "id_str": "18915145",
+            "name": "Rob Portman"
+          },
+          {
+            "id": 43910797,
+            "indices": [
+              49,
+              65
+            ],
+            "screen_name": "SenSherrodBrown",
+            "id_str": "43910797",
+            "name": "Sherrod Brown"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 4,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 15528,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "boblatta",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/33494886/latta-twt.gif"
+}

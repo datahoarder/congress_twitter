@@ -1,0 +1,272 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lobiondo.house.gov",
+          "url": "http://t.co/eXru2mhvIf",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.lobiondo.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 211,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 9,
+  "location": "#SouthJersey",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/241207373/1414343407",
+  "notifications": false,
+  "description": "Congressman proudly representing New Jersey's 2nd District. Chairman of House Aviation Subcommittee & CIA Subcommittee",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 496,
+  "id_str": "241207373",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/423483413945778176/W_md9SFz_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2412,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639763527/rmww49dpyi64fexbqlyh.jpeg",
+  "id": 241207373,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Frank LoBiondo",
+  "profile_use_background_image": true,
+  "url": "http://t.co/eXru2mhvIf",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/423483413945778176/W_md9SFz_normal.jpeg",
+  "created_at": "Fri Jan 21 18:28:47 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @AmericanLegion: Today is set aside to honor those who have ever earned a #PurpleHeart. Thank you for your sacrifice. #PurpleHeartDay ht\u2026",
+    "id_str": "629631048771629056",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 27048645,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "AmericanLegion",
+          "id_str": "27048645",
+          "name": "The American Legion "
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            77,
+            89
+          ]
+        },
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            121,
+            136
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629628072120074240,
+          "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+          "url": "http://t.co/v0F7R7JA8G",
+          "display_url": "pic.twitter.com/v0F7R7JA8G",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 1180,
+              "resize": "fit",
+              "w": 578
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 333
+            },
+            "large": {
+              "h": 1180,
+              "resize": "fit",
+              "w": 578
+            }
+          },
+          "source_user_id": 27048645,
+          "source_user_id_str": "27048645",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629628072719839232,
+          "source_status_id_str": "629628072719839232",
+          "id_str": "629628072120074240"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629631048771629056,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 12:31:54 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 101,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 66,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Today is set aside to honor those who have ever earned a #PurpleHeart. Thank you for your sacrifice. #PurpleHeartDay http://t.co/v0F7R7JA8G",
+      "id_str": "629628072719839232",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "PurpleHeart",
+            "indices": [
+              57,
+              69
+            ]
+          },
+          {
+            "text": "PurpleHeartDay",
+            "indices": [
+              101,
+              116
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629628072120074240,
+            "indices": [
+              117,
+              139
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 1180,
+                "resize": "fit",
+                "w": 578
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 333
+              },
+              "large": {
+                "h": 1180,
+                "resize": "fit",
+                "w": 578
+              }
+            },
+            "display_url": "pic.twitter.com/v0F7R7JA8G",
+            "url": "http://t.co/v0F7R7JA8G",
+            "id_str": "629628072120074240",
+            "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629628072719839232,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": {
+        "id": "1010ecfa7d3a40f8",
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "name": "Indiana",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -88.097892,
+                37.771743
+              ],
+              [
+                -84.78458,
+                37.771743
+              ],
+              [
+                -84.78458,
+                41.761368
+              ],
+              [
+                -88.097892,
+                41.761368
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "country": "United States",
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+        "contained_within": [],
+        "place_type": "admin"
+      },
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 12:20:05 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 101,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 6552,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepLoBiondo",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639763527/rmww49dpyi64fexbqlyh.jpeg"
+}

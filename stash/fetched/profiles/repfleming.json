@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fleming.house.gov",
+          "url": "http://t.co/i7V6wOZnpr",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fleming.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 246,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "Washington and Northwest, LA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/84620376/1402516607",
+  "notifications": false,
+  "description": "The Official Twitter account for the office of Congressman John Fleming M.D. (R-LA). Retweets or Mentions do not equal endorsements.",
+  "profile_sidebar_border_color": "48699B",
+  "protected": false,
+  "listed_count": 683,
+  "id_str": "84620376",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352158126/lowres_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1405,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 84620376,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "CDD6E5",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "John Fleming",
+  "profile_use_background_image": false,
+  "url": "http://t.co/i7V6wOZnpr",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1352158126/lowres_normal.jpg",
+  "created_at": "Fri Oct 23 15:42:30 +0000 2009",
+  "profile_background_color": "D2D1BD",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Enjoyed meeting everyone at the town hall I held in Farmerville yesterday. Thanks for coming out! http://t.co/w9m5ahr38W",
+    "id_str": "629758224649048064",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629758224212824064,
+          "indices": [
+            98,
+            120
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1ZxLCWEAAkSg1.jpg",
+          "expanded_url": "http://twitter.com/RepFleming/status/629758224649048064/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/w9m5ahr38W",
+          "url": "http://t.co/w9m5ahr38W",
+          "id_str": "629758224212824064",
+          "media_url": "http://pbs.twimg.com/media/CL1ZxLCWEAAkSg1.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629758224649048064,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:57:15 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 10405,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "C10000",
+  "screen_name": "RepFleming",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

@@ -1,0 +1,225 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "forbes.house.gov",
+          "url": "http://t.co/Raylm95FGB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.forbes.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 4928,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 2,
+  "location": "Chesapeake, Virginia",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15160884/1431454612",
+  "notifications": false,
+  "description": "Representing Virginia's Fourth Congressional District. (Following a group or person does not indicate support or endorsement of their beliefs or opinions.)",
+  "profile_sidebar_border_color": "4CA1E6",
+  "protected": false,
+  "listed_count": 1064,
+  "id_str": "15160884",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/570972237369339904/Ec9e4bON_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3265,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/37928226/jrf9.jpg",
+  "id": 15160884,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "B6C6DE",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Randy Forbes",
+  "profile_use_background_image": false,
+  "url": "http://t.co/Raylm95FGB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/570972237369339904/Ec9e4bON_normal.jpeg",
+  "created_at": "Wed Jun 18 18:32:37 +0000 2008",
+  "profile_background_color": "D5D5D5",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @RepDougCollins: I'm proud to serve as a Chaplain in the Air Force Reserves! #faithitforward http://t.co/vUbSMshqwe",
+    "id_str": "626400681184886784",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1060487274,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "RepDougCollins",
+          "id_str": "1060487274",
+          "name": "Doug Collins"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "faithitforward",
+          "indices": [
+            80,
+            95
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 626390909391904768,
+          "media_url": "http://pbs.twimg.com/media/CLFjNpzWoAAq1X3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLFjNpzWoAAq1X3.jpg",
+          "expanded_url": "http://twitter.com/RepDougCollins/status/626391155895332864/photo/1",
+          "url": "http://t.co/vUbSMshqwe",
+          "display_url": "pic.twitter.com/vUbSMshqwe",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 327,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 185,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 558,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 1060487274,
+          "source_user_id_str": "1060487274",
+          "indices": [
+            96,
+            118
+          ],
+          "type": "photo",
+          "source_status_id": 626391155895332864,
+          "source_status_id_str": "626391155895332864",
+          "id_str": "626390909391904768"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 626400681184886784,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Jul 29 14:35:35 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 40,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 44,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "I'm proud to serve as a Chaplain in the Air Force Reserves! #faithitforward http://t.co/vUbSMshqwe",
+      "id_str": "626391155895332864",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "faithitforward",
+            "indices": [
+              60,
+              75
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 626390909391904768,
+            "indices": [
+              76,
+              98
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLFjNpzWoAAq1X3.jpg",
+            "expanded_url": "http://twitter.com/RepDougCollins/status/626391155895332864/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 327,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 185,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 558,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/vUbSMshqwe",
+            "url": "http://t.co/vUbSMshqwe",
+            "id_str": "626390909391904768",
+            "media_url": "http://pbs.twimg.com/media/CLFjNpzWoAAq1X3.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 626391155895332864,
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Wed Jul 29 13:57:44 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 40,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 14303,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "Randy_Forbes",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/37928226/jrf9.jpg"
+}

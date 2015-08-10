@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "candicemiller.house.gov",
+          "url": "http://t.co/esuuzCFSKM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://candicemiller.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 400,
+  "verified": true,
+  "profile_text_color": "C1B3B5",
+  "favourites_count": 2,
+  "location": "Shelby Township, Michigan",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15281676/1401313129",
+  "notifications": false,
+  "description": "Proudly serving Michigan's 10th Congressional District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 793,
+  "id_str": "15281676",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/555457855927500801/4B_45gkr_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 639,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2914039/cfiles5933.jpg",
+  "id": 15281676,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "211769",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Candice Miller",
+  "profile_use_background_image": false,
+  "url": "http://t.co/esuuzCFSKM",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/555457855927500801/4B_45gkr_normal.jpeg",
+  "created_at": "Mon Jun 30 19:41:17 +0000 2008",
+  "profile_background_color": "6890E3",
+  "status": {
+    "favorite_count": 6,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Humbled to be inducted into the Michigan Women\u2019s Hall of Fame. Read more: http://t.co/ebNDL4DLJq",
+    "id_str": "628985561253052416",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "goo.gl/1s3uTV",
+          "url": "http://t.co/ebNDL4DLJq",
+          "indices": [
+            74,
+            96
+          ],
+          "expanded_url": "http://goo.gl/1s3uTV"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628985561253052416,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 17:46:58 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 9454,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "E11414",
+  "screen_name": "CandiceMiller",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2914039/cfiles5933.jpg"
+}

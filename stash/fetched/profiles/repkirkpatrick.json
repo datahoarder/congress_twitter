@@ -1,0 +1,132 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "kirkpatrick.house.gov",
+          "url": "http://t.co/qKJPWvcPVM",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://kirkpatrick.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1098,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 26,
+  "location": "Flagstaff, AZ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090002997/1360958168",
+  "notifications": false,
+  "description": "Congresswoman Ann Kirkpatrick, Arizona's District One, is a member of the House Agriculture Committee and the Transportation & Infrastructure Committee.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 406,
+  "id_str": "1090002997",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3292420370/f5520be836be9083d0d91386cea0a2d1_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1350,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1090002997,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Ann Kirkpatrick",
+  "profile_use_background_image": true,
+  "url": "http://t.co/qKJPWvcPVM",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3292420370/f5520be836be9083d0d91386cea0a2d1_normal.jpeg",
+  "created_at": "Mon Jan 14 19:53:56 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Team Kirkpatrick joined @LocalFirstAZ in #Clarkdale to help rural #AZ build economic opportunities https://t.co/JhO4zqwsVf #AZ01",
+    "id_str": "629738928916967424",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 21130667,
+          "indices": [
+            24,
+            37
+          ],
+          "screen_name": "LocalFirstAZ",
+          "id_str": "21130667",
+          "name": "Local First Arizona"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Clarkdale",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "AZ",
+          "indices": [
+            66,
+            69
+          ]
+        },
+        {
+          "text": "AZ01",
+          "indices": [
+            123,
+            128
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "facebook.com/RepKirkpatrick\u2026",
+          "url": "https://t.co/JhO4zqwsVf",
+          "indices": [
+            99,
+            122
+          ],
+          "expanded_url": "https://www.facebook.com/RepKirkpatrick/photos/a.152785494873899.36189.152493768236405/544954388990339/?type=1&theater"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629738928916967424,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:40:35 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 5925,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepKirkpatrick",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

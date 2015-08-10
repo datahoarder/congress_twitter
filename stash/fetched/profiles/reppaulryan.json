@@ -1,0 +1,185 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "paulryan.house.gov",
+          "url": "http://t.co/P6vyvbMfDw",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.paulryan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 2,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "Janesville, WI",
+  "notifications": false,
+  "description": "Office of Representative Paul Ryan. Staff updates on Paul\u2019s work for Wisconsin and @WaysandMeansGOP.  Follow Paul himself @PRyan.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 7644,
+  "id_str": "18916432",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/575761613669593089/lGpMv3xP_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1474,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 18916432,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Paul Ryan",
+  "profile_use_background_image": true,
+  "url": "http://t.co/P6vyvbMfDw",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/575761613669593089/lGpMv3xP_normal.jpeg",
+  "created_at": "Mon Jan 12 21:31:25 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @GOPLeader: On the @HouseFloor: a bill that's a solid first step towards the goal of evidence-based policymaking #EBCommission\nhttp://t.\u2026",
+    "id_str": "625745278289752065",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 19739126,
+          "indices": [
+            3,
+            13
+          ],
+          "screen_name": "GOPLeader",
+          "id_str": "19739126",
+          "name": "Kevin McCarthy"
+        },
+        {
+          "id": 7402662,
+          "indices": [
+            22,
+            33
+          ],
+          "screen_name": "HouseFloor",
+          "id_str": "7402662",
+          "name": "U.S. House Floor"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EBCommission",
+          "indices": [
+            116,
+            129
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "majorityleader.gov/floor/#daily",
+          "url": "http://t.co/3WXdAEDW7F",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://www.majorityleader.gov/floor/#daily"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 625745278289752065,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Mon Jul 27 19:11:14 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "On the @HouseFloor: a bill that's a solid first step towards the goal of evidence-based policymaking #EBCommission\nhttp://t.co/3WXdAEDW7F",
+      "id_str": "625743494645186560",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 7402662,
+            "indices": [
+              7,
+              18
+            ],
+            "screen_name": "HouseFloor",
+            "id_str": "7402662",
+            "name": "U.S. House Floor"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "EBCommission",
+            "indices": [
+              101,
+              114
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "majorityleader.gov/floor/#daily",
+            "url": "http://t.co/3WXdAEDW7F",
+            "indices": [
+              115,
+              137
+            ],
+            "expanded_url": "http://www.majorityleader.gov/floor/#daily"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 625743494645186560,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Mon Jul 27 19:04:09 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 457696,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepPaulRyan",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

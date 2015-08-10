@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "delaney.house.gov",
+          "url": "http://t.co/ShbbNdzjMq",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://delaney.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 988,
+  "verified": false,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "Maryland's Sixth District",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/937723303/1433194415",
+  "notifications": false,
+  "description": "Official Twitter page for Congressman John K. Delaney, representing Maryland\u2019s Sixth Congressional District in the U.S. House of Representatives.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 314,
+  "id_str": "937723303",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3188311383/989b15643852e9cdda06038c62ec22cd_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2965,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 937723303,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. John Delaney",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ShbbNdzjMq",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3188311383/989b15643852e9cdda06038c62ec22cd_normal.jpeg",
+  "created_at": "Fri Nov 09 20:40:22 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "My office is holding a federal grants workshop in Hagerstown on 8/18. Information here:  http://t.co/pg4Q7tWn25",
+    "id_str": "630078487072616450",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "delaney.house.gov/news/blogs/gra\u2026",
+          "url": "http://t.co/pg4Q7tWn25",
+          "indices": [
+            89,
+            111
+          ],
+          "expanded_url": "http://delaney.house.gov/news/blogs/grants-workshop-august-18th-in-hagerstown"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630078487072616450,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 18:09:52 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 4584,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJohnDelaney",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

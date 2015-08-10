@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "whitehouse.senate.gov",
+          "url": "http://t.co/z6NYBzbPgY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://whitehouse.senate.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1393,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 18,
+  "location": "Rhode Island",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242555999/1401396404",
+  "notifications": false,
+  "description": "U.S. Senator from #RhodeIsland, the Ocean State. Follows, RTs \u2260 endorsement, but I look forward to listening to you.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1197,
+  "id_str": "242555999",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000051321410/55ff7ed4f6264c8eec19a81a66be6bb0_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2582,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/224586505/twitter_bckrd3.jpg",
+  "id": 242555999,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Sheldon Whitehouse",
+  "profile_use_background_image": true,
+  "url": "http://t.co/z6NYBzbPgY",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000051321410/55ff7ed4f6264c8eec19a81a66be6bb0_normal.png",
+  "created_at": "Tue Jan 25 01:52:03 +0000 2011",
+  "profile_background_color": "7B91AA",
+  "status": {
+    "id": 630143526093893632,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Fair &amp; Balanced?! FOX dodged the tough questions during the #GOPdebate. Not a single one to #climatechange deniers or about #campaignfinance",
+    "id_str": "630143526093893632",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:28:18 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 18,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "GOPdebate",
+          "indices": [
+            64,
+            74
+          ]
+        },
+        {
+          "text": "climatechange",
+          "indices": [
+            96,
+            110
+          ]
+        },
+        {
+          "text": "campaignfinance",
+          "indices": [
+            128,
+            144
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 20,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 23215,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenWhitehouse",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/224586505/twitter_bckrd3.jpg"
+}

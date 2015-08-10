@@ -1,0 +1,290 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "crawford.house.gov",
+          "url": "http://t.co/8JmttzqjRR",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://crawford.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1268,
+  "verified": true,
+  "profile_text_color": "2424C7",
+  "favourites_count": 131,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1398711862",
+  "notifications": false,
+  "description": "Representing Arkansas's First District in the United States Congress",
+  "profile_sidebar_border_color": "2E517B",
+  "protected": false,
+  "listed_count": 571,
+  "id_str": "233693291",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553316637839867904/LCvmf7iq_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2362,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267022676/crawfordtwitter.jpg",
+  "id": 233693291,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C1CCDE",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep Rick Crawford",
+  "profile_use_background_image": true,
+  "url": "http://t.co/8JmttzqjRR",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553316637839867904/LCvmf7iq_normal.jpeg",
+  "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+  "profile_background_color": "DBE9ED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @AginArk: Honored to have @AsaHutchinson, @RepRickCrawford, and @RicelandFoods CEO Danny Kennedy at our @ARiceExpo! http://t.co/71AxOt93\u2026",
+    "id_str": "629689954109628416",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2695623734,
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "AginArk",
+          "id_str": "2695623734",
+          "name": "UA Division of Ag"
+        },
+        {
+          "id": 269992801,
+          "indices": [
+            29,
+            43
+          ],
+          "screen_name": "AsaHutchinson",
+          "id_str": "269992801",
+          "name": "Gov. Asa Hutchinson"
+        },
+        {
+          "id": 233693291,
+          "indices": [
+            45,
+            61
+          ],
+          "screen_name": "RepRickCrawford",
+          "id_str": "233693291",
+          "name": "Rep Rick Crawford"
+        },
+        {
+          "id": 1380259352,
+          "indices": [
+            67,
+            81
+          ],
+          "screen_name": "RicelandFoods",
+          "id_str": "1380259352",
+          "name": "Riceland Foods"
+        },
+        {
+          "id": 1425299748,
+          "indices": [
+            107,
+            117
+          ],
+          "screen_name": "ARiceExpo",
+          "id_str": "1425299748",
+          "name": "ARice Expo"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629676833366118401,
+          "media_url": "http://pbs.twimg.com/media/CL0PvmgUkAEr4St.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL0PvmgUkAEr4St.jpg",
+          "expanded_url": "http://twitter.com/AginArk/status/629676846989185024/photo/1",
+          "url": "http://t.co/71AxOt93ZX",
+          "display_url": "pic.twitter.com/71AxOt93ZX",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 2695623734,
+          "source_user_id_str": "2695623734",
+          "indices": [
+            119,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629676846989185024,
+          "source_status_id_str": "629676846989185024",
+          "id_str": "629676833366118401"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629689954109628416,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 16:25:58 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 7,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Honored to have @AsaHutchinson, @RepRickCrawford, and @RicelandFoods CEO Danny Kennedy at our @ARiceExpo! http://t.co/71AxOt93ZX",
+      "id_str": "629676846989185024",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 269992801,
+            "indices": [
+              16,
+              30
+            ],
+            "screen_name": "AsaHutchinson",
+            "id_str": "269992801",
+            "name": "Gov. Asa Hutchinson"
+          },
+          {
+            "id": 233693291,
+            "indices": [
+              32,
+              48
+            ],
+            "screen_name": "RepRickCrawford",
+            "id_str": "233693291",
+            "name": "Rep Rick Crawford"
+          },
+          {
+            "id": 1380259352,
+            "indices": [
+              54,
+              68
+            ],
+            "screen_name": "RicelandFoods",
+            "id_str": "1380259352",
+            "name": "Riceland Foods"
+          },
+          {
+            "id": 1425299748,
+            "indices": [
+              94,
+              104
+            ],
+            "screen_name": "ARiceExpo",
+            "id_str": "1425299748",
+            "name": "ARice Expo"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629676833366118401,
+            "indices": [
+              106,
+              128
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL0PvmgUkAEr4St.jpg",
+            "expanded_url": "http://twitter.com/AginArk/status/629676846989185024/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 255,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 768,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/71AxOt93ZX",
+            "url": "http://t.co/71AxOt93ZX",
+            "id_str": "629676833366118401",
+            "media_url": "http://pbs.twimg.com/media/CL0PvmgUkAEr4St.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629676846989185024,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 15:33:53 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 8826,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "048C09",
+  "screen_name": "RepRickCrawford",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/267022676/crawfordtwitter.jpg"
+}

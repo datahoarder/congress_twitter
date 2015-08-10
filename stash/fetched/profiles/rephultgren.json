@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "hultgren.house.gov",
+          "url": "http://t.co/RxXWsFX5aP",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hultgren.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/rephultgren",
+          "url": "http://t.co/cAzY81jGee",
+          "indices": [
+            134,
+            156
+          ],
+          "expanded_url": "http://www.facebook.com/rephultgren"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1781,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 97,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237814920/1398278273",
+  "notifications": false,
+  "description": "Member of Congress proudly representing Illinois' 14th District. Serving on @HouseScience @FinancialCmte Committees. Find me on FB at http://t.co/cAzY81jGee.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 598,
+  "id_str": "237814920",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3003,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536643877/Metra.jpg",
+  "id": 237814920,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Randy Hultgren",
+  "profile_use_background_image": true,
+  "url": "http://t.co/RxXWsFX5aP",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "created_at": "Thu Jan 13 18:03:42 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Thx @RepCurtClawson for supporting my Sunset Act to get outdated &amp; duplicative regulations off the backs of Americans http://t.co/L7fS5OCCRc",
+    "id_str": "629741423152242689",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2730150631,
+          "indices": [
+            4,
+            19
+          ],
+          "screen_name": "RepCurtClawson",
+          "id_str": "2730150631",
+          "name": "Rep. Curt Clawson"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1K8Srye",
+          "url": "http://t.co/L7fS5OCCRc",
+          "indices": [
+            122,
+            144
+          ],
+          "expanded_url": "http://1.usa.gov/1K8Srye"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629741423152242689,
+    "truncated": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:50:29 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 8056,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "3F515C",
+  "screen_name": "RepHultgren",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536643877/Metra.jpg"
+}

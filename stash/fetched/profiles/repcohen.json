@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cohen.house.gov",
+          "url": "http://t.co/uhNtROa3Ll",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cohen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 431,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1133,
+  "location": "Memphis, TN and Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1398283798",
+  "notifications": false,
+  "description": "Congress TN-9 Memphis. Committees: Judiciary&Transport; Supporter of civil rights/liberties/women&minority issues/animal welfare. Father of TN Educ Lottery: Dem",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 762,
+  "id_str": "162069635",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3765,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg",
+  "id": 162069635,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Steve Cohen",
+  "profile_use_background_image": true,
+  "url": "http://t.co/uhNtROa3Ll",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+  "profile_background_color": "002436",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "More #commutations by Potus like hundreds to thousands and criminal sentencing reform ! https://t.co/iRwe9SygmQ",
+    "id_str": "630324485196005376",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "commutations",
+          "indices": [
+            5,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/time/status/63\u2026",
+          "url": "https://t.co/iRwe9SygmQ",
+          "indices": [
+            88,
+            111
+          ],
+          "expanded_url": "https://twitter.com/time/status/630317627643138048"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630324485196005376,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 10:27:22 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 13028,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepCohen",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg"
+}

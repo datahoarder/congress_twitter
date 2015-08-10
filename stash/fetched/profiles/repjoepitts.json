@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "house.gov/pitts/",
+          "url": "http://t.co/FjblFT9ApQ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.house.gov/pitts/"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "house.gov/pitts/shortbio\u2026",
+          "url": "http://t.co/NpQGE161wQ",
+          "indices": [
+            70,
+            92
+          ],
+          "expanded_url": "http://www.house.gov/pitts/shortbio.shtml"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 89,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "Pennsylvania",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/198526130/1401307204",
+  "notifications": false,
+  "description": "Joe Pitts represents the 16th Congressional District of Pennsylvania: http://t.co/NpQGE161wQ",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 492,
+  "id_str": "198526130",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137285495/Twitter_Headshot_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1332,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/157616575/salisburytwpfarms.JPG",
+  "id": 198526130,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "CongressmanJoePitts",
+  "profile_use_background_image": true,
+  "url": "http://t.co/FjblFT9ApQ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1137285495/Twitter_Headshot_normal.jpg",
+  "created_at": "Mon Oct 04 15:09:48 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @SpeakerBoehner: \u201cKayla is like any other child.\u201d \n\nRead more about how the #ABLEAct is making a difference: http://t.co/7NppzjuA77",
+    "id_str": "629316663738007552",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 7713202,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "SpeakerBoehner",
+          "id_str": "7713202",
+          "name": "Speaker John Boehner"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ABLEAct",
+          "indices": [
+            79,
+            87
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "j.mp/1W3KD6L",
+          "url": "http://t.co/7NppzjuA77",
+          "indices": [
+            112,
+            134
+          ],
+          "expanded_url": "http://j.mp/1W3KD6L"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629316663738007552,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 15:42:39 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 4,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "\u201cKayla is like any other child.\u201d \n\nRead more about how the #ABLEAct is making a difference: http://t.co/7NppzjuA77",
+      "id_str": "629310578968948736",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "ABLEAct",
+            "indices": [
+              59,
+              67
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "j.mp/1W3KD6L",
+            "url": "http://t.co/7NppzjuA77",
+            "indices": [
+              92,
+              114
+            ],
+            "expanded_url": "http://j.mp/1W3KD6L"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629310578968948736,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 15:18:28 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 7125,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJoePitts",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/157616575/salisburytwpfarms.JPG"
+}

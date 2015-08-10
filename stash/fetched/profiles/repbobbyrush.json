@@ -1,0 +1,144 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "rush.house.gov",
+          "url": "http://t.co/fZruAAdEJY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://rush.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "on.fb.me/iosyMF",
+          "url": "http://t.co/biKpeeMhCz",
+          "indices": [
+            84,
+            106
+          ],
+          "expanded_url": "http://on.fb.me/iosyMF"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 163,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "D.C./Chicago & SW Suburbs",
+  "notifications": false,
+  "description": "The official twitter account of Rep. Bobby L. Rush.  For official policy please see http://t.co/biKpeeMhCz.  RT does NOT constitute an endorsement.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 450,
+  "id_str": "305216911",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 646,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 305216911,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Bobby L. Rush",
+  "profile_use_background_image": true,
+  "url": "http://t.co/fZruAAdEJY",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "created_at": "Wed May 25 20:59:25 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "This week, President Obama made a dramatic call for action to help our planet. #energyjobs http://t.co/YEgfwVwEht",
+    "id_str": "629032596383629312",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "energyjobs",
+          "indices": [
+            79,
+            90
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629032594659758080,
+          "indices": [
+            91,
+            113
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLrFz-TWUAAPTTS.jpg",
+          "expanded_url": "http://twitter.com/RepBobbyRush/status/629032596383629312/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/YEgfwVwEht",
+          "url": "http://t.co/YEgfwVwEht",
+          "id_str": "629032594659758080",
+          "media_url": "http://pbs.twimg.com/media/CLrFz-TWUAAPTTS.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629032596383629312,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 20:53:52 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 5503,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBobbyRush",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

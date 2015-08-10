@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "loudermilk.house.gov",
+          "url": "https://t.co/FWd4vPQ7Po",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://loudermilk.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 256,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 130,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914163523/1426885150",
+  "notifications": false,
+  "description": "Rep. Barry Loudermilk represents Georgia's 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 88,
+  "id_str": "2914163523",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/578949791146725376/LSA2VpBg_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 332,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2914163523,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Barry Loudermilk",
+  "profile_use_background_image": false,
+  "url": "https://t.co/FWd4vPQ7Po",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/578949791146725376/LSA2VpBg_normal.jpeg",
+  "created_at": "Wed Dec 10 18:53:17 +0000 2014",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @jamiedupree: During the GOP debate, Sen Charles Schumer D-NY announces he will oppose Iran deal: \"I will vote to disapprove\"",
+    "id_str": "629481409833529344",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 27882000,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "jamiedupree",
+          "id_str": "27882000",
+          "name": "Jamie Dupree"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629481409833529344,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 02:37:17 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 71,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629480735414583297,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "During the GOP debate, Sen Charles Schumer D-NY announces he will oppose Iran deal: \"I will vote to disapprove\"",
+      "id_str": "629480735414583297",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 02:34:37 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 94,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 71,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1469,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepLoudermilk",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

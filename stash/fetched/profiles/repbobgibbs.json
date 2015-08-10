@@ -1,0 +1,200 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "gibbs.house.gov",
+          "url": "http://t.co/VzILXQbxjn",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://gibbs.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/RepBobGibbs",
+          "url": "http://t.co/sXrcqLkW2r",
+          "indices": [
+            87,
+            109
+          ],
+          "expanded_url": "http://www.facebook.com/RepBobGibbs"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2791,
+  "verified": true,
+  "profile_text_color": "080808",
+  "favourites_count": 25,
+  "location": "US Congress",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/234822928/1400698768",
+  "notifications": false,
+  "description": "R-OH; Chairman, T&I Subcommittee on Water Resources and Environment; Agriculture Comm; http://t.co/sXrcqLkW2r",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 604,
+  "id_str": "234822928",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212121201/Gibbs_Official_Portrait_flag_twitter_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2020,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/855695774/6a1ec4beae93c4289f67ce4fa6a0a964.jpeg",
+  "id": 234822928,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "1D472F",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Bob Gibbs",
+  "profile_use_background_image": true,
+  "url": "http://t.co/VzILXQbxjn",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1212121201/Gibbs_Official_Portrait_flag_twitter_normal.jpg",
+  "created_at": "Thu Jan 06 17:17:21 +0000 2011",
+  "profile_background_color": "470C0F",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @nfib_oh: Congressman @RepBobGibbs a fellow @NFIB member wants investigation into EPA's WOTUS: http://t.co/aLxKWYZFuR",
+    "id_str": "629287385990348801",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 65703588,
+          "indices": [
+            3,
+            11
+          ],
+          "screen_name": "nfib_oh",
+          "id_str": "65703588",
+          "name": "NFIB Ohio"
+        },
+        {
+          "id": 234822928,
+          "indices": [
+            25,
+            37
+          ],
+          "screen_name": "RepBobGibbs",
+          "id_str": "234822928",
+          "name": "Rep. Bob Gibbs"
+        },
+        {
+          "id": 14587949,
+          "indices": [
+            47,
+            52
+          ],
+          "screen_name": "NFIB",
+          "id_str": "14587949",
+          "name": "NFIB"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/Qz0Rp",
+          "url": "http://t.co/aLxKWYZFuR",
+          "indices": [
+            98,
+            120
+          ],
+          "expanded_url": "http://ow.ly/Qz0Rp"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629287385990348801,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:46:19 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Congressman @RepBobGibbs a fellow @NFIB member wants investigation into EPA's WOTUS: http://t.co/aLxKWYZFuR",
+      "id_str": "629287281061445632",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 234822928,
+            "indices": [
+              12,
+              24
+            ],
+            "screen_name": "RepBobGibbs",
+            "id_str": "234822928",
+            "name": "Rep. Bob Gibbs"
+          },
+          {
+            "id": 14587949,
+            "indices": [
+              34,
+              39
+            ],
+            "screen_name": "NFIB",
+            "id_str": "14587949",
+            "name": "NFIB"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/Qz0Rp",
+            "url": "http://t.co/aLxKWYZFuR",
+            "indices": [
+              85,
+              107
+            ],
+            "expanded_url": "http://ow.ly/Qz0Rp"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629287281061445632,
+      "truncated": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 13:45:54 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 8842,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0B14BD",
+  "screen_name": "RepBobGibbs",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/855695774/6a1ec4beae93c4289f67ce4fa6a0a964.jpeg"
+}

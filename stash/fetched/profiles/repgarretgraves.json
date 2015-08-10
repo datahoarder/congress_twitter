@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "garretgraves.house.gov",
+          "url": "http://t.co/Xl9zvwQcFh",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://garretgraves.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 230,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 11,
+  "location": "Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951574214/1421440830",
+  "notifications": false,
+  "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 49,
+  "id_str": "2951574214",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 281,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2951574214,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Garret Graves",
+  "profile_use_background_image": true,
+  "url": "http://t.co/Xl9zvwQcFh",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553292029963145216/lzwyCMoA_normal.png",
+  "created_at": "Tue Dec 30 17:51:24 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Gator makes surprise visit in LaPlace http://t.co/nFNMTV9pXu",
+    "id_str": "629751484754882560",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "on.wwltv.com/1T0gtSS",
+          "url": "http://t.co/nFNMTV9pXu",
+          "indices": [
+            38,
+            60
+          ],
+          "expanded_url": "http://on.wwltv.com/1T0gtSS"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629751484754882560,
+    "truncated": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:30:28 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 995,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepGarretGraves",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

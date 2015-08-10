@@ -1,0 +1,134 @@
+{
+  "entities": {
+    "description": {
+      "urls": [
+        {
+          "display_url": "rubio.senate.gov",
+          "url": "http://t.co/9eM6UaRgYS",
+          "indices": [
+            89,
+            111
+          ],
+          "expanded_url": "http://rubio.senate.gov"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 116,
+  "verified": true,
+  "profile_text_color": "777777",
+  "favourites_count": 3,
+  "location": "Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1349278973",
+  "notifications": false,
+  "description": "The press office for Senator @MarcoRubio. For more information please visit his website: http://t.co/9eM6UaRgYS",
+  "profile_sidebar_border_color": "DBDBDB",
+  "protected": false,
+  "listed_count": 876,
+  "id_str": "229966028",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3245136864/211e1bac5f76a72e354770c9f6ca4c03_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2196,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/228996661/rubio_twitter.jpg",
+  "id": 229966028,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "F5F5F5",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Senator Rubio Press",
+  "profile_use_background_image": true,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3245136864/211e1bac5f76a72e354770c9f6ca4c03_normal.jpeg",
+  "created_at": "Thu Dec 23 21:22:47 +0000 2010",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Florida students interested in a service academy nomination should apply by Sep. 9. Learn more:http://t.co/IvaY8Wt0eD http://t.co/n4SbKqukvN",
+    "id_str": "630347873910132736",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1ILf0F0",
+          "url": "http://t.co/IvaY8Wt0eD",
+          "indices": [
+            95,
+            117
+          ],
+          "expanded_url": "http://1.usa.gov/1ILf0F0"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630347851848110080,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL9yCBJWUAAauyS.jpg",
+          "expanded_url": "http://twitter.com/SenRubioPress/status/630347873910132736/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 170,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/n4SbKqukvN",
+          "url": "http://t.co/n4SbKqukvN",
+          "id_str": "630347851848110080",
+          "media_url": "http://pbs.twimg.com/media/CL9yCBJWUAAauyS.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630347873910132736,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 12:00:19 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 18705,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "962121",
+  "screen_name": "SenRubioPress",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/228996661/rubio_twitter.jpg"
+}

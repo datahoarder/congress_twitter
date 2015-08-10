@@ -1,0 +1,230 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "boyle.house.gov",
+          "url": "http://t.co/m0D89LTeDt",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.boyle.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 452,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 275,
+  "location": "Montco & Philadelphia",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/231108733/1436905947",
+  "notifications": false,
+  "description": "U.S. Congressman (D-PA-13)",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 150,
+  "id_str": "231108733",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593395216679178241/XYOETgPu_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1917,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 231108733,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "US Rep Brendan Boyle",
+  "profile_use_background_image": true,
+  "url": "http://t.co/m0D89LTeDt",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593395216679178241/XYOETgPu_normal.jpg",
+  "created_at": "Mon Dec 27 16:31:09 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @cspanradio: Approx. 5:20pmET: Interviews w/.@RepBrendanBoyle .@RepAbraham .@RepLawrence &amp; .@RepTomMacArthur \nListen on our app http://t\u2026",
+    "id_str": "629766995282644993",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 32007346,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "cspanradio",
+          "id_str": "32007346",
+          "name": "C-SPAN Radio"
+        },
+        {
+          "id": 231108733,
+          "indices": [
+            48,
+            64
+          ],
+          "screen_name": "RepBrendanBoyle",
+          "id_str": "231108733",
+          "name": "US Rep Brendan Boyle"
+        },
+        {
+          "id": 2962891515,
+          "indices": [
+            66,
+            77
+          ],
+          "screen_name": "RepAbraham",
+          "id_str": "2962891515",
+          "name": "Rep. Ralph Abraham "
+        },
+        {
+          "id": 2863006655,
+          "indices": [
+            79,
+            91
+          ],
+          "screen_name": "RepLawrence",
+          "id_str": "2863006655",
+          "name": "Brenda Lawrence"
+        },
+        {
+          "id": 2962994194,
+          "indices": [
+            99,
+            115
+          ],
+          "screen_name": "RepTomMacArthur",
+          "id_str": "2962994194",
+          "name": "Tom MacArthur"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "goo.gl/A9kCZn",
+          "url": "http://t.co/siQq9n0EIw",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://goo.gl/A9kCZn"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629766995282644993,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:32:06 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Approx. 5:20pmET: Interviews w/.@RepBrendanBoyle .@RepAbraham .@RepLawrence &amp; .@RepTomMacArthur \nListen on our app http://t.co/siQq9n0EIw",
+      "id_str": "629763985684996096",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 231108733,
+            "indices": [
+              32,
+              48
+            ],
+            "screen_name": "RepBrendanBoyle",
+            "id_str": "231108733",
+            "name": "US Rep Brendan Boyle"
+          },
+          {
+            "id": 2962891515,
+            "indices": [
+              50,
+              61
+            ],
+            "screen_name": "RepAbraham",
+            "id_str": "2962891515",
+            "name": "Rep. Ralph Abraham "
+          },
+          {
+            "id": 2863006655,
+            "indices": [
+              63,
+              75
+            ],
+            "screen_name": "RepLawrence",
+            "id_str": "2863006655",
+            "name": "Brenda Lawrence"
+          },
+          {
+            "id": 2962994194,
+            "indices": [
+              83,
+              99
+            ],
+            "screen_name": "RepTomMacArthur",
+            "id_str": "2962994194",
+            "name": "Tom MacArthur"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "goo.gl/A9kCZn",
+            "url": "http://t.co/siQq9n0EIw",
+            "indices": [
+              119,
+              141
+            ],
+            "expanded_url": "http://goo.gl/A9kCZn"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629763985684996096,
+      "truncated": false,
+      "source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 21:20:09 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 2332,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBrendanBoyle",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

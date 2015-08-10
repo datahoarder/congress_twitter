@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "ellmers.house.gov",
+          "url": "http://t.co/R42q8KIZHZ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://ellmers.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 6513,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 66,
+  "location": "NC's Second District",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/213634439/1402172883",
+  "notifications": false,
+  "description": "I am honored to serve the Second District of North Carolina in the United States Congress. Follow my work in Washington and #NC02.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1024,
+  "id_str": "213634439",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/578220929127301121/82gIpuYP_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 5897,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 213634439,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Renee Ellmers",
+  "profile_use_background_image": false,
+  "url": "http://t.co/R42q8KIZHZ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/578220929127301121/82gIpuYP_normal.jpeg",
+  "created_at": "Tue Nov 09 12:15:55 +0000 2010",
+  "profile_background_color": "3A93B3",
+  "status": {
+    "favorite_count": 8,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Today is #PurpleHeartDay when we thank and honor all those wounded in combat in service to our\u2026 https://t.co/z3fealL6rq",
+    "id_str": "629774019533930496",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            9,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/6GR7c3lBGY/",
+          "url": "https://t.co/z3fealL6rq",
+          "indices": [
+            96,
+            119
+          ],
+          "expanded_url": "https://instagram.com/p/6GR7c3lBGY/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629774019533930496,
+    "truncated": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 22:00:01 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 15324,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepReneeEllmers",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png"
+}

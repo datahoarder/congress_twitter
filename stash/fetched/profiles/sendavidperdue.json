@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "perdue.senate.gov",
+          "url": "http://t.co/I3Xla94WAO",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://perdue.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 617,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "Georgia",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1423252710",
+  "notifications": false,
+  "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 175,
+  "id_str": "2863210809",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563788627864322048/HsMgIiPY_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 563,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2863210809,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "David Perdue",
+  "profile_use_background_image": true,
+  "url": "http://t.co/I3Xla94WAO",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563788627864322048/HsMgIiPY_normal.jpeg",
+  "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 6,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Congrats on your expansion @Kodak. Thank you for investing in #Georgia and creating more jobs in Columbus! http://t.co/j0XETAAceX",
+    "id_str": "630010074119811072",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 132588642,
+          "indices": [
+            27,
+            33
+          ],
+          "screen_name": "Kodak",
+          "id_str": "132588642",
+          "name": "Kodak"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Georgia",
+          "indices": [
+            62,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bit.ly/1KVaOX9",
+          "url": "http://t.co/j0XETAAceX",
+          "indices": [
+            107,
+            129
+          ],
+          "expanded_url": "http://bit.ly/1KVaOX9"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630010074119811072,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 13:38:01 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 3854,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "sendavidperdue",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

@@ -1,0 +1,83 @@
+{
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 0,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1420498723",
+  "notifications": false,
+  "description": "The press office account of U.S. Sen. Sasse. \n\nHis (less political/hopefully more interesting) personal account is at @BenSasse.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 153,
+  "id_str": "2962923040",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552233907337179138/D7idMyaS_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 326,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2962923040,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Ben Sasse",
+  "profile_use_background_image": true,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552233907337179138/D7idMyaS_normal.jpeg",
+  "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 628359068499976192,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "A bipartisan majority of the Senate agrees: we can protect mothers AND babies. Looking forward to continuing this conversation. #DefundPP",
+    "id_str": "628359068499976192",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Aug 04 00:17:30 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 15,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "DefundPP",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 9,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 3442,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenSasse",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

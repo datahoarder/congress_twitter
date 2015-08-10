@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "newhouse.house.gov",
+          "url": "https://t.co/qIftHgI639",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://newhouse.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 727,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 33,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2930635215/1427149803",
+  "notifications": false,
+  "description": "Proud to represent Washington's 4th District in the U.S. Congress",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 79,
+  "id_str": "2930635215",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 286,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2930635215,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep Dan Newhouse",
+  "profile_use_background_image": true,
+  "url": "https://t.co/qIftHgI639",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553653397505576960/4z-oC8rN_normal.jpeg",
+  "created_at": "Thu Dec 18 20:19:23 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": ".@KNDUTV's @KNDUMorganAsh covered my visit to @claarcellars to discuss export opportunities for WA wines #WA04 http://t.co/vV7ewOGMx2",
+    "id_str": "629290102167076864",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 26276131,
+          "indices": [
+            1,
+            8
+          ],
+          "screen_name": "KNDUTV",
+          "id_str": "26276131",
+          "name": "NBC Right Now"
+        },
+        {
+          "id": 1466404598,
+          "indices": [
+            11,
+            25
+          ],
+          "screen_name": "KNDUMorganAsh",
+          "id_str": "1466404598",
+          "name": "Morgan Ashley"
+        },
+        {
+          "id": 36279564,
+          "indices": [
+            46,
+            59
+          ],
+          "screen_name": "claarcellars",
+          "id_str": "36279564",
+          "name": "Claar Cellars"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WA04",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "nbcrightnow.com/story/29721064\u2026",
+          "url": "http://t.co/vV7ewOGMx2",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://www.nbcrightnow.com/story/29721064/washington-wines-could-be-making-the-journey-to-grocery-store-shelves-in-australia"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629290102167076864,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:57:06 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1197,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepNewhouse",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

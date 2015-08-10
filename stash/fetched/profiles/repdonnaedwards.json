@@ -1,0 +1,94 @@
+{
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1295,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 318,
+  "location": "Washington, D.C. ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/82649553/1436402456",
+  "notifications": false,
+  "description": "Congresswoman representing Maryland's 4th Congressional District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 989,
+  "id_str": "82649553",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/481867378717122562/s8FlVFBV_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3333,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 82649553,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep Donna F Edwards",
+  "profile_use_background_image": true,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/481867378717122562/s8FlVFBV_normal.jpeg",
+  "created_at": "Thu Oct 15 16:04:37 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 630386915930415104,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "#OTD in \u201978, @NASA launched Pioneer-Venus 2 to probe Venus' atmosphere &amp; in \u201989, Columbia began its 8th flight &amp; 30th shuttle mission.",
+    "id_str": "630386915930415104",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 14:35:27 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 0,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 11348282,
+          "indices": [
+            13,
+            18
+          ],
+          "screen_name": "NASA",
+          "id_str": "11348282",
+          "name": "NASA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OTD",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 3,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 18133,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "repdonnaedwards",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

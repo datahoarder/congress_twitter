@@ -1,0 +1,148 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Emmer.house.gov",
+          "url": "http://t.co/jU8TYBqqHL",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Emmer.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 127,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 54,
+  "location": "Otsego, MN | Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914515430/1418404116",
+  "notifications": false,
+  "description": "Husband, father, hockey fan, and Congressman for Minnesota's 6th District.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 97,
+  "id_str": "2914515430",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618170231144476672/LEyqyYfr_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 501,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2914515430,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Tom Emmer",
+  "profile_use_background_image": true,
+  "url": "http://t.co/jU8TYBqqHL",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618170231144476672/LEyqyYfr_normal.png",
+  "created_at": "Wed Dec 10 21:44:52 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 7,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Thanks to @StCldAreaChamb\u2019s President @Teresa_Bohnen for meeting with my staff this week. http://t.co/HVhAulHH30",
+    "id_str": "629703702392238080",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 85586243,
+          "indices": [
+            10,
+            25
+          ],
+          "screen_name": "StCldAreaChamb",
+          "id_str": "85586243",
+          "name": "St.CloudAreaChamber"
+        },
+        {
+          "id": 20294024,
+          "indices": [
+            38,
+            52
+          ],
+          "screen_name": "Teresa_Bohnen",
+          "id_str": "20294024",
+          "name": "Teresa Bohnen"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629703701410615296,
+          "indices": [
+            90,
+            112
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL0oLhxUEAAfVm3.jpg",
+          "expanded_url": "http://twitter.com/RepTomEmmer/status/629703702392238080/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/HVhAulHH30",
+          "url": "http://t.co/HVhAulHH30",
+          "id_str": "629703701410615296",
+          "media_url": "http://pbs.twimg.com/media/CL0oLhxUEAAfVm3.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629703702392238080,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:20:36 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 1539,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepTomEmmer",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

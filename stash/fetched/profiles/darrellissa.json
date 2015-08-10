@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "issa.house.gov",
+          "url": "http://t.co/L3qF1BVDjB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://issa.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 35457,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 896,
+  "location": "Vista, CA & Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22509548/1397664686",
+  "notifications": false,
+  "description": "I work for CA-49 and I Chair the Subcommittee on Courts, Intellectual Property, and the Internet.  I greatly enjoy an #OPEN, accessible, & uncensored internet.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 4856,
+  "id_str": "22509548",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 19561,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "id": 22509548,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDFFCC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Darrell Issa",
+  "profile_use_background_image": false,
+  "url": "http://t.co/L3qF1BVDjB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "created_at": "Mon Mar 02 17:39:00 +0000 2009",
+  "profile_background_color": "EBEBEB",
+  "status": {
+    "favorite_count": 94,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "The DOJ and FBI should seize Hillary Clinton\u2019s private e-mail server for a thorough forensic investigation. http://t.co/rHQpHM8C6M #tcot",
+    "id_str": "629329198797209600",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "tcot",
+          "indices": [
+            131,
+            136
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "nationalreview.com/hillary-clinto\u2026",
+          "url": "http://t.co/rHQpHM8C6M",
+          "indices": [
+            108,
+            130
+          ],
+          "expanded_url": "http://www.nationalreview.com/hillary-clintons-private-server-justice-department-should-seize-it"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629329198797209600,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 16:32:28 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 155,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 194217,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "5A656B",
+  "screen_name": "DarrellIssa",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png"
+}

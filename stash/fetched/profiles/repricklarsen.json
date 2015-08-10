@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "larsen.house.gov",
+          "url": "http://t.co/2eHh43tMLB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://larsen.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1333,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 29,
+  "location": "Washington's 2nd District",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/404132211/1365625831",
+  "notifications": false,
+  "description": "Born and raised in Arlington, Wash.\r\nRanking Member, Aviation Subcommittee",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 384,
+  "id_str": "404132211",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000053920474/f062c789d4bb0d812a48107cce97c6d5_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3358,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 404132211,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Rick Larsen",
+  "profile_use_background_image": true,
+  "url": "http://t.co/2eHh43tMLB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000053920474/f062c789d4bb0d812a48107cce97c6d5_normal.jpeg",
+  "created_at": "Thu Nov 03 13:59:42 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Check out my website for more about how state laws are disenfranchising voters &amp; what I am doing about it. http://t.co/LKSRX4k3U6",
+    "id_str": "629754525965000704",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "larsen.house.gov/press-release/\u2026",
+          "url": "http://t.co/LKSRX4k3U6",
+          "indices": [
+            111,
+            133
+          ],
+          "expanded_url": "http://larsen.house.gov/press-release/50th-anniversary-voting-rights-act-larsen-calls-stronger-protections-ballot-box-0"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629754525965000704,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:42:33 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 5060,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepRickLarsen",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

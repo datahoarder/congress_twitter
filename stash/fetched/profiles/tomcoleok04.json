@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cole.house.gov",
+          "url": "http://t.co/ePC5ciPbap",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.cole.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 145,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 79,
+  "location": "Oklahoma",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/23124635/1420686547",
+  "notifications": false,
+  "description": "Proud to represent the Fourth District of Oklahoma in the U.S. House of Representatives. Staff moderated unless signed by me. -TC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 545,
+  "id_str": "23124635",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3711483118/53a016e05d00c5a9193d62b73afc8583_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 690,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+  "id": 23124635,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Tom Cole",
+  "profile_use_background_image": false,
+  "url": "http://t.co/ePC5ciPbap",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3711483118/53a016e05d00c5a9193d62b73afc8583_normal.jpeg",
+  "created_at": "Fri Mar 06 21:54:25 +0000 2009",
+  "profile_background_color": "113242",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "A milestone was reached for @NormanRegional construction in Moore with a topping out ceremony. #FourthDistrictFriday http://t.co/LnhmaQrt3B",
+    "id_str": "624650487715991552",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 19942464,
+          "indices": [
+            28,
+            43
+          ],
+          "screen_name": "normanregional",
+          "id_str": "19942464",
+          "name": "Norman Regional"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FourthDistrictFriday",
+          "indices": [
+            95,
+            116
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "themooredaily.com/news/norman-re\u2026",
+          "url": "http://t.co/LnhmaQrt3B",
+          "indices": [
+            117,
+            139
+          ],
+          "expanded_url": "http://www.themooredaily.com/news/norman-regional-moore-hosts-topping-out-ceremony"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 624650487715991552,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Jul 24 18:40:56 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 7239,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "009999",
+  "screen_name": "TomColeOK04",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif"
+}

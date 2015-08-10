@@ -1,0 +1,87 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "velazquez.house.gov/index.shtml",
+          "url": "http://t.co/encf2UOJp1",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://velazquez.house.gov/index.shtml"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 3046,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 39,
+  "location": "NYC and DC",
+  "notifications": false,
+  "description": "Represents New York's 7th Congressional District in the U.S. House of Representatives.  Top Democrat on House Small Business Committee.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 459,
+  "id_str": "164369297",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1575588063/nv-press-conference-generic_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 315,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 164369297,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Rep. Nydia Velazquez",
+  "profile_use_background_image": true,
+  "url": "http://t.co/encf2UOJp1",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1575588063/nv-press-conference-generic_normal.jpg",
+  "created_at": "Thu Jul 08 18:18:20 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "id": 629316871389597696,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "On the 50-year anniversary of the Voting Rights Act we must renew our push to pass a new Act that protects all Americans' fundamental rights",
+    "id_str": "629316871389597696",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 15:43:28 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 2,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 4,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 7794,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "NydiaVelazquez",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

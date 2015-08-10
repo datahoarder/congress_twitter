@@ -1,0 +1,259 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "richmond.house.gov",
+          "url": "http://t.co/SUcIB89W63",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://richmond.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 761,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 165,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1435584500",
+  "notifications": false,
+  "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 436,
+  "id_str": "267854863",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 1606,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg",
+  "id": 267854863,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep Cedric Richmond",
+  "profile_use_background_image": true,
+  "url": "http://t.co/SUcIB89W63",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @weatherchannel: #NOAA released its final forecast update for the Atlantic #Hurricane Season: http://t.co/yMen1HMeKy http://t.co/lqd8I2Y\u2026",
+    "id_str": "629699850951630848",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 20998647,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "weatherchannel",
+          "id_str": "20998647",
+          "name": "The Weather Channel"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NOAA",
+          "indices": [
+            20,
+            25
+          ]
+        },
+        {
+          "text": "Hurricane",
+          "indices": [
+            78,
+            88
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "wxch.nl/1TaFUfc",
+          "url": "http://t.co/yMen1HMeKy",
+          "indices": [
+            97,
+            119
+          ],
+          "expanded_url": "http://wxch.nl/1TaFUfc"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629690974726410241,
+          "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+          "url": "http://t.co/lqd8I2YeLL",
+          "display_url": "pic.twitter.com/lqd8I2YeLL",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 599
+            },
+            "large": {
+              "h": 337,
+              "resize": "fit",
+              "w": 599
+            }
+          },
+          "source_user_id": 20998647,
+          "source_user_id_str": "20998647",
+          "indices": [
+            120,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629690974789337088,
+          "source_status_id_str": "629690974789337088",
+          "id_str": "629690974726410241"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629699850951630848,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:05:18 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 20,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "#NOAA released its final forecast update for the Atlantic #Hurricane Season: http://t.co/yMen1HMeKy http://t.co/lqd8I2YeLL",
+      "id_str": "629690974789337088",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "NOAA",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "Hurricane",
+            "indices": [
+              58,
+              68
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wxch.nl/1TaFUfc",
+            "url": "http://t.co/yMen1HMeKy",
+            "indices": [
+              77,
+              99
+            ],
+            "expanded_url": "http://wxch.nl/1TaFUfc"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629690974726410241,
+            "indices": [
+              100,
+              122
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 599
+              },
+              "large": {
+                "h": 337,
+                "resize": "fit",
+                "w": 599
+              }
+            },
+            "display_url": "pic.twitter.com/lqd8I2YeLL",
+            "url": "http://t.co/lqd8I2YeLL",
+            "id_str": "629690974726410241",
+            "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629690974789337088,
+      "truncated": false,
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 16:30:02 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 28,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 7396,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepRichmond",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg"
+}

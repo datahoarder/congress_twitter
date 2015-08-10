@@ -1,0 +1,110 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "AlceeHastings.House.gov",
+          "url": "http://t.co/g0E2ojpNr4",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://AlceeHastings.House.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 40,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 2,
+  "location": "Florida 20th",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2433737761/1421426092",
+  "notifications": false,
+  "description": "Congressman Alcee L. Hastings represents Broward, Palm Beach, and Hendry counties in the U.S. House of Representatives.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 159,
+  "id_str": "2433737761",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/453552802426400768/hCjUwfMs_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 277,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2433737761,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Alcee L. Hastings",
+  "profile_use_background_image": true,
+  "url": "http://t.co/g0E2ojpNr4",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/453552802426400768/hCjUwfMs_normal.jpeg",
+  "created_at": "Tue Apr 08 14:53:21 +0000 2014",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "@NationalBCC should cut ties with polluters http://t.co/vgVJ2q2uKB",
+    "id_str": "629718970728337409",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 20078596,
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "NationalBCC",
+          "id_str": "20078596",
+          "name": "Black Chamber"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1K811Km",
+          "url": "http://t.co/vgVJ2q2uKB",
+          "indices": [
+            44,
+            66
+          ],
+          "expanded_url": "http://1.usa.gov/1K811Km"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": "NationalBCC",
+    "geo": null,
+    "in_reply_to_user_id": 20078596,
+    "id": 629718970728337409,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": "20078596",
+    "created_at": "Fri Aug 07 18:21:16 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1989,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepHastingsFL",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

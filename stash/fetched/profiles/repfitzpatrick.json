@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fitzpatrick.house.gov",
+          "url": "http://t.co/XKNHAfCEMB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.fitzpatrick.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1092,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 793,
+  "location": "Langhorne, PA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237944147/1420481952",
+  "notifications": false,
+  "description": "Proudly representing #PA8 in the US House of Representatives. Husband. Dad. @Eagles fan.      #BetterJobsMoreOpportunity",
+  "profile_sidebar_border_color": "A8C7F7",
+  "protected": false,
+  "listed_count": 549,
+  "id_str": "237944147",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552167537664749569/uiznx6_o_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 4679,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 237944147,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Mike Fitzpatrick",
+  "profile_use_background_image": true,
+  "url": "http://t.co/XKNHAfCEMB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552167537664749569/uiznx6_o_normal.jpeg",
+  "created_at": "Fri Jan 14 00:38:49 +0000 2011",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "American families deserve a 21st century government that's:\n\u2713 Limited\n\u2713 Honest\n\u2713 Competent\n\n'Like' and 'Share' if... http://t.co/YKbT02iyHh",
+    "id_str": "630395739789783040",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "fb.me/46TcZQ6yz",
+          "url": "http://t.co/YKbT02iyHh",
+          "indices": [
+            117,
+            139
+          ],
+          "expanded_url": "http://fb.me/46TcZQ6yz"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630395739789783040,
+    "truncated": false,
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 15:10:31 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 8535,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepFitzpatrick",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png"
+}

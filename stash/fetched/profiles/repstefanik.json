@@ -1,0 +1,210 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "stefanik.house.gov",
+          "url": "http://t.co/aqRshGoEsH",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://stefanik.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 178,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962813893/1435261560",
+  "notifications": false,
+  "description": "Official Twitter Account for Congresswoman Elise Stefanik, proudly representing New York's 21st District.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 132,
+  "id_str": "2962813893",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/559721923458764801/Fk2KIC3k_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 602,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552516457532116992/8FvbYlty.jpeg",
+  "id": 2962813893,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Elise Stefanik",
+  "profile_use_background_image": true,
+  "url": "http://t.co/aqRshGoEsH",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/559721923458764801/Fk2KIC3k_normal.jpeg",
+  "created_at": "Mon Jan 05 22:17:51 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @RepChrisGibson: Productive &amp; informative session on Lyme/Tickborne Diseases @SUNYAdirondack. Thx @RepStefanik and @LymeActionNet \nhttp:\u2026",
+    "id_str": "630191223840575488",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 234937222,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "RepChrisGibson",
+          "id_str": "234937222",
+          "name": "Chris Gibson"
+        },
+        {
+          "id": 107769162,
+          "indices": [
+            84,
+            99
+          ],
+          "screen_name": "SUNYAdirondack",
+          "id_str": "107769162",
+          "name": "SUNY Adirondack"
+        },
+        {
+          "id": 2962813893,
+          "indices": [
+            105,
+            117
+          ],
+          "screen_name": "RepStefanik",
+          "id_str": "2962813893",
+          "name": "Rep. Elise Stefanik"
+        },
+        {
+          "id": 2950377525,
+          "indices": [
+            122,
+            136
+          ],
+          "screen_name": "LymeActionNet",
+          "id_str": "2950377525",
+          "name": "Lyme Action Network"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "cbs6albany.com/news/features/\u2026",
+          "url": "http://t.co/0Jzm4Oexbv",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://www.cbs6albany.com/news/features/top-story/stories/focus-lyme-disease-adirondacks-27837.shtml?wap=0"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630191223840575488,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 01:37:50 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Productive &amp; informative session on Lyme/Tickborne Diseases @SUNYAdirondack. Thx @RepStefanik and @LymeActionNet \nhttp://t.co/0Jzm4Oexbv",
+      "id_str": "630186590892105728",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 107769162,
+            "indices": [
+              64,
+              79
+            ],
+            "screen_name": "SUNYAdirondack",
+            "id_str": "107769162",
+            "name": "SUNY Adirondack"
+          },
+          {
+            "id": 2962813893,
+            "indices": [
+              85,
+              97
+            ],
+            "screen_name": "RepStefanik",
+            "id_str": "2962813893",
+            "name": "Rep. Elise Stefanik"
+          },
+          {
+            "id": 2950377525,
+            "indices": [
+              102,
+              116
+            ],
+            "screen_name": "LymeActionNet",
+            "id_str": "2950377525",
+            "name": "Lyme Action Network"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "cbs6albany.com/news/features/\u2026",
+            "url": "http://t.co/0Jzm4Oexbv",
+            "indices": [
+              118,
+              140
+            ],
+            "expanded_url": "http://www.cbs6albany.com/news/features/top-story/stories/focus-lyme-disease-adirondacks-27837.shtml?wap=0"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630186590892105728,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sun Aug 09 01:19:26 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 8,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 2899,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepStefanik",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552516457532116992/8FvbYlty.jpeg"
+}

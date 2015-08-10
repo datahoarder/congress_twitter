@@ -1,0 +1,109 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fattah.house.gov",
+          "url": "http://t.co/PNHmkTSkdp",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fattah.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1573,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 34,
+  "location": "Philly/LM/D.C.",
+  "notifications": false,
+  "description": "Father. Husband. Eagles! 20+year Congressman. Fighter 4 children, working families, neuroscience \u2013 25M helped to date. Architect of GEARUP, AOTC & CORE Scholars",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 838,
+  "id_str": "48086014",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/558286866839900160/z9aA7vI9_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 11257,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 48086014,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Chaka Fattah",
+  "profile_use_background_image": true,
+  "url": "http://t.co/PNHmkTSkdp",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/558286866839900160/z9aA7vI9_normal.jpeg",
+  "created_at": "Wed Jun 17 19:39:50 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Fattah to Deliver Remarks at Philadelphia's Kick-Off for National GEAR UP Week http://t.co/jdFoyIZ6kk via @YahooNews",
+    "id_str": "630388305276698624",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 7309052,
+          "indices": [
+            106,
+            116
+          ],
+          "screen_name": "YahooNews",
+          "id_str": "7309052",
+          "name": "Yahoo News"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "news.yahoo.com/fattah-deliver\u2026",
+          "url": "http://t.co/jdFoyIZ6kk",
+          "indices": [
+            79,
+            101
+          ],
+          "expanded_url": "http://news.yahoo.com/fattah-deliver-remarks-philadelphias-kick-off-national-gear-203400588.html?soc_src=mediacontentsharebuttons&soc_trk=tw"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630388305276698624,
+    "truncated": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 14:40:58 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 11276,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "chakafattah",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

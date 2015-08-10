@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "costa.house.gov",
+          "url": "http://t.co/lCxczJ32HJ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://costa.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 448,
+  "verified": true,
+  "profile_text_color": "222222",
+  "favourites_count": 15,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/245451804/1437768953",
+  "notifications": false,
+  "description": "Costa represents California's 16th District. He serves on the Agriculture & Natural Resources Committees. This account is for official use only.",
+  "profile_sidebar_border_color": "00B9FF",
+  "protected": false,
+  "listed_count": 340,
+  "id_str": "245451804",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2823385828/5fdd3febd6729c9077a2e35710d3b93f_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1002,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/204181074/mqenglishcountryside.br.jpg",
+  "id": 245451804,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "33762D",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Jim Costa",
+  "profile_use_background_image": true,
+  "url": "http://t.co/lCxczJ32HJ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2823385828/5fdd3febd6729c9077a2e35710d3b93f_normal.jpeg",
+  "created_at": "Mon Jan 31 18:42:23 +0000 2011",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "This week marks the 50th anniversary of the Voting Rights Act. We must work to ensure that every vote counts! #VRA50 http://t.co/ww8zMBbdHS",
+    "id_str": "629717979815616512",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            110,
+            116
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629717979278606336,
+          "indices": [
+            117,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL01Km-UAAAdTJ3.png",
+          "expanded_url": "http://twitter.com/RepJimCosta/status/629717979815616512/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 334,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 189,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 415,
+              "resize": "fit",
+              "w": 745
+            }
+          },
+          "display_url": "pic.twitter.com/ww8zMBbdHS",
+          "url": "http://t.co/ww8zMBbdHS",
+          "id_str": "629717979278606336",
+          "media_url": "http://pbs.twimg.com/media/CL01Km-UAAAdTJ3.png",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629717979815616512,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 18:17:20 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 3977,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "00B9FF",
+  "screen_name": "RepJimCosta",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/204181074/mqenglishcountryside.br.jpg"
+}

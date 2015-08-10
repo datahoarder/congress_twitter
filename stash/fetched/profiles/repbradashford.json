@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "ashford.house.gov",
+          "url": "http://t.co/tWZvDFBJ0G",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://ashford.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 497,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 236,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964351843/1426789895",
+  "notifications": false,
+  "description": "Proudly Representing Nebraska's 2nd Congressional District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 88,
+  "id_str": "2964351843",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598850679826874370/HgSu5HRO_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 616,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2964351843,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Brad Ashford",
+  "profile_use_background_image": true,
+  "url": "http://t.co/tWZvDFBJ0G",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598850679826874370/HgSu5HRO_normal.jpg",
+  "created_at": "Tue Jan 06 15:51:29 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "My Mobile Office will be serving constituents tomorrow at @BaconFestOmaha at the Kroc Center. We are here to help! http://t.co/1jBy1JmvjF",
+    "id_str": "630048125718294528",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1277833548,
+          "indices": [
+            58,
+            73
+          ],
+          "screen_name": "BaconFestOmaha",
+          "id_str": "1277833548",
+          "name": "BaconFest Omaha"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630048125256888320,
+          "indices": [
+            115,
+            137
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL5hbolWcAA-QGY.png",
+          "expanded_url": "http://twitter.com/RepBradAshford/status/630048125718294528/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 504,
+              "resize": "fit",
+              "w": 504
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 504,
+              "resize": "fit",
+              "w": 504
+            }
+          },
+          "display_url": "pic.twitter.com/1jBy1JmvjF",
+          "url": "http://t.co/1jBy1JmvjF",
+          "id_str": "630048125256888320",
+          "media_url": "http://pbs.twimg.com/media/CL5hbolWcAA-QGY.png",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630048125718294528,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 16:09:13 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1906,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBradAshford",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

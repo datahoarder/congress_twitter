@@ -1,0 +1,229 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "timryan.house.gov",
+          "url": "http://t.co/AfCE33OzuX",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://timryan.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1828,
+  "verified": true,
+  "profile_text_color": "0A0A0A",
+  "favourites_count": 46,
+  "location": "Warren, OH",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/13491312/1435589954",
+  "notifications": false,
+  "description": "Congressman Tim Ryan, proudly serving Ohio's 13th District in the United States Congress",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1267,
+  "id_str": "13491312",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593535082867990528/lFLQ8QrX_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2567,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441320622895816704/es-oUckd.jpeg",
+  "id": 13491312,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "2465AE",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Congressman Tim Ryan",
+  "profile_use_background_image": true,
+  "url": "http://t.co/AfCE33OzuX",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593535082867990528/lFLQ8QrX_normal.jpg",
+  "created_at": "Thu Feb 14 21:57:32 +0000 2008",
+  "profile_background_color": "AAD6FA",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @FastCompany: What highly successful people have learned about perseverance: http://t.co/V5Q6jsvpcS http://t.co/I91j5CSOnQ",
+    "id_str": "629808086790864896",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2735591,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "FastCompany",
+          "id_str": "2735591",
+          "name": "Fast Company"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "f-st.co/8bvHIpP",
+          "url": "http://t.co/V5Q6jsvpcS",
+          "indices": [
+            80,
+            102
+          ],
+          "expanded_url": "http://f-st.co/8bvHIpP"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629785074574192640,
+          "media_url": "http://pbs.twimg.com/media/CL1yMEbWcAA2gNu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL1yMEbWcAA2gNu.jpg",
+          "expanded_url": "http://twitter.com/FastCompany/status/629785075043987456/photo/1",
+          "url": "http://t.co/I91j5CSOnQ",
+          "display_url": "pic.twitter.com/I91j5CSOnQ",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 2735591,
+          "source_user_id_str": "2735591",
+          "indices": [
+            103,
+            125
+          ],
+          "type": "photo",
+          "source_status_id": 629785075043987456,
+          "source_status_id_str": "629785075043987456",
+          "id_str": "629785074574192640"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629808086790864896,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 00:15:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 70,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 71,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "What highly successful people have learned about perseverance: http://t.co/V5Q6jsvpcS http://t.co/I91j5CSOnQ",
+      "id_str": "629785075043987456",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "f-st.co/8bvHIpP",
+            "url": "http://t.co/V5Q6jsvpcS",
+            "indices": [
+              63,
+              85
+            ],
+            "expanded_url": "http://f-st.co/8bvHIpP"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629785074574192640,
+            "indices": [
+              86,
+              108
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL1yMEbWcAA2gNu.jpg",
+            "expanded_url": "http://twitter.com/FastCompany/status/629785075043987456/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/I91j5CSOnQ",
+            "url": "http://t.co/I91j5CSOnQ",
+            "id_str": "629785074574192640",
+            "media_url": "http://pbs.twimg.com/media/CL1yMEbWcAA2gNu.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629785075043987456,
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 22:43:57 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 70,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 23676,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "D90D08",
+  "screen_name": "RepTimRyan",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441320622895816704/es-oUckd.jpeg"
+}

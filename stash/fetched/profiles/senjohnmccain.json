@@ -1,0 +1,90 @@
+{
+  "entities": {
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 342,
+  "verified": true,
+  "profile_text_color": "131515",
+  "favourites_count": 2,
+  "location": "Phoenix, AZ / Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/19394188/1421190330",
+  "notifications": false,
+  "description": "U.S. Senator John McCain (R-AZ), Chairman of Senate Armed Services Committee",
+  "profile_sidebar_border_color": "CB1C15",
+  "protected": false,
+  "listed_count": 16969,
+  "id_str": "19394188",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189622627/twitter_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 9332,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4035204/Twitter-page-3.jpg",
+  "id": 19394188,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "96A0A6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "John McCain",
+  "profile_use_background_image": false,
+  "url": null,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1189622627/twitter_normal.jpg",
+  "created_at": "Fri Jan 23 13:42:31 +0000 2009",
+  "profile_background_color": "0E1058",
+  "status": {
+    "id": 630185593071382528,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Congratulations to the great Randy Johnson - #51 retired by #Dbacks tonight! Thanks for all the wonderful memories! #RJ51",
+    "id_str": "630185593071382528",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 01:15:28 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 224,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Dbacks",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "RJ51",
+          "indices": [
+            116,
+            121
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 72,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1978249,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0A0A0A",
+  "screen_name": "SenJohnMcCain",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4035204/Twitter-page-3.jpg"
+}

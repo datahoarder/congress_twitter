@@ -1,0 +1,230 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "kelly.house.gov",
+          "url": "http://t.co/eqfb8LoF4s",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://kelly.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 721,
+  "verified": false,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/935368364/1397580024",
+  "notifications": false,
+  "description": "Representative Mike Kelly proudly and humbly serves the people of Pennsylvania's Third District (#PA03) and currently sits on the House Ways & Means Committee.",
+  "profile_sidebar_border_color": "A8C7F7",
+  "protected": false,
+  "listed_count": 359,
+  "id_str": "935368364",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1135,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "id": 935368364,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Rep. Mike Kelly",
+  "profile_use_background_image": true,
+  "url": "http://t.co/eqfb8LoF4s",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2824224425/e2df92c97dc465f3c97327fc1342c38e_normal.jpeg",
+  "created_at": "Thu Nov 08 20:31:21 +0000 2012",
+  "profile_background_color": "022330",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @FoxBusiness: .@MikeKellyPA says there are 40,000 coal-related jobs in PA, adds \"Obama is hard on coal and soft on natl security.\" http:\u2026",
+    "id_str": "628639236380426240",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 56413858,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "FoxBusiness",
+          "id_str": "56413858",
+          "name": "FOX Business"
+        },
+        {
+          "id": 935368364,
+          "indices": [
+            18,
+            30
+          ],
+          "screen_name": "MikeKellyPA",
+          "id_str": "935368364",
+          "name": "Rep. Mike Kelly"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628577833577615364,
+          "media_url": "http://pbs.twimg.com/media/CLkoNZQUEAQKI7R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLkoNZQUEAQKI7R.jpg",
+          "expanded_url": "http://twitter.com/FoxBusiness/status/628577834433249280/photo/1",
+          "url": "http://t.co/xLrlTcdCU6",
+          "display_url": "pic.twitter.com/xLrlTcdCU6",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 56413858,
+          "source_user_id_str": "56413858",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 628577834433249280,
+          "source_status_id_str": "628577834433249280",
+          "id_str": "628577833577615364"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628639236380426240,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Aug 04 18:50:48 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 16,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ".@MikeKellyPA says there are 40,000 coal-related jobs in PA, adds \"Obama is hard on coal and soft on natl security.\" http://t.co/xLrlTcdCU6",
+      "id_str": "628577834433249280",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 935368364,
+            "indices": [
+              1,
+              13
+            ],
+            "screen_name": "MikeKellyPA",
+            "id_str": "935368364",
+            "name": "Rep. Mike Kelly"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 628577833577615364,
+            "indices": [
+              117,
+              139
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLkoNZQUEAQKI7R.jpg",
+            "expanded_url": "http://twitter.com/FoxBusiness/status/628577834433249280/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 576,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/xLrlTcdCU6",
+            "url": "http://t.co/xLrlTcdCU6",
+            "id_str": "628577833577615364",
+            "media_url": "http://pbs.twimg.com/media/CLkoNZQUEAQKI7R.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 628577834433249280,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Tue Aug 04 14:46:48 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 19,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 5382,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "MikeKellyPA",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png"
+}

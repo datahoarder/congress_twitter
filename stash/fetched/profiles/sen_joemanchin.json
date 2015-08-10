@@ -1,0 +1,145 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "manchin.senate.gov",
+          "url": "http://t.co/KZ8ptSeHhI",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://manchin.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 610,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 71,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/234374703/1428611282",
+  "notifications": false,
+  "description": "I proudly serve the people of West Virginia. Please do not hesitate to contact me to share your commonsense ideas, concerns or if you need assistance.",
+  "profile_sidebar_border_color": "D1D1D1",
+  "protected": false,
+  "listed_count": 1153,
+  "id_str": "234374703",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/583716904704970752/eBPIBjSb_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3060,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/342514931/manchin_twitter.jpg",
+  "id": 234374703,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Senator Joe Manchin",
+  "profile_use_background_image": true,
+  "url": "http://t.co/KZ8ptSeHhI",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/583716904704970752/eBPIBjSb_normal.jpg",
+  "created_at": "Wed Jan 05 14:13:33 +0000 2011",
+  "profile_background_color": "EDEDED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Visit my website for a recap of what I\u2019ve been working on this week in DC: http://t.co/NZoaQjNQqG #CatchingUpWithJoe http://t.co/gHOS0wSBWb",
+    "id_str": "629758993838178304",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "CatchingUpWithJoe",
+          "indices": [
+            98,
+            116
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1Dw0EMX",
+          "url": "http://t.co/NZoaQjNQqG",
+          "indices": [
+            75,
+            97
+          ],
+          "expanded_url": "http://1.usa.gov/1Dw0EMX"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629751907398107138,
+          "indices": [
+            117,
+            139
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1UBfEWwAIvfCt.jpg",
+          "expanded_url": "http://twitter.com/Sen_JoeManchin/status/629758993838178304/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 226,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 399,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 511,
+              "resize": "fit",
+              "w": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gHOS0wSBWb",
+          "url": "http://t.co/gHOS0wSBWb",
+          "id_str": "629751907398107138",
+          "media_url": "http://pbs.twimg.com/media/CL1UBfEWwAIvfCt.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629758993838178304,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 21:00:19 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 31328,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "006BB3",
+  "screen_name": "Sen_JoeManchin",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/342514931/manchin_twitter.jpg"
+}

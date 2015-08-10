@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "posey.house.gov",
+          "url": "http://t.co/tUCU5eCWsh",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.posey.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 938,
+  "verified": true,
+  "profile_text_color": "0A0101",
+  "favourites_count": 5,
+  "location": "Rockledge, FL",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/25086658/1416260228",
+  "notifications": false,
+  "description": "Congressman from Florida's 8th district, representing the Space and Treasure Coasts",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 816,
+  "id_str": "25086658",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/115078512/bill_headshotcompressed_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 1143,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818107772/b0a6e4645aec1bf74f0c6a2496036fc0.jpeg",
+  "id": 25086658,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "B3BCD1",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Bill Posey",
+  "profile_use_background_image": false,
+  "url": "http://t.co/tUCU5eCWsh",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/115078512/bill_headshotcompressed_normal.JPG",
+  "created_at": "Wed Mar 18 15:05:42 +0000 2009",
+  "profile_background_color": "02163D",
+  "status": {
+    "id": 620966303684263936,
+    "truncated": false,
+    "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Historic - new horizons space craft reaches Pluto",
+    "id_str": "620966303684263936",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Jul 14 14:41:18 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 5,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 3,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 9621,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "1B4BA3",
+  "screen_name": "congbillposey",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818107772/b0a6e4645aec1bf74f0c6a2496036fc0.jpeg"
+}

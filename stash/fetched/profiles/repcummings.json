@@ -1,0 +1,230 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cummings.house.gov",
+          "url": "http://t.co/mKxxp6s7Jx",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cummings.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1534,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 41,
+  "location": "Baltimore, MD",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/787373558/1431184732",
+  "notifications": false,
+  "description": "U.S. Representative from Maryland's 7th District, dedicated to serving and empowering the people I\u2019m sworn to represent. RT's and Follows are not endorsements.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 616,
+  "id_str": "787373558",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/512259394520637440/iqJCC7YI_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 2997,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000101030949/150220b407fb9cf594e49995194ec160.jpeg",
+  "id": 787373558,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Elijah E. Cummings",
+  "profile_use_background_image": false,
+  "url": "http://t.co/mKxxp6s7Jx",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/512259394520637440/iqJCC7YI_normal.jpeg",
+  "created_at": "Tue Aug 28 16:37:01 +0000 2012",
+  "profile_background_color": "17294D",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @Reporterroblang: Coming up Sunday on Maryland's News This Week @RepCummings on crime in Balto., Iran, and Maryland politics http://t.co\u2026",
+    "id_str": "629749550245408768",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 67323898,
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "Reporterroblang",
+          "id_str": "67323898",
+          "name": "Robert Lang"
+        },
+        {
+          "id": 787373558,
+          "indices": [
+            67,
+            79
+          ],
+          "screen_name": "RepCummings",
+          "id_str": "787373558",
+          "name": "Elijah E. Cummings"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629742568025255936,
+          "media_url": "http://pbs.twimg.com/media/CL1Lh3MWcAAmA8a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL1Lh3MWcAAmA8a.jpg",
+          "expanded_url": "http://twitter.com/Reporterroblang/status/629742574681653248/photo/1",
+          "url": "http://t.co/goDA5Z5nvi",
+          "display_url": "pic.twitter.com/goDA5Z5nvi",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 255,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 67323898,
+          "source_user_id_str": "67323898",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629742574681653248,
+          "source_status_id_str": "629742574681653248",
+          "id_str": "629742568025255936"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629749550245408768,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 20:22:47 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 3,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Coming up Sunday on Maryland's News This Week @RepCummings on crime in Balto., Iran, and Maryland politics http://t.co/goDA5Z5nvi",
+      "id_str": "629742574681653248",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 787373558,
+            "indices": [
+              46,
+              58
+            ],
+            "screen_name": "RepCummings",
+            "id_str": "787373558",
+            "name": "Elijah E. Cummings"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629742568025255936,
+            "indices": [
+              107,
+              129
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL1Lh3MWcAAmA8a.jpg",
+            "expanded_url": "http://twitter.com/Reporterroblang/status/629742574681653248/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 255,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 768,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/goDA5Z5nvi",
+            "url": "http://t.co/goDA5Z5nvi",
+            "id_str": "629742568025255936",
+            "media_url": "http://pbs.twimg.com/media/CL1Lh3MWcAAmA8a.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629742574681653248,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 19:55:04 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 12469,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "C7251A",
+  "screen_name": "RepCummings",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000101030949/150220b407fb9cf594e49995194ec160.jpeg"
+}

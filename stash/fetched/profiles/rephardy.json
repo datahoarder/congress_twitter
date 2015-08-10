@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "hardy.house.gov",
+          "url": "http://t.co/RPDLpARNAe",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hardy.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 374,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 98,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964222544/1436199596",
+  "notifications": false,
+  "description": "Representing Nevada's 4th Congressional District - 702.912.1634 or 202.225.9894",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 90,
+  "id_str": "2964222544",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552515282728521729/bazgL2JV_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 564,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2964222544,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Cresent Hardy",
+  "profile_use_background_image": true,
+  "url": "http://t.co/RPDLpARNAe",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552515282728521729/bazgL2JV_normal.jpeg",
+  "created_at": "Tue Jan 06 14:08:31 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "To all who have earned the #PurpleHeart, thank you for your sacrifices in defense of our freedom #PurpleHeartDay https://t.co/PhOArg5POC",
+    "id_str": "629683837874896896",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            27,
+            39
+          ]
+        },
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            97,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/AmericanLegion\u2026",
+          "url": "https://t.co/PhOArg5POC",
+          "indices": [
+            113,
+            136
+          ],
+          "expanded_url": "https://twitter.com/AmericanLegion/status/629628072719839232"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629683837874896896,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 16:01:40 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1307,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepHardy",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

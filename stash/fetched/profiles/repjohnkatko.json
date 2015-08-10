@@ -1,0 +1,98 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Katko.house.gov",
+          "url": "http://t.co/uGAHEIPdlm",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Katko.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 104,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 11,
+  "location": "Syracuse, New York",
+  "notifications": false,
+  "description": "The official Twitter account of Rep. John Katko.  Proudly representing New York's 24th Congressional District.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 75,
+  "id_str": "2966765501",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 85,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2966765501,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "John Katko",
+  "profile_use_background_image": true,
+  "url": "http://t.co/uGAHEIPdlm",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/554696221269712897/C6aDs9sH_normal.jpeg",
+  "created_at": "Wed Jan 07 21:51:49 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Today I introduced legislation in honor of  Mary Jo Lawyer Spano to create a national mesothelioma patient registry --http://t.co/jbXpE8Lcj5",
+    "id_str": "626543396698648577",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/1H444RG",
+          "url": "http://t.co/jbXpE8Lcj5",
+          "indices": [
+            118,
+            140
+          ],
+          "expanded_url": "http://bit.ly/1H444RG"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 626543396698648577,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Jul 30 00:02:41 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 1366,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJohnKatko",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

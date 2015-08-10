@@ -1,0 +1,326 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "jeffries.house.gov",
+          "url": "http://t.co/kmemTSKwIu",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://jeffries.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 620,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 159,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/467823431/1414444613",
+  "notifications": false,
+  "description": "Member of Congress proudly representing the 8th  District of New York",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 393,
+  "id_str": "467823431",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/453659156776382464/KbV5QD-T_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1185,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181444343/0EfioumS.jpeg",
+  "id": 467823431,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "C0DFEC",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Hakeem Jeffries",
+  "profile_use_background_image": true,
+  "url": "http://t.co/kmemTSKwIu",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/453659156776382464/KbV5QD-T_normal.jpeg",
+  "created_at": "Wed Jan 18 21:54:44 +0000 2012",
+  "profile_background_color": "131516",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @ITI_TechTweets: .@RepBarbaraLee @GKButterfield @RepJeffries @OfficialCBC meet w/@tim_cook on making a more inclusive economy #TBT 8/3 h\u2026",
+    "id_str": "629685148364242944",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 50731463,
+          "indices": [
+            3,
+            18
+          ],
+          "screen_name": "ITI_TechTweets",
+          "id_str": "50731463",
+          "name": "ITI"
+        },
+        {
+          "id": 248735463,
+          "indices": [
+            21,
+            35
+          ],
+          "screen_name": "RepBarbaraLee",
+          "id_str": "248735463",
+          "name": "Rep. Barbara Lee"
+        },
+        {
+          "id": 432676344,
+          "indices": [
+            36,
+            50
+          ],
+          "screen_name": "GKButterfield",
+          "id_str": "432676344",
+          "name": "G. K. Butterfield"
+        },
+        {
+          "id": 467823431,
+          "indices": [
+            51,
+            63
+          ],
+          "screen_name": "RepJeffries",
+          "id_str": "467823431",
+          "name": "Hakeem Jeffries"
+        },
+        {
+          "id": 233783568,
+          "indices": [
+            64,
+            76
+          ],
+          "screen_name": "OfficialCBC",
+          "id_str": "233783568",
+          "name": "THE CBC"
+        },
+        {
+          "id": 1636590253,
+          "indices": [
+            84,
+            93
+          ],
+          "screen_name": "tim_cook",
+          "id_str": "1636590253",
+          "name": "Tim Cook"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            129,
+            133
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629339438238298112,
+          "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+          "url": "http://t.co/rdrENVS1Ds",
+          "display_url": "pic.twitter.com/rdrENVS1Ds",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 410,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 232,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 700,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 50731463,
+          "source_user_id_str": "50731463",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 629339439081345024,
+          "source_status_id_str": "629339439081345024",
+          "id_str": "629339438238298112"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629685148364242944,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 16:06:53 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 11,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ".@RepBarbaraLee @GKButterfield @RepJeffries @OfficialCBC meet w/@tim_cook on making a more inclusive economy #TBT 8/3 http://t.co/rdrENVS1Ds",
+      "id_str": "629339439081345024",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 248735463,
+            "indices": [
+              1,
+              15
+            ],
+            "screen_name": "RepBarbaraLee",
+            "id_str": "248735463",
+            "name": "Rep. Barbara Lee"
+          },
+          {
+            "id": 432676344,
+            "indices": [
+              16,
+              30
+            ],
+            "screen_name": "GKButterfield",
+            "id_str": "432676344",
+            "name": "G. K. Butterfield"
+          },
+          {
+            "id": 467823431,
+            "indices": [
+              31,
+              43
+            ],
+            "screen_name": "RepJeffries",
+            "id_str": "467823431",
+            "name": "Hakeem Jeffries"
+          },
+          {
+            "id": 233783568,
+            "indices": [
+              44,
+              56
+            ],
+            "screen_name": "OfficialCBC",
+            "id_str": "233783568",
+            "name": "THE CBC"
+          },
+          {
+            "id": 1636590253,
+            "indices": [
+              64,
+              73
+            ],
+            "screen_name": "tim_cook",
+            "id_str": "1636590253",
+            "name": "Tim Cook"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "TBT",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629339438238298112,
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 410,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 232,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 700,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/rdrENVS1Ds",
+            "url": "http://t.co/rdrENVS1Ds",
+            "id_str": "629339438238298112",
+            "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629339439081345024,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 17:13:09 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 7163,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "2C96CF",
+  "screen_name": "RepJeffries",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181444343/0EfioumS.jpeg"
+}

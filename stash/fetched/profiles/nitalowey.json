@@ -1,0 +1,157 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lowey.house.gov",
+          "url": "http://t.co/XtYmMrkgPh",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lowey.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 841,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "New York and Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/221792092/1374681944",
+  "notifications": false,
+  "description": "Official account of Congresswoman Nita Lowey, proudly representing NY's 17th District. RM on House Approps Committee (@AppropsDems). RTs/follows \u2260 endorsements.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 602,
+  "id_str": "221792092",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/418870171315339265/l2YZIdOP_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1457,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000087242236/7fa6e20b224b057e1070152a80214457.png",
+  "id": 221792092,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Nita Lowey",
+  "profile_use_background_image": true,
+  "url": "http://t.co/XtYmMrkgPh",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/418870171315339265/l2YZIdOP_normal.jpeg",
+  "created_at": "Wed Dec 01 16:36:35 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @NancyPelosi: The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight \u2026",
+    "id_str": "629656889874350080",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 15764644,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "NancyPelosi",
+          "id_str": "15764644",
+          "name": "Nancy Pelosi "
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629656889874350080,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:14:35 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 148,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629650509603991557,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight to #RestoreTheVRA!",
+      "id_str": "629650509603991557",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 13:49:14 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 156,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 148,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 10187,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "NitaLowey",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000087242236/7fa6e20b224b057e1070152a80214457.png"
+}

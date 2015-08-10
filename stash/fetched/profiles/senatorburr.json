@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "burr.senate.gov",
+          "url": "http://t.co/MHZvAsvWrN",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://burr.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3332,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 5,
+  "location": "Winston-Salem, NC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/21157904/1402319779",
+  "notifications": false,
+  "description": "U.S. Senator from North Carolina",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1958,
+  "id_str": "21157904",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 1907,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/821443790/958deacf216c26cd1a8e60fee00a2323.jpeg",
+  "id": 21157904,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Richard Burr",
+  "profile_use_background_image": true,
+  "url": "http://t.co/MHZvAsvWrN",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/588079658819653632/wwdO4Eqv_normal.jpg",
+  "created_at": "Wed Feb 18 01:53:03 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "The #ABLEact is Making a Difference for American Families: http://t.co/RRXRP9lLmp (h/t @SpeakerBoehner)",
+    "id_str": "629730825433673728",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 7713202,
+          "indices": [
+            87,
+            102
+          ],
+          "screen_name": "SpeakerBoehner",
+          "id_str": "7713202",
+          "name": "Speaker John Boehner"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ABLEact",
+          "indices": [
+            4,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1KVEA0y",
+          "url": "http://t.co/RRXRP9lLmp",
+          "indices": [
+            59,
+            81
+          ],
+          "expanded_url": "http://1.usa.gov/1KVEA0y"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629730825433673728,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:08:23 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 32570,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenatorBurr",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/821443790/958deacf216c26cd1a8e60fee00a2323.jpeg"
+}

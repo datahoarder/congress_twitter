@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "polis.house.gov",
+          "url": "http://t.co/YFBawl0Mhg",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://polis.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3249,
+  "verified": true,
+  "profile_text_color": "3C3940",
+  "favourites_count": 2191,
+  "location": "Boulder, CO",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/15361570/1431963417",
+  "notifications": false,
+  "description": "father, entrepreneur,education reform, baseball, tech, politics, gaymer - My day job is representing the most beautiful Congressional district in the country",
+  "profile_sidebar_border_color": "5ED4DC",
+  "protected": false,
+  "listed_count": 1775,
+  "id_str": "15361570",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/600324022778355712/i4BbOQni_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 3928,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+  "id": 15361570,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "95E8EC",
+  "follow_request_sent": false,
+  "utc_offset": -21600,
+  "name": "Jared Polis",
+  "profile_use_background_image": true,
+  "url": "http://t.co/YFBawl0Mhg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/600324022778355712/i4BbOQni_normal.jpg",
+  "created_at": "Wed Jul 09 03:04:04 +0000 2008",
+  "profile_background_color": "0099B9",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Join my hemp symposium this Tuesday 8/11 in Loveland: http://t.co/VTB4wt99rk",
+    "id_str": "630150647933878272",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "timescall.com/business/ci_28\u2026",
+          "url": "http://t.co/VTB4wt99rk",
+          "indices": [
+            54,
+            76
+          ],
+          "expanded_url": "http://www.timescall.com/business/ci_28599730/rep-polis-hosting-hemp-symposium-loveland"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630150647933878272,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 22:56:36 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "followers_count": 32819,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0099B9",
+  "screen_name": "jaredpolis",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif"
+}

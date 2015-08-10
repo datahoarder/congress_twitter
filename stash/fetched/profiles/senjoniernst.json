@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "Ernst.Senate.Gov",
+          "url": "http://t.co/zUYK5PQEOd",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://Ernst.Senate.Gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 42,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 3,
+  "location": "Iowa ",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1420747141",
+  "notifications": false,
+  "description": "Official Account of Senator Joni Ernst from Iowa.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 231,
+  "id_str": "2856787757",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/560859109470117888/a3odinWf_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 347,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2856787757,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Joni Ernst",
+  "profile_use_background_image": false,
+  "url": "http://t.co/zUYK5PQEOd",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/560859109470117888/a3odinWf_normal.jpeg",
+  "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+  "profile_background_color": "FFFFFF",
+  "status": {
+    "favorite_count": 13,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Proud to recognize Purple Heart Day in Iowa &amp; honor all who selflessly served in defense of our freedoms. http://t.co/Vbc2OezTQf",
+    "id_str": "629708369171992576",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629708368685465600,
+          "indices": [
+            110,
+            132
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL0sbMuWgAAj69q.jpg",
+          "expanded_url": "http://twitter.com/SenJoniErnst/status/629708369171992576/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 560,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 988,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 1686,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Vbc2OezTQf",
+          "url": "http://t.co/Vbc2OezTQf",
+          "id_str": "629708368685465600",
+          "media_url": "http://pbs.twimg.com/media/CL0sbMuWgAAj69q.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629708369171992576,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:39:09 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 7016,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "4A913C",
+  "screen_name": "SenJoniErnst",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "speier.house.gov",
+          "url": "http://t.co/riEFCSOgog",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://speier.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "goo.gl/l7uFLm",
+          "url": "https://t.co/gGH33BzCXx",
+          "indices": [
+            136,
+            159
+          ],
+          "expanded_url": "https://goo.gl/l7uFLm"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 22402,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 6,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1433270400",
+  "notifications": false,
+  "description": "Represents California's 14th Congressional District. House Armed Services Committee, House Permanent Select Committee on Intelligence.  https://t.co/gGH33BzCXx",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1097,
+  "id_str": "24913074",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2473,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 24913074,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Jackie Speier",
+  "profile_use_background_image": true,
+  "url": "http://t.co/riEFCSOgog",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 14,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "We must remember the experiences of real people who witnessed nuclear war in #hiroshima https://t.co/J6oRgdWMKJ http://t.co/rwQrbQvG0S",
+    "id_str": "629370114115248128",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "hiroshima",
+          "indices": [
+            77,
+            87
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/e5GwH2",
+          "url": "https://t.co/J6oRgdWMKJ",
+          "indices": [
+            88,
+            111
+          ],
+          "expanded_url": "https://goo.gl/e5GwH2"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629370113364488192,
+          "indices": [
+            112,
+            134
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLv4yJdWcAAogJ1.jpg",
+          "expanded_url": "http://twitter.com/RepSpeier/status/629370114115248128/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 354,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 200,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 378,
+              "resize": "fit",
+              "w": 640
+            }
+          },
+          "display_url": "pic.twitter.com/rwQrbQvG0S",
+          "url": "http://t.co/rwQrbQvG0S",
+          "id_str": "629370113364488192",
+          "media_url": "http://pbs.twimg.com/media/CLv4yJdWcAAogJ1.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629370114115248128,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 19:15:02 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 20572,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepSpeier",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

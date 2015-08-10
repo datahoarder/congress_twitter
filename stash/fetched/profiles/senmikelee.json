@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lee.senate.gov",
+          "url": "http://t.co/WnT9wNOtNT",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.lee.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 2382,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 20,
+  "location": "Utah",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/88784440/1400689167",
+  "notifications": false,
+  "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington!",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 3157,
+  "id_str": "88784440",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1766994197/official_photo_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 3414,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/354472796/Twitter_Background.jpg",
+  "id": 88784440,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -21600,
+  "name": "Mike Lee",
+  "profile_use_background_image": true,
+  "url": "http://t.co/WnT9wNOtNT",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1766994197/official_photo_normal.jpeg",
+  "created_at": "Mon Nov 09 22:47:47 +0000 2009",
+  "profile_background_color": "F1F0EC",
+  "status": {
+    "favorite_count": 14,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "We need to protect Utah by modernizing the Antiquities Act: http://t.co/a6ovSbfwbT #utpol",
+    "id_str": "630066136969801729",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "utpol",
+          "indices": [
+            83,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "ux.thespectrum.com/story/opinion/\u2026",
+          "url": "http://t.co/a6ovSbfwbT",
+          "indices": [
+            60,
+            82
+          ],
+          "expanded_url": "http://ux.thespectrum.com/story/opinion/2015/08/07/mike-lee-utah-antiquities-act/31256811/?hootPostID=f1048e18e0604423a72582872fb11214"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630066136969801729,
+    "truncated": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 17:20:47 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "followers_count": 179331,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenMikeLee",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/354472796/Twitter_Background.jpg"
+}

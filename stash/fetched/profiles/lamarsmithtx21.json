@@ -1,0 +1,179 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "lamarsmith.house.gov",
+          "url": "http://t.co/1dfigsNXcr",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://lamarsmith.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/LamarsmithTX21",
+          "url": "http://t.co/Tbx0d5Iq",
+          "indices": [
+            111,
+            131
+          ],
+          "expanded_url": "http://www.facebook.com/LamarsmithTX21"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3639,
+  "verified": true,
+  "profile_text_color": "3B340A",
+  "favourites_count": 0,
+  "location": "TX21",
+  "notifications": false,
+  "description": "I represent the 21st District of TX in Congress & Chair the Science, Space, and Technology Committee. Join me: http://t.co/Tbx0d5Iq",
+  "profile_sidebar_border_color": "183053",
+  "protected": false,
+  "listed_count": 1086,
+  "id_str": "15856366",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/422422565/Lamar_Capitol_Headshot_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1419,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125192500/lamar-twt-badge.png",
+  "id": 15856366,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "EAF3F9",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Lamar Smith",
+  "profile_use_background_image": true,
+  "url": "http://t.co/1dfigsNXcr",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/422422565/Lamar_Capitol_Headshot_normal.jpg",
+  "created_at": "Thu Aug 14 21:53:40 +0000 2008",
+  "profile_background_color": "CAD9E8",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @HouseScience: We don't want rules that cost 10's of millions of $$ &amp; have no significant impact on climate change @LamarSmithTX21 http:\u2026",
+    "id_str": "629385751550038017",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 23103488,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "HouseScience",
+          "id_str": "23103488",
+          "name": "Sci,Space,&Tech Cmte"
+        },
+        {
+          "id": 15856366,
+          "indices": [
+            122,
+            137
+          ],
+          "screen_name": "LamarSmithTX21",
+          "id_str": "15856366",
+          "name": "Lamar Smith"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/1McSdc9",
+          "url": "http://t.co/EZcOjuSEBY",
+          "indices": [
+            143,
+            144
+          ],
+          "expanded_url": "http://bit.ly/1McSdc9"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629385751550038017,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:17:11 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 2,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "We don't want rules that cost 10's of millions of $$ &amp; have no significant impact on climate change @LamarSmithTX21 http://t.co/EZcOjuSEBY",
+      "id_str": "629383586085376000",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 15856366,
+            "indices": [
+              104,
+              119
+            ],
+            "screen_name": "LamarSmithTX21",
+            "id_str": "15856366",
+            "name": "Lamar Smith"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/1McSdc9",
+            "url": "http://t.co/EZcOjuSEBY",
+            "indices": [
+              120,
+              142
+            ],
+            "expanded_url": "http://bit.ly/1McSdc9"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629383586085376000,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 20:08:34 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13435,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "900000",
+  "screen_name": "LamarSmithTX21",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125192500/lamar-twt-badge.png"
+}

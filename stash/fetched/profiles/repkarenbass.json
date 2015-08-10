@@ -1,0 +1,152 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "karenbass.house.gov",
+          "url": "http://t.co/1QNH7tmurQ",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://karenbass.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "fb.me/RepKarenBass",
+          "url": "http://t.co/GIhGdxEhqh",
+          "indices": [
+            97,
+            119
+          ],
+          "expanded_url": "http://fb.me/RepKarenBass"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 15024,
+  "verified": true,
+  "profile_text_color": "634047",
+  "favourites_count": 130,
+  "location": "Los Angeles & Washington",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/239949176/1433187461",
+  "notifications": false,
+  "description": "Representing California's 37th District, which includes Los Angeles, Hollywood, and Culver City. http://t.co/GIhGdxEhqh",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 1000,
+  "id_str": "239949176",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2296,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199025462/Twitter.png",
+  "id": 239949176,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "E3E2DE",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Congressmember Bass",
+  "profile_use_background_image": false,
+  "url": "http://t.co/1QNH7tmurQ",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/605458297475317761/P1AjUUex_normal.jpg",
+  "created_at": "Tue Jan 18 20:25:36 +0000 2011",
+  "profile_background_color": "196A88",
+  "status": {
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Time to #RestoreTheVRA and restore fundamental voting rights for all. #VRA50 http://t.co/JnrSPmvLcK",
+    "id_str": "629291439642574848",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            70,
+            76
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629291439042621440,
+          "indices": [
+            77,
+            99
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLuxOsxUcAAsjZI.jpg",
+          "expanded_url": "http://twitter.com/RepKarenBass/status/629291439642574848/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 170,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 300,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/JnrSPmvLcK",
+          "url": "http://t.co/JnrSPmvLcK",
+          "id_str": "629291439042621440",
+          "media_url": "http://pbs.twimg.com/media/CLuxOsxUcAAsjZI.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629291439642574848,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 14:02:25 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 22953,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "088253",
+  "screen_name": "RepKarenBass",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199025462/Twitter.png"
+}

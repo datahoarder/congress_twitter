@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "crapo.senate.gov",
+          "url": "http://t.co/W6cAM2HKzW",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.crapo.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 449,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 26,
+  "location": "Idaho & Washington, D.C.",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+  "notifications": false,
+  "description": "United States Senator for the great state of Idaho.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 771,
+  "id_str": "600463589",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 4144,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/876553191/418ec7fae1de740fb193bd0056893887.jpeg",
+  "id": 600463589,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator Mike Crapo",
+  "profile_use_background_image": true,
+  "url": "http://t.co/W6cAM2HKzW",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+  "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "#EPA overreach is out of control and costly. #Idaho\u2019s farmers, ranchers deserve better. More here: http://t.co/Ms8XW20qXb #idpol",
+    "id_str": "629715737075167232",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "Idaho",
+          "indices": [
+            45,
+            51
+          ]
+        },
+        {
+          "text": "idpol",
+          "indices": [
+            122,
+            128
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/BjH2Rf",
+          "url": "http://t.co/Ms8XW20qXb",
+          "indices": [
+            99,
+            121
+          ],
+          "expanded_url": "http://goo.gl/BjH2Rf"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629715737075167232,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 18:08:25 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 11974,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "MikeCrapo",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/876553191/418ec7fae1de740fb193bd0056893887.jpeg"
+}

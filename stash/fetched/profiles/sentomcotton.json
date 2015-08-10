@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "cotton.senate.gov",
+          "url": "http://t.co/gR93LLUqRV",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://cotton.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 366,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 2,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/968650362/1366831169",
+  "notifications": false,
+  "description": "U.S. Senator proudly serving the state of Arkansas.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 888,
+  "id_str": "968650362",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 2466,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/890572073/63337e0a44c53345a9cb64bef07788ff.jpeg",
+  "id": 968650362,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Tom Cotton",
+  "profile_use_background_image": true,
+  "url": "http://t.co/gR93LLUqRV",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/568884049058357248/M-VeVL9u_normal.jpeg",
+  "created_at": "Sat Nov 24 19:33:10 +0000 2012",
+  "profile_background_color": "022330",
+  "status": {
+    "id": 630016098004549632,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": ".@PressSec For the record, I was in Iraq-not Iraq war debate-trying to protect troops from Iranian bombs. We were lucky; 100s others weren't",
+    "id_str": "630016098004549632",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 14:01:57 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 54,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 113420831,
+          "indices": [
+            1,
+            10
+          ],
+          "screen_name": "PressSec",
+          "id_str": "113420831",
+          "name": "Josh Earnest"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 74,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": true,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 32034,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenTomCotton",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/890572073/63337e0a44c53345a9cb64bef07788ff.jpeg"
+}

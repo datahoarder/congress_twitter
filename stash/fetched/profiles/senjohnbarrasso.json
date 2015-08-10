@@ -1,0 +1,244 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "barrasso.senate.gov",
+          "url": "http://t.co/oAKWpUrAWS",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://barrasso.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 487,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 1,
+  "location": "",
+  "notifications": false,
+  "description": "U.S. Senator for the great state of Wyoming and @Senate_RPC Chairman.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 1239,
+  "id_str": "202206694",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 2676,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/161136571/background.jpg",
+  "id": 202206694,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -21600,
+  "name": "Sen. John Barrasso",
+  "profile_use_background_image": true,
+  "url": "http://t.co/oAKWpUrAWS",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+  "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @Senate_RPC: The #CleanPowerGrab is even worse than the draft rule proposed 14 months ago. http://t.co/imdvlpibUv http://t.co/CkMnado83v",
+    "id_str": "629279801325547520",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 114896223,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "Senate_RPC",
+          "id_str": "114896223",
+          "name": "Senate RPC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerGrab",
+          "indices": [
+            20,
+            35
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1SPzsiI",
+          "url": "http://t.co/imdvlpibUv",
+          "indices": [
+            94,
+            116
+          ],
+          "expanded_url": "http://1.usa.gov/1SPzsiI"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629128766611193856,
+          "media_url": "http://pbs.twimg.com/media/CLsdR6vXAAAzVcT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLsdR6vXAAAzVcT.jpg",
+          "expanded_url": "http://twitter.com/Senate_RPC/status/629128766762131457/photo/1",
+          "url": "http://t.co/CkMnado83v",
+          "display_url": "pic.twitter.com/CkMnado83v",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 178,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 314,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 536,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 114896223,
+          "source_user_id_str": "114896223",
+          "indices": [
+            117,
+            139
+          ],
+          "type": "photo",
+          "source_status_id": 629128766762131457,
+          "source_status_id_str": "629128766762131457",
+          "id_str": "629128766611193856"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629279801325547520,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:16:10 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 4,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "The #CleanPowerGrab is even worse than the draft rule proposed 14 months ago. http://t.co/imdvlpibUv http://t.co/CkMnado83v",
+      "id_str": "629128766762131457",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerGrab",
+            "indices": [
+              4,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "1.usa.gov/1SPzsiI",
+            "url": "http://t.co/imdvlpibUv",
+            "indices": [
+              78,
+              100
+            ],
+            "expanded_url": "http://1.usa.gov/1SPzsiI"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629128766611193856,
+            "indices": [
+              101,
+              123
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLsdR6vXAAAzVcT.jpg",
+            "expanded_url": "http://twitter.com/Senate_RPC/status/629128766762131457/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "small": {
+                "h": 178,
+                "resize": "fit",
+                "w": 340
+              },
+              "medium": {
+                "h": 314,
+                "resize": "fit",
+                "w": 600
+              },
+              "large": {
+                "h": 536,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/CkMnado83v",
+            "url": "http://t.co/CkMnado83v",
+            "id_str": "629128766611193856",
+            "media_url": "http://pbs.twimg.com/media/CLsdR6vXAAAzVcT.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629128766762131457,
+      "truncated": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 03:16:01 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "followers_count": 20815,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "SenJohnBarrasso",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/161136571/background.jpg"
+}

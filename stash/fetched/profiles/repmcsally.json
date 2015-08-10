@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mcsally.house.gov",
+          "url": "http://t.co/uhBWBXn5BB",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mcsally.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 499,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 14,
+  "location": "Southern Arizona",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964949642/1420589553",
+  "notifications": false,
+  "description": "Honored to represent the people of Arizona's Second Congressional District in the U.S House of Representatives.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 115,
+  "id_str": "2964949642",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/555153275821887489/W5U7tZVg_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 551,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2964949642,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Martha McSally",
+  "profile_use_background_image": false,
+  "url": "http://t.co/uhBWBXn5BB",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/555153275821887489/W5U7tZVg_normal.jpeg",
+  "created_at": "Tue Jan 06 20:39:37 +0000 2015",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @sahuaritasun: REMINDER: A representative from U.S. Rep. Martha McSally's office will be in Sahuarita from 10:30 a.m. to noon... http://\u2026",
+    "id_str": "629743630148874240",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 24293488,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "sahuaritasun",
+          "id_str": "24293488",
+          "name": "Sahuarita Sun"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "fb.me/8uRdEzTyO",
+          "url": "http://t.co/IwQkrrFSeS",
+          "indices": [
+            139,
+            140
+          ],
+          "expanded_url": "http://fb.me/8uRdEzTyO"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629743630148874240,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 19:59:16 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "REMINDER: A representative from U.S. Rep. Martha McSally's office will be in Sahuarita from 10:30 a.m. to noon... http://t.co/IwQkrrFSeS",
+      "id_str": "629741321377423360",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "fb.me/8uRdEzTyO",
+            "url": "http://t.co/IwQkrrFSeS",
+            "indices": [
+              114,
+              136
+            ],
+            "expanded_url": "http://fb.me/8uRdEzTyO"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629741321377423360,
+      "truncated": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 19:50:05 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 2068,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepMcSally",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

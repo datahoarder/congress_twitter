@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "hill.house.gov",
+          "url": "http://t.co/TggD8sC0rY",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://hill.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 473,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 44,
+  "location": "Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953974395/1420663990",
+  "notifications": false,
+  "description": "Official account for Rep French Hill. Ninth generation Arkansan and Little Rock businessman proudly representing Arkansas's Second Congressional District. #AR2",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 96,
+  "id_str": "2953974395",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552219329576460288/xomEwSb7_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 444,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2953974395,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "French Hill",
+  "profile_use_background_image": false,
+  "url": "http://t.co/TggD8sC0rY",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552219329576460288/xomEwSb7_normal.jpeg",
+  "created_at": "Wed Dec 31 23:54:58 +0000 2014",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "A rare moment: I am in complete agreement with @SenSchumer. #Iran isn't deserving of our trust. http://t.co/h8BuJcAi8V",
+    "id_str": "629707932905668609",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 17494010,
+          "indices": [
+            47,
+            58
+          ],
+          "screen_name": "SenSchumer",
+          "id_str": "17494010",
+          "name": "Chuck Schumer"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            60,
+            65
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "edition.cnn.com/2015/08/06/pol\u2026",
+          "url": "http://t.co/h8BuJcAi8V",
+          "indices": [
+            96,
+            118
+          ],
+          "expanded_url": "http://edition.cnn.com/2015/08/06/politics/chuck-schumer-oppose-iran-nuclear-deal/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629707932905668609,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:37:25 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1608,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepFrenchHill",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

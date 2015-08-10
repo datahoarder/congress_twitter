@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "schiff.house.gov",
+          "url": "http://t.co/Ctv7QpWmtF",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://schiff.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1699,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 80,
+  "location": "Burbank, CA",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29501253/1398528893",
+  "notifications": false,
+  "description": "Representing California's 28th Congressional District and Ranking Member of the House Intelligence Committee.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 739,
+  "id_str": "29501253",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553289858924285952/asUU5hh9_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2480,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 29501253,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Adam Schiff",
+  "profile_use_background_image": false,
+  "url": "http://t.co/Ctv7QpWmtF",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553289858924285952/asUU5hh9_normal.png",
+  "created_at": "Tue Apr 07 17:54:35 +0000 2009",
+  "profile_background_color": "2578B8",
+  "status": {
+    "favorite_count": 42,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Farewell, Jon. Loved watching you and your brilliant brand of satire. Evenings will never be the same. #JonVoyage http://t.co/Wyu1GyPVUm",
+    "id_str": "629488407392055296",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "JonVoyage",
+          "indices": [
+            103,
+            113
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629371113311760384,
+          "indices": [
+            114,
+            136
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLv5sWjW8AAk8pP.jpg",
+          "expanded_url": "http://twitter.com/RepAdamSchiff/status/629488407392055296/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Wyu1GyPVUm",
+          "url": "http://t.co/Wyu1GyPVUm",
+          "id_str": "629371113311760384",
+          "media_url": "http://pbs.twimg.com/media/CLv5sWjW8AAk8pP.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629488407392055296,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 03:05:06 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 33,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 13679,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "2578B8",
+  "screen_name": "RepAdamSchiff",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

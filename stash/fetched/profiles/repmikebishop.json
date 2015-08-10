@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mikebishop.house.gov",
+          "url": "http://t.co/cJYobAueyX",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mikebishop.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 330,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 77,
+  "location": "Rochester, MI",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914571740/1420583102",
+  "notifications": false,
+  "description": "Official account for Congressman Mike Bishop #MI08. Serving on @HouseJudiciary and @EdWorkforce Committees.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 87,
+  "id_str": "2914571740",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/624277709573750784/YjA5LZXV_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 390,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2914571740,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "000000",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Mike Bishop",
+  "profile_use_background_image": false,
+  "url": "http://t.co/cJYobAueyX",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/624277709573750784/YjA5LZXV_normal.jpg",
+  "created_at": "Wed Dec 10 22:19:34 +0000 2014",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Just wrapped up a productive roundtable about local &amp; state issues with #MI08-area State Representatives http://t.co/HRmJoeiaqr",
+    "id_str": "628620596788785152",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "MI08",
+          "indices": [
+            76,
+            81
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628620590606348288,
+          "indices": [
+            109,
+            131
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CLlPGLmWcAAxoMF.jpg",
+          "expanded_url": "http://twitter.com/RepMikeBishop/status/628620596788785152/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 430,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 243,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 734,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/HRmJoeiaqr",
+          "url": "http://t.co/HRmJoeiaqr",
+          "id_str": "628620590606348288",
+          "media_url": "http://pbs.twimg.com/media/CLlPGLmWcAAxoMF.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628620596788785152,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Tue Aug 04 17:36:44 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 1572,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "3B94D9",
+  "screen_name": "RepMikeBishop",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

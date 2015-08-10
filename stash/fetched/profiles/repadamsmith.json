@@ -1,0 +1,230 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "adamsmith.house.gov",
+          "url": "http://t.co/bEAIcyoDki",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://adamsmith.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1404,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 5,
+  "location": "Washington's 9th District",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/58928690/1328309192",
+  "notifications": false,
+  "description": "Proudly serving Washington State's 9th District. Ranking Member of the House Armed Services Committee @HASCDemocrats",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 840,
+  "id_str": "58928690",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554717159/Adam_Official_Photo_small_2009_normal.JPG",
+  "profile_background_tile": false,
+  "statuses_count": 1681,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 58928690,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Rep. Adam Smith",
+  "profile_use_background_image": true,
+  "url": "http://t.co/bEAIcyoDki",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1554717159/Adam_Official_Photo_small_2009_normal.JPG",
+  "created_at": "Tue Jul 21 21:31:55 +0000 2009",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @Jim_Brunner: .@RepAdamSmith: dad was ramp worker at SeaTac - $16/hr w. 6 wks vacation in '85. Same job now: min. wage, no benefits http\u2026",
+    "id_str": "630123137666052096",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 31198756,
+          "indices": [
+            3,
+            15
+          ],
+          "screen_name": "Jim_Brunner",
+          "id_str": "31198756",
+          "name": "Jim Brunner"
+        },
+        {
+          "id": 58928690,
+          "indices": [
+            18,
+            31
+          ],
+          "screen_name": "RepAdamSmith",
+          "id_str": "58928690",
+          "name": "Rep. Adam Smith"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 630122962444619776,
+          "media_url": "http://pbs.twimg.com/media/CL6lfu1UEAAFYMJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CL6lfu1UEAAFYMJ.jpg",
+          "expanded_url": "http://twitter.com/Jim_Brunner/status/630122973035245568/photo/1",
+          "url": "http://t.co/j4WMas719H",
+          "display_url": "pic.twitter.com/j4WMas719H",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 325,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 574,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 981,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "source_user_id": 31198756,
+          "source_user_id_str": "31198756",
+          "indices": [
+            139,
+            140
+          ],
+          "type": "photo",
+          "source_status_id": 630122973035245568,
+          "source_status_id_str": "630122973035245568",
+          "id_str": "630122962444619776"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630123137666052096,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 21:07:17 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 8,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ".@RepAdamSmith: dad was ramp worker at SeaTac - $16/hr w. 6 wks vacation in '85. Same job now: min. wage, no benefits http://t.co/j4WMas719H",
+      "id_str": "630122973035245568",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 58928690,
+            "indices": [
+              1,
+              14
+            ],
+            "screen_name": "RepAdamSmith",
+            "id_str": "58928690",
+            "name": "Rep. Adam Smith"
+          }
+        ],
+        "hashtags": [],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 630122962444619776,
+            "indices": [
+              118,
+              140
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CL6lfu1UEAAFYMJ.jpg",
+            "expanded_url": "http://twitter.com/Jim_Brunner/status/630122973035245568/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "small": {
+                "h": 325,
+                "resize": "fit",
+                "w": 340
+              },
+              "medium": {
+                "h": 574,
+                "resize": "fit",
+                "w": 600
+              },
+              "large": {
+                "h": 981,
+                "resize": "fit",
+                "w": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/j4WMas719H",
+            "url": "http://t.co/j4WMas719H",
+            "id_str": "630122962444619776",
+            "media_url": "http://pbs.twimg.com/media/CL6lfu1UEAAFYMJ.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630122973035245568,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 21:06:38 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Quito",
+  "followers_count": 9967,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepAdamSmith",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

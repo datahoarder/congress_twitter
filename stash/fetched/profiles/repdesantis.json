@@ -1,0 +1,323 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "DeSantis.House.Gov",
+          "url": "http://t.co/4sM6hwE6",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://DeSantis.House.Gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "Facebook.com/RepDeSantis",
+          "url": "http://t.co/WKpKHHXK",
+          "indices": [
+            135,
+            155
+          ],
+          "expanded_url": "http://www.Facebook.com/RepDeSantis"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1429,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 30,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058807868/1361805445",
+  "notifications": false,
+  "description": "The Official Twitter account for Congressman DeSantis. Proudly representing Florida's 6th District. Stay connected through Facebook at http://t.co/WKpKHHXK!",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 484,
+  "id_str": "1058807868",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3117010951/c752457942317fd0ba6f44dbe722964a_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1525,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1058807868,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Ron DeSantis",
+  "profile_use_background_image": false,
+  "url": "http://t.co/4sM6hwE6",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3117010951/c752457942317fd0ba6f44dbe722964a_normal.jpeg",
+  "created_at": "Thu Jan 03 21:20:17 +0000 2013",
+  "profile_background_color": "B31616",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @angels4patients: BIG Heartfelt thanks @RepDeSantis @RareAdvocates Robert Mons for your time &amp; assistance #raredisease #Compassion http:\u2026",
+    "id_str": "629664041825341440",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2946200469,
+          "indices": [
+            3,
+            19
+          ],
+          "screen_name": "angels4patients",
+          "id_str": "2946200469",
+          "name": "Angels4Patients"
+        },
+        {
+          "id": 1058807868,
+          "indices": [
+            42,
+            54
+          ],
+          "screen_name": "RepDeSantis",
+          "id_str": "1058807868",
+          "name": "Ron DeSantis"
+        },
+        {
+          "id": 705228997,
+          "indices": [
+            55,
+            69
+          ],
+          "screen_name": "RareAdvocates",
+          "id_str": "705228997",
+          "name": "RDLA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "raredisease",
+          "indices": [
+            113,
+            125
+          ]
+        },
+        {
+          "text": "Compassion",
+          "indices": [
+            126,
+            137
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629430753558839296,
+          "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+          "url": "http://t.co/iYwvyfI8mT",
+          "display_url": "pic.twitter.com/iYwvyfI8mT",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            }
+          },
+          "source_user_id": 2946200469,
+          "source_user_id_str": "2946200469",
+          "indices": [
+            143,
+            144
+          ],
+          "type": "photo",
+          "source_status_id": 629430754141958145,
+          "source_status_id_str": "629430754141958145",
+          "id_str": "629430753558839296"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629664041825341440,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:43:00 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 1,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "BIG Heartfelt thanks @RepDeSantis @RareAdvocates Robert Mons for your time &amp; assistance #raredisease #Compassion http://t.co/iYwvyfI8mT",
+      "id_str": "629430754141958145",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 1058807868,
+            "indices": [
+              21,
+              33
+            ],
+            "screen_name": "RepDeSantis",
+            "id_str": "1058807868",
+            "name": "Ron DeSantis"
+          },
+          {
+            "id": 705228997,
+            "indices": [
+              34,
+              48
+            ],
+            "screen_name": "RareAdvocates",
+            "id_str": "705228997",
+            "name": "RDLA"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "raredisease",
+            "indices": [
+              92,
+              104
+            ]
+          },
+          {
+            "text": "Compassion",
+            "indices": [
+              105,
+              116
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 629430753558839296,
+            "indices": [
+              117,
+              139
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 337,
+                "resize": "fit",
+                "w": 600
+              },
+              "small": {
+                "h": 191,
+                "resize": "fit",
+                "w": 340
+              },
+              "large": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              }
+            },
+            "display_url": "pic.twitter.com/iYwvyfI8mT",
+            "url": "http://t.co/iYwvyfI8mT",
+            "id_str": "629430753558839296",
+            "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629430754141958145,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": {
+        "id": "4ec01c9dbc693497",
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "name": "Florida",
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -87.634643,
+                24.396308
+              ],
+              [
+                -79.974307,
+                24.396308
+              ],
+              [
+                -79.974307,
+                31.001056
+              ],
+              [
+                -87.634643,
+                31.001056
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "country": "United States",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+        "contained_within": [],
+        "place_type": "admin"
+      },
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 23:16:00 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 6708,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepDeSantis",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

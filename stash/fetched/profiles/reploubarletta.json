@@ -1,0 +1,118 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "barletta.house.gov",
+          "url": "http://t.co/2bjJjbvMJ2",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://barletta.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1685,
+  "verified": true,
+  "profile_text_color": "F8F8F8",
+  "favourites_count": 1,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/239871673/1359145975",
+  "notifications": false,
+  "description": "Proudly representing Pennsylvania's 11th Congressional District.",
+  "profile_sidebar_border_color": "23233D",
+  "protected": false,
+  "listed_count": 558,
+  "id_str": "239871673",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000575978494/4c44fc43515e33320fa3013a5642ea97_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 1320,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377796301/x171c2955750f7fb7ee31ce27d17150d.jpg",
+  "id": 239871673,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "413E4F",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Lou Barletta",
+  "profile_use_background_image": true,
+  "url": "http://t.co/2bjJjbvMJ2",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000575978494/4c44fc43515e33320fa3013a5642ea97_normal.jpeg",
+  "created_at": "Tue Jan 18 16:37:10 +0000 2011",
+  "profile_background_color": "05240C",
+  "status": {
+    "favorite_count": 2,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Major development as Congress considers #IranDeal. Principled stand against agreement by @SenSchumer.  https://t.co/z8raC2Ve2z",
+    "id_str": "630029424017190912",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 17494010,
+          "indices": [
+            89,
+            100
+          ],
+          "screen_name": "SenSchumer",
+          "id_str": "17494010",
+          "name": "Chuck Schumer"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            40,
+            49
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/senschumer/sta\u2026",
+          "url": "https://t.co/z8raC2Ve2z",
+          "indices": [
+            103,
+            126
+          ],
+          "expanded_url": "https://twitter.com/senschumer/status/629477105621987328"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630029424017190912,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 14:54:54 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 8786,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "6F90A3",
+  "screen_name": "RepLouBarletta",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377796301/x171c2955750f7fb7ee31ce27d17150d.jpg"
+}

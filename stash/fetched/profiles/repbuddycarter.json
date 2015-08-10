@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "buddycarter.house.gov",
+          "url": "https://t.co/zGq0mX8dEy",
+          "indices": [
+            0,
+            23
+          ],
+          "expanded_url": "https://buddycarter.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 171,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 16,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2973870195/1421023289",
+  "notifications": false,
+  "description": "Proudly serving Georgia's 1st Congressional District",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 67,
+  "id_str": "2973870195",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 269,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 2973870195,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": null,
+  "name": "Buddy Carter",
+  "profile_use_background_image": true,
+  "url": "https://t.co/zGq0mX8dEy",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/554437784912400384/N6PPUUz2_normal.jpeg",
+  "created_at": "Mon Jan 12 00:33:43 +0000 2015",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 4,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "It was an honor to participate in a very special ceremony honoring Vietnam War veterans last night http://t.co/eN90Yb5gr5",
+    "id_str": "629661388781322240",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/1MViHhu",
+          "url": "http://t.co/eN90Yb5gr5",
+          "indices": [
+            99,
+            121
+          ],
+          "expanded_url": "http://bit.ly/1MViHhu"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629661388781322240,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 14:32:28 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": null,
+  "followers_count": 1133,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepBuddyCarter",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

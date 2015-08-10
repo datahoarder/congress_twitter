@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "thune.senate.gov",
+          "url": "http://t.co/OiwOiAFGGw",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://thune.senate.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 321,
+  "verified": true,
+  "profile_text_color": "808080",
+  "favourites_count": 17,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1398700805",
+  "notifications": false,
+  "description": "U.S. Senator John Thune, South Dakota. Chairman of @Senate_GOPs & @CommerceGOP. Father. Husband. Avid Outdoorsman. Sports Fan.",
+  "profile_sidebar_border_color": "990000",
+  "protected": false,
+  "listed_count": 1344,
+  "id_str": "296361085",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347910653/JRTTwitterProfile_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 2472,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/250481479/TwitterBadlands.jpg",
+  "id": 296361085,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "333333",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Senator John Thune",
+  "profile_use_background_image": true,
+  "url": "http://t.co/OiwOiAFGGw",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1347910653/JRTTwitterProfile_normal.jpg",
+  "created_at": "Tue May 10 16:41:48 +0000 2011",
+  "profile_background_color": "000000",
+  "status": {
+    "favorite_count": 11,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Talk about having your own security.  Expecting big things this year from #65 at #goyotes. https://t.co/gt16d6dzKa",
+    "id_str": "630193443898142721",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "goyotes",
+          "indices": [
+            81,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/sdcoyotes/stat\u2026",
+          "url": "https://t.co/gt16d6dzKa",
+          "indices": [
+            91,
+            114
+          ],
+          "expanded_url": "https://twitter.com/sdcoyotes/status/630023838147833856"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630193443898142721,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 01:46:40 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 36490,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "990000",
+  "screen_name": "SenJohnThune",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/250481479/TwitterBadlands.jpg"
+}

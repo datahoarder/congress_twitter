@@ -1,0 +1,216 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "sanford.house.gov",
+          "url": "http://t.co/nPQcn4g3sC",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://sanford.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "display_url": "facebook.com/repsanfordsc",
+          "url": "http://t.co/B7kL7zlv7I",
+          "indices": [
+            85,
+            107
+          ],
+          "expanded_url": "http://www.facebook.com/repsanfordsc"
+        }
+      ]
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 254,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 14,
+  "location": "SC-01",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1499993378/1398887724",
+  "notifications": false,
+  "description": "Proudly representing South Carolina's First Congressional District. Find me on FB at http://t.co/B7kL7zlv7I",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 156,
+  "id_str": "1499993378",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/618518508217991168/ZrumuIad_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 273,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1499993378,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Mark Sanford",
+  "profile_use_background_image": false,
+  "url": "http://t.co/nPQcn4g3sC",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/618518508217991168/ZrumuIad_normal.jpg",
+  "created_at": "Tue Jun 11 01:55:44 +0000 2013",
+  "profile_background_color": "ABB8C2",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @JournalScene: .@RepSanfordSC on a 'listening tour' today. At @coastalcoffee now, at Ladson Bi-Lo at 10:20. #sville https://t.co/H2aWjT0\u2026",
+    "id_str": "628928372765294592",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 27031183,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "JournalScene",
+          "id_str": "27031183",
+          "name": "Journal Scene"
+        },
+        {
+          "id": 1499993378,
+          "indices": [
+            19,
+            32
+          ],
+          "screen_name": "RepSanfordSC",
+          "id_str": "1499993378",
+          "name": "Mark Sanford"
+        },
+        {
+          "id": 207553732,
+          "indices": [
+            65,
+            79
+          ],
+          "screen_name": "coastalcoffee",
+          "id_str": "207553732",
+          "name": "Coastal Coffee"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sville",
+          "indices": [
+            111,
+            118
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "twitter.com/mkreber/status\u2026",
+          "url": "https://t.co/H2aWjT0Xu7",
+          "indices": [
+            119,
+            140
+          ],
+          "expanded_url": "https://twitter.com/mkreber/status/628925007717113856"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628928372765294592,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Wed Aug 05 13:59:43 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": ".@RepSanfordSC on a 'listening tour' today. At @coastalcoffee now, at Ladson Bi-Lo at 10:20. #sville https://t.co/H2aWjT0Xu7",
+      "id_str": "628925648489328640",
+      "entities": {
+        "user_mentions": [
+          {
+            "id": 1499993378,
+            "indices": [
+              1,
+              14
+            ],
+            "screen_name": "RepSanfordSC",
+            "id_str": "1499993378",
+            "name": "Mark Sanford"
+          },
+          {
+            "id": 207553732,
+            "indices": [
+              47,
+              61
+            ],
+            "screen_name": "coastalcoffee",
+            "id_str": "207553732",
+            "name": "Coastal Coffee"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "sville",
+            "indices": [
+              93,
+              100
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "twitter.com/mkreber/status\u2026",
+            "url": "https://t.co/H2aWjT0Xu7",
+            "indices": [
+              101,
+              124
+            ],
+            "expanded_url": "https://twitter.com/mkreber/status/628925007717113856"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 628925648489328640,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Wed Aug 05 13:48:54 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 2062,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "134CF5",
+  "screen_name": "RepSanfordSC",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

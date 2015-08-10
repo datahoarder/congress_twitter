@@ -1,0 +1,143 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "engel.house.gov",
+          "url": "http://t.co/BVwX9Ov3sA",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://engel.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 608,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 13,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/164007407/1410472796",
+  "notifications": false,
+  "description": "Congressman representing parts of the Bronx and Westchester Counties in New York #NY16",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 536,
+  "id_str": "164007407",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1217,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433324934715015168/OV0E-LLI.jpeg",
+  "id": 164007407,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Eliot Engel",
+  "profile_use_background_image": true,
+  "url": "http://t.co/BVwX9Ov3sA",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523095197983309825/3TdNyI76_normal.jpeg",
+  "created_at": "Wed Jul 07 20:34:17 +0000 2010",
+  "profile_background_color": "EBE6CE",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "id_str": "629287342063288320",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 29450962,
+          "indices": [
+            3,
+            16
+          ],
+          "screen_name": "repjohnlewis",
+          "id_str": "29450962",
+          "name": "John Lewis"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629287342063288320,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 13:46:08 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1793,
+    "coordinates": null,
+    "contributors": null,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "id": 629265088214638592,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "id_str": "629265088214638592",
+      "in_reply_to_user_id_str": null,
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015",
+      "favorited": false,
+      "geo": null,
+      "retweeted": false,
+      "lang": "en",
+      "favorite_count": 1462,
+      "contributors": null,
+      "coordinates": null,
+      "in_reply_to_screen_name": null,
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "urls": [],
+        "symbols": []
+      },
+      "retweet_count": 1793,
+      "in_reply_to_status_id": null,
+      "in_reply_to_user_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 8532,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepEliotEngel",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433324934715015168/OV0E-LLI.jpeg"
+}

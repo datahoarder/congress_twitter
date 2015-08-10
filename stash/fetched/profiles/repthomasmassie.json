@@ -1,0 +1,229 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "massie.house.gov",
+          "url": "http://t.co/p5MwpsoW",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://massie.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 568,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 290,
+  "location": "",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/975200486/1367276184",
+  "notifications": false,
+  "description": "U.S. Representative for Kentucky's 4th District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 624,
+  "id_str": "975200486",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3593159634/e158b5452b80aa99e9d1c2efd0fc2432_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1691,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/855877392/1553f376c7e913278cb2691aed5cc4aa.jpeg",
+  "id": 975200486,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Thomas Massie",
+  "profile_use_background_image": true,
+  "url": "http://t.co/p5MwpsoW",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3593159634/e158b5452b80aa99e9d1c2efd0fc2432_normal.jpeg",
+  "created_at": "Wed Nov 28 02:33:14 +0000 2012",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @KyTodayEditor: Congressman Massie says funding to Planned Parenthood should be cut immediately &gt;&gt;&gt; http://t.co/rUTLJjIJ37 http://t.co/W\u2026",
+    "id_str": "628261601062170624",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3240113142,
+          "indices": [
+            3,
+            17
+          ],
+          "screen_name": "KyTodayEditor",
+          "id_str": "3240113142",
+          "name": "Kentucky Today"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/Qr4tE",
+          "url": "http://t.co/rUTLJjIJ37",
+          "indices": [
+            112,
+            134
+          ],
+          "expanded_url": "http://ow.ly/Qr4tE"
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 628257523691163648,
+          "media_url": "http://pbs.twimg.com/media/CLgE458UEAAihWq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLgE458UEAAihWq.jpg",
+          "expanded_url": "http://twitter.com/KyTodayEditor/status/628257523749908481/photo/1",
+          "url": "http://t.co/WyL40Gx8gh",
+          "display_url": "pic.twitter.com/WyL40Gx8gh",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 450,
+              "resize": "fit",
+              "w": 300
+            },
+            "small": {
+              "h": 450,
+              "resize": "fit",
+              "w": 300
+            },
+            "large": {
+              "h": 450,
+              "resize": "fit",
+              "w": 300
+            }
+          },
+          "source_user_id": 3240113142,
+          "source_user_id_str": "3240113142",
+          "indices": [
+            135,
+            149
+          ],
+          "type": "photo",
+          "source_status_id": 628257523749908481,
+          "source_status_id_str": "628257523749908481",
+          "id_str": "628257523691163648"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 628261601062170624,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Mon Aug 03 17:50:12 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 23,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 26,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Congressman Massie says funding to Planned Parenthood should be cut immediately &gt;&gt;&gt; http://t.co/rUTLJjIJ37 http://t.co/WyL40Gx8gh",
+      "id_str": "628257523749908481",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/Qr4tE",
+            "url": "http://t.co/rUTLJjIJ37",
+            "indices": [
+              93,
+              115
+            ],
+            "expanded_url": "http://ow.ly/Qr4tE"
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 628257523691163648,
+            "indices": [
+              116,
+              138
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/CLgE458UEAAihWq.jpg",
+            "expanded_url": "http://twitter.com/KyTodayEditor/status/628257523749908481/photo/1",
+            "sizes": {
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              },
+              "medium": {
+                "h": 450,
+                "resize": "fit",
+                "w": 300
+              },
+              "small": {
+                "h": 450,
+                "resize": "fit",
+                "w": 300
+              },
+              "large": {
+                "h": 450,
+                "resize": "fit",
+                "w": 300
+              }
+            },
+            "display_url": "pic.twitter.com/WyL40Gx8gh",
+            "url": "http://t.co/WyL40Gx8gh",
+            "id_str": "628257523691163648",
+            "media_url": "http://pbs.twimg.com/media/CLgE458UEAAihWq.jpg",
+            "type": "photo"
+          }
+        ]
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 628257523749908481,
+      "truncated": false,
+      "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Mon Aug 03 17:34:00 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 23,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 13711,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepThomasMassie",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/855877392/1553f376c7e913278cb2691aed5cc4aa.jpeg"
+}

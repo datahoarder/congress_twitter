@@ -1,0 +1,138 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "schrader.house.gov",
+          "url": "http://t.co/idnXprkzal",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://schrader.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 711,
+  "verified": true,
+  "profile_text_color": "000000",
+  "favourites_count": 9,
+  "location": "Oregon",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20545793/1363021923",
+  "notifications": false,
+  "description": "Proudly representing Oregon's 5th Congressional District",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 897,
+  "id_str": "20545793",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000699231986/e1da7064726a13bfda529d18efc048a8_normal.jpeg",
+  "profile_background_tile": true,
+  "statuses_count": 1351,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/812095553/b3c3076bb8e810c122d79ebf3aacb768.jpeg",
+  "id": 20545793,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "99CC33",
+  "follow_request_sent": false,
+  "utc_offset": -25200,
+  "name": "Rep. Kurt Schrader",
+  "profile_use_background_image": true,
+  "url": "http://t.co/idnXprkzal",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000699231986/e1da7064726a13bfda529d18efc048a8_normal.jpeg",
+  "created_at": "Tue Feb 10 21:04:21 +0000 2009",
+  "profile_background_color": "F7F7F7",
+  "status": {
+    "favorite_count": 3,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Thank you to the @USChamber for awarding me the Spirit of Enterprise Award. Supporting OR's economy is my #1 priority http://t.co/C75Dh4lrvX",
+    "id_str": "629703224606466048",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 85606078,
+          "indices": [
+            17,
+            27
+          ],
+          "screen_name": "USChamber",
+          "id_str": "85606078",
+          "name": "U.S. Chamber"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629703223192891392,
+          "indices": [
+            118,
+            140
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL0nvsRUsAA7vvy.jpg",
+          "expanded_url": "http://twitter.com/RepSchrader/status/629703224606466048/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "small": {
+              "h": 253,
+              "resize": "fit",
+              "w": 340
+            },
+            "medium": {
+              "h": 448,
+              "resize": "fit",
+              "w": 600
+            },
+            "large": {
+              "h": 764,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/C75Dh4lrvX",
+          "url": "http://t.co/C75Dh4lrvX",
+          "id_str": "629703223192891392",
+          "media_url": "http://pbs.twimg.com/media/CL0nvsRUsAA7vvy.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629703224606466048,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 17:18:42 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Pacific Time (US & Canada)",
+  "followers_count": 9651,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "223800",
+  "screen_name": "RepSchrader",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/812095553/b3c3076bb8e810c122d79ebf3aacb768.jpeg"
+}

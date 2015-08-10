@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "fb.com/betoorourketx16",
+          "url": "http://t.co/Qj93LtfQeE",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://fb.com/betoorourketx16"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 475,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 586,
+  "location": "El Paso, TX",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134292500/1437402214",
+  "notifications": false,
+  "description": "US Congress - El Paso",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 321,
+  "id_str": "1134292500",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/623131690953744384/C1Cb2bwv_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 2892,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467059299584192512/PoPwkbnI.jpeg",
+  "id": 1134292500,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Rep. Beto O'Rourke",
+  "profile_use_background_image": false,
+  "url": "http://t.co/Qj93LtfQeE",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/623131690953744384/C1Cb2bwv_normal.png",
+  "created_at": "Wed Jan 30 14:52:51 +0000 2013",
+  "profile_background_color": "F5F5F5",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @politico: On Saturday, more than 900 American and Mexican runners raced back and forth across the border http://t.co/vlu0cEyQE9",
+    "id_str": "630178222622179328",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 9300262,
+          "indices": [
+            3,
+            12
+          ],
+          "screen_name": "politico",
+          "id_str": "9300262",
+          "name": "POLITICO"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "politi.co/1hqisyK",
+          "url": "http://t.co/vlu0cEyQE9",
+          "indices": [
+            109,
+            131
+          ],
+          "expanded_url": "http://politi.co/1hqisyK"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630178222622179328,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sun Aug 09 00:46:11 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 47,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 32,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "On Saturday, more than 900 American and Mexican runners raced back and forth across the border http://t.co/vlu0cEyQE9",
+      "id_str": "630089585117298688",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "politi.co/1hqisyK",
+            "url": "http://t.co/vlu0cEyQE9",
+            "indices": [
+              95,
+              117
+            ],
+            "expanded_url": "http://politi.co/1hqisyK"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 630089585117298688,
+      "truncated": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Sat Aug 08 18:53:58 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 47,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 12120,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "0693C2",
+  "screen_name": "RepBetoORourke",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467059299584192512/PoPwkbnI.jpeg"
+}

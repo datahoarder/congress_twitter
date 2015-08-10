@@ -1,0 +1,107 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "welch.house.gov",
+          "url": "http://t.co/P7VlnuEP0v",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://welch.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 1788,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 55,
+  "location": "Vermont and Washington, DC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1410590874/1396980044",
+  "notifications": false,
+  "description": "Official Twitter Account for Congressman Peter Welch, proudly representing the great state of Vermont in the U.S. House of Representatives.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 255,
+  "id_str": "1410590874",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 813,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434448409278164992/nnv5fHwC.jpeg",
+  "id": 1410590874,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Rep. Peter Welch",
+  "profile_use_background_image": true,
+  "url": "http://t.co/P7VlnuEP0v",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593413173455257600/o0GKZGhi_normal.jpg",
+  "created_at": "Tue May 07 16:10:47 +0000 2013",
+  "profile_background_color": "F2FBFF",
+  "status": {
+    "id": 629488399028633600,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Thanks for the laughs &amp; for consistently calling out the greatest minds of the 18th century here in Congress, Jon! #JonVoyage @TheDailyShow",
+    "id_str": "629488399028633600",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 03:05:04 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 8,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 158414847,
+          "indices": [
+            130,
+            143
+          ],
+          "screen_name": "TheDailyShow",
+          "id_str": "158414847",
+          "name": "The Daily Show"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "JonVoyage",
+          "indices": [
+            119,
+            129
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 3,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 4215,
+  "is_translator": false,
+  "geo_enabled": true,
+  "profile_link_color": "023D1D",
+  "screen_name": "PeterWelch",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434448409278164992/nnv5fHwC.jpeg"
+}

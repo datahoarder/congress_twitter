@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "facebook.com/DianaDeGette",
+          "url": "http://t.co/ADHTXH6MGD",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://www.facebook.com/DianaDeGette"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 11551,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 71,
+  "location": "Denver, CO",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/28599820/1398803462",
+  "notifications": false,
+  "description": "Member of Congress, Colorado's 1st Congressional District. Chief Deputy Whip & member of Energy and Commerce Committee.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 965,
+  "id_str": "28599820",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/461207675305345024/1TC0Se2m_normal.jpeg",
+  "profile_background_tile": false,
+  "statuses_count": 1788,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181612133/ke7mAF2Q.jpeg",
+  "id": 28599820,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "FFFFFF",
+  "follow_request_sent": false,
+  "utc_offset": -21600,
+  "name": "Rep. Diana DeGette",
+  "profile_use_background_image": true,
+  "url": "http://t.co/ADHTXH6MGD",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/461207675305345024/1TC0Se2m_normal.jpeg",
+  "created_at": "Fri Apr 03 16:41:06 +0000 2009",
+  "profile_background_color": "B2DFDA",
+  "status": {
+    "id": 629390734873866241,
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "text": "Wishing Jon Stewart &amp; @TheDailyShow a #jonVoyage. After 16 years of honest (&amp;sometimes biting) commentary, you will be missed by many in #CO",
+    "id_str": "629390734873866241",
+    "in_reply_to_user_id_str": null,
+    "created_at": "Thu Aug 06 20:36:59 +0000 2015",
+    "favorited": false,
+    "geo": null,
+    "retweeted": false,
+    "lang": "en",
+    "favorite_count": 6,
+    "contributors": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 158414847,
+          "indices": [
+            26,
+            39
+          ],
+          "screen_name": "TheDailyShow",
+          "id_str": "158414847",
+          "name": "The Daily Show"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "jonVoyage",
+          "indices": [
+            42,
+            52
+          ]
+        },
+        {
+          "text": "CO",
+          "indices": [
+            145,
+            148
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    },
+    "retweet_count": 3,
+    "in_reply_to_status_id": null,
+    "in_reply_to_user_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Mountain Time (US & Canada)",
+  "followers_count": 14580,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "93A644",
+  "screen_name": "RepDianaDeGette",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181612133/ke7mAF2Q.jpeg"
+}

@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "jasonsmith.house.gov",
+          "url": "http://t.co/dxAOG6A9MK",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://jasonsmith.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 774,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 18,
+  "location": "MO-08",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623308912/1375545324",
+  "notifications": false,
+  "description": "Honored to represent the families of Missouri's 8th Congressional District in the United States House of Representatives.",
+  "profile_sidebar_border_color": "FFFFFF",
+  "protected": false,
+  "listed_count": 210,
+  "id_str": "1623308912",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/591686804236959744/11sTR5eK_normal.png",
+  "profile_background_tile": false,
+  "statuses_count": 1664,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168719985/jp9lYYd3.jpeg",
+  "id": 1623308912,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -10800,
+  "name": "Rep. Jason Smith",
+  "profile_use_background_image": true,
+  "url": "http://t.co/dxAOG6A9MK",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/591686804236959744/11sTR5eK_normal.png",
+  "created_at": "Fri Jul 26 16:13:03 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 6,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "Met with folks in Crawford County about how the gov't can address regs &amp; #taxes that keep their biz from expanding. http://t.co/pQHG9TT8Um",
+    "id_str": "629785840273727489",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "taxes",
+          "indices": [
+            77,
+            83
+          ]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 629785559846752256,
+          "indices": [
+            120,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/CL1yoUNWEAAtRDL.jpg",
+          "expanded_url": "http://twitter.com/RepJasonSmith/status/629785840273727489/photo/1",
+          "sizes": {
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "medium": {
+              "h": 337,
+              "resize": "fit",
+              "w": 600
+            },
+            "small": {
+              "h": 191,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/pQHG9TT8Um",
+          "url": "http://t.co/pQHG9TT8Um",
+          "id_str": "629785559846752256",
+          "media_url": "http://pbs.twimg.com/media/CL1yoUNWEAAtRDL.jpg",
+          "type": "photo"
+        }
+      ]
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629785840273727489,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 22:46:59 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Atlantic Time (Canada)",
+  "followers_count": 3284,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepJasonSmith",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168719985/jp9lYYd3.jpeg"
+}

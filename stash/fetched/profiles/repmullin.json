@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mullin.house.gov",
+          "url": "http://t.co/kI4gVUPg",
+          "indices": [
+            0,
+            20
+          ],
+          "expanded_url": "http://www.mullin.house.gov"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": true,
+  "lang": "en",
+  "friends_count": 1066,
+  "verified": true,
+  "profile_text_color": "333333",
+  "favourites_count": 25,
+  "location": "Oklahoma",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060370282/1431451808",
+  "notifications": false,
+  "description": "Father of five. Small business owner. Honored to represent Oklahoma\u2019s conservative values in Congress.",
+  "profile_sidebar_border_color": "C0DEED",
+  "protected": false,
+  "listed_count": 334,
+  "id_str": "1060370282",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598176618813726720/nBZLDgZC_normal.jpg",
+  "profile_background_tile": false,
+  "statuses_count": 1410,
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "id": 1060370282,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "DDEEF6",
+  "follow_request_sent": false,
+  "utc_offset": -18000,
+  "name": "Markwayne Mullin",
+  "profile_use_background_image": true,
+  "url": "http://t.co/kI4gVUPg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598176618813726720/nBZLDgZC_normal.jpg",
+  "created_at": "Fri Jan 04 12:43:55 +0000 2013",
+  "profile_background_color": "C0DEED",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "We cannot let fundamentally flawed policies keep Americans from achieving their goals. http://t.co/KSItiffA9e",
+    "id_str": "630009394219122688",
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "1.usa.gov/1KUXthu",
+          "url": "http://t.co/KSItiffA9e",
+          "indices": [
+            87,
+            109
+          ],
+          "expanded_url": "http://1.usa.gov/1KUXthu"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 630009394219122688,
+    "truncated": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Sat Aug 08 13:35:19 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Central Time (US & Canada)",
+  "followers_count": 5266,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "0084B4",
+  "screen_name": "RepMullin",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png"
+}

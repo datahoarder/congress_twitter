@@ -1,0 +1,149 @@
+{
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "mchenry.house.gov",
+          "url": "http://t.co/fKHDu4b6V5",
+          "indices": [
+            0,
+            22
+          ],
+          "expanded_url": "http://mchenry.house.gov/"
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "contributors_enabled": false,
+  "default_profile": false,
+  "lang": "en",
+  "friends_count": 3895,
+  "verified": true,
+  "profile_text_color": "3F2827",
+  "favourites_count": 15,
+  "location": "Denver, NC",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/27676828/1354309744",
+  "notifications": false,
+  "description": "I represent the citizens of North Carolina\u2019s 10th District in the United States Congress.",
+  "profile_sidebar_border_color": "000000",
+  "protected": false,
+  "listed_count": 1101,
+  "id_str": "27676828",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253871844/PMC_twitter_normal.jpg",
+  "profile_background_tile": true,
+  "statuses_count": 2878,
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/44751255/Banner_sans_headshot2.jpg",
+  "id": 27676828,
+  "default_profile_image": false,
+  "profile_sidebar_fill_color": "98B9F1",
+  "follow_request_sent": false,
+  "utc_offset": -14400,
+  "name": "Patrick McHenry",
+  "profile_use_background_image": true,
+  "url": "http://t.co/fKHDu4b6V5",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1253871844/PMC_twitter_normal.jpg",
+  "created_at": "Mon Mar 30 16:42:39 +0000 2009",
+  "profile_background_color": "1E4199",
+  "status": {
+    "favorite_count": 0,
+    "in_reply_to_status_id_str": null,
+    "lang": "en",
+    "text": "RT @Lawson_LTN: Congressman Patrick McHenry holds town hall at North Lincoln High. http://t.co/c4VzrAOII9",
+    "id_str": "629674459805413376",
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3066261910,
+          "indices": [
+            3,
+            14
+          ],
+          "screen_name": "Lawson_LTN",
+          "id_str": "3066261910",
+          "name": "Adam Lawson"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "lincolntimesnews.com/2015/08/07/mch\u2026",
+          "url": "http://t.co/c4VzrAOII9",
+          "indices": [
+            83,
+            105
+          ],
+          "expanded_url": "http://www.lincolntimesnews.com/2015/08/07/mchenry-holds-local-town-hall-meeting/"
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "in_reply_to_user_id": null,
+    "id": 629674459805413376,
+    "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "place": null,
+    "in_reply_to_user_id_str": null,
+    "created_at": "Fri Aug 07 15:24:24 +0000 2015",
+    "retweeted": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "contributors": null,
+    "possibly_sensitive": false,
+    "in_reply_to_status_id": null,
+    "retweeted_status": {
+      "favorite_count": 0,
+      "in_reply_to_status_id_str": null,
+      "lang": "en",
+      "text": "Congressman Patrick McHenry holds town hall at North Lincoln High. http://t.co/c4VzrAOII9",
+      "id_str": "629671916702441472",
+      "entities": {
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "display_url": "lincolntimesnews.com/2015/08/07/mch\u2026",
+            "url": "http://t.co/c4VzrAOII9",
+            "indices": [
+              67,
+              89
+            ],
+            "expanded_url": "http://www.lincolntimesnews.com/2015/08/07/mchenry-holds-local-town-hall-meeting/"
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "in_reply_to_user_id": null,
+      "id": 629671916702441472,
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "place": null,
+      "in_reply_to_user_id_str": null,
+      "created_at": "Fri Aug 07 15:14:18 +0000 2015",
+      "retweeted": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "contributors": null,
+      "possibly_sensitive": false,
+      "in_reply_to_status_id": null
+    }
+  },
+  "is_translation_enabled": false,
+  "has_extended_profile": false,
+  "following": false,
+  "time_zone": "Eastern Time (US & Canada)",
+  "followers_count": 14958,
+  "is_translator": false,
+  "geo_enabled": false,
+  "profile_link_color": "C30913",
+  "screen_name": "PatrickMcHenry",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/44751255/Banner_sans_headshot2.jpg"
+}
